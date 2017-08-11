@@ -1,0 +1,1315 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IJq6fUz0361Z0xI+S7YKgs2PnCVofGtCDCG0vz0ABggtokTYtndhozlY30I1gTzm
+ oXrQII4Gzemw/Jx2eIoTYA==
+
+<SEC-DOCUMENT>0000014272-95-000009.txt : 19951119
+<SEC-HEADER>0000014272-95-000009.hdr.sgml : 19951119
+ACCESSION NUMBER:		0000014272-95-000009
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19950930
+FILED AS OF DATE:		19951114
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		95592782
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR THE QUARTERLY PERIOD ENDED 9/30/95
+<TEXT>
+
+
+
+
+
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                           Washington, D.C.  20549
+
+                                  FORM 10-Q
+
+
+            QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                      SECURITIES EXCHANGE ACT OF 1934
+
+             For the quarterly period ended September 30, 1995
+                         Commission File Number 1-1136
+
+
+                         BRISTOL-MYERS SQUIBB COMPANY
+              (Exact name of registrant as specified in its charter)
+ 
+
+            Delaware                                  22-079-0350
+   (State or other jurisdiction of          (IRS Employer Identification No.)
+    incorporation or organization)
+
+
+
+                     345 Park Avenue, New York, N.Y.  10154
+                     (Address of principal executive offices)
+                        Telephone: (212) 546-4000
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.
+
+                      Yes  [ X ]               No  [    ]
+
+
+At September 30, 1995, there were 504,566,630 shares outstanding of the
+Registrant's $.10 par value Common Stock.
+
+
+<PAGE>
+
+
+
+
+                       BRISTOL-MYERS SQUIBB COMPANY
+
+
+                            INDEX TO FORM 10-Q
+
+
+                            September 30, 1995
+
+
+
+                                                            Page No.
+                                                            --------
+Part I - Financial Information:
+
+  Condensed Financial Statements (Unaudited):
+
+  Consolidated Balance Sheet - September 30, 1995
+    and December 31, 1994                                      2 - 3
+
+  Consolidated Statement of Earnings for the three
+    and nine months ended September 30, 1995 and 1994              4
+
+  Consolidated Statement of Cash Flows for the nine
+    months ended September 30, 1995 and 1994                       5
+
+  Management's Discussion and Analysis of Financial
+    Condition and Results of Operations                       6 - 12
+
+
+Part II - Other Information                                  13 - 17
+
+Signatures                                                        18
+
+Exhibit:
+
+  Exhibit 27 - Financial Data Schedule                        E-27-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              - 1 -
+<PAGE>
+                   BRISTOL-MYERS SQUIBB COMPANY
+          CONDENSED CONSOLIDATED BALANCE SHEET - ASSETS
+     (Unaudited, in millions of dollars except share amounts)
+
+
+
+                                          September 30,      December 31,
+                                               1995              1994
+                                          -------------      ------------
+
+Current Assets:
+
+  Cash and cash equivalents                     $ 1,674           $ 1,642
+  Time deposits and marketable
+    securities                                      510               781
+  Receivables, net of allowances                  2,189             2,043
+
+  Finished goods                                    891               781
+  Work in process                                   168               233
+  Raw and packaging materials                       379               383
+                                                -------           -------
+  Inventories                                     1,438             1,397
+
+  Prepaid expenses                                  799               847
+                                                -------           -------
+    Total Current Assets                          6,610             6,710
+                                                -------           -------
+
+
+Property, Plant and Equipment                     6,123             5,836
+
+Less: Accumulated depreciation                    2,333             2,170
+                                                -------           -------
+                                                  3,790             3,666
+                                                -------           -------
+
+
+Insurance Recoverable                               961               968
+
+Excess of cost over net tangible assets
+  received in business acquisitions               1,178               939
+
+Other Assets                                        843               627
+                                                -------           -------
+
+
+  Total Assets                                  $13,382           $12,910
+                                                =======           =======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 - 2 -
+<PAGE>
+                      BRISTOL-MYERS SQUIBB COMPANY
+                CONDENSED CONSOLIDATED BALANCE SHEET -
+                  LIABILITIES AND STOCKHOLDERS' EQUITY
+        (Unaudited, in millions of dollars except share amounts)
+
+
+
+                                            September 30,    December 31,
+                                                 1995            1994
+                                            -------------    ------------
+Current Liabilities:
+
+  Short-term borrowings                            $  699         $   725
+  Accounts payable                                    759             693
+  Accrued expenses                                  1,720           1,481
+  Product liability                                   296             635
+  U.S. and foreign income taxes
+    payable                                           737             740
+                                                  -------         -------
+    Total Current Liabilities                       4,211           4,274
+
+
+Product Liability                                   1,224           1,201
+
+Other Liabilities                                     998           1,087
+
+Long-Term Debt                                        632             644
+                                                  -------         -------
+    Total Liabilities                               7,065           7,206
+                                                  -------         -------
+Stockholders' Equity:
+
+  Preferred stock, $2 convertible series:
+    Authorized 10 million shares; issued
+    and outstanding 19,552 in 1995 and
+    21,857 in 1994, liquidation value
+    of $50 per share                                    -               -
+
+  Common stock, par value of $.10 per share:
+    Authorized 1.5 billion shares; issued
+    540,183,404 in 1995 and 540,173,669
+    in 1994                                            54              54
+
+  Capital in excess of par value of
+    stock                                             383             397
+
+  Cumulative translation adjustments                 (316)           (301)
+
+  Retained earnings                                 8,431           7,600
+                                                  -------         -------
+                                                    8,552           7,750
+
+  Less cost of treasury stock -
+    35,616,774 common shares in
+    1995 and 32,887,848 in 1994                     2,235           2,046
+                                                  -------         -------
+       Total Stockholders' Equity                   6,317           5,704
+                                                  -------         -------
+
+  Total Liabilities and Stockholders'
+    Equity                                        $13,382         $12,910
+                                                  =======         =======
+                                 - 3 -
+<PAGE>
+                           BRISTOL-MYERS SQUIBB COMPANY
+                   CONDENSED CONSOLIDATED STATEMENT OF EARNINGS
+           (Unaudited, in millions of dollars except per share amounts)
+
+
+
+
+                                    Three Months Ended   Nine Months Ended
+                                       September 30,       September 30,
+                                    ------------------   -----------------
+                                       1995      1994       1995     1994
+                                     ------    ------    -------   ------
+
+Net Sales                            $3,413    $2,932    $10,159   $8,736
+                                     ------    ------    -------   ------
+
+Expenses:
+
+  Cost of products sold                 930       760      2,716    2,246
+  Marketing, selling,
+   administrative and other             826       706      2,633    2,239
+  Advertising and product
+   promotion                            406       318      1,182      972
+  Research and development              293       274        876      806
+                                     ------    ------     ------   ------
+                                      2,455     2,058      7,407    6,263
+                                     ------    ------     ------   ------
+
+Earnings Before Income Taxes            958       874      2,752    2,473
+
+Provision for income taxes              269       253        798      729
+                                     ------    ------     ------   ------
+
+Net Earnings                         $  689    $  621     $1,954   $1,744
+                                     ======    ======     ======   ======
+
+
+Earnings Per Common Share             $1.36     $1.22      $3.86    $3.43
+                                      =====     =====      =====    =====
+
+
+Average Common Shares
+ Outstanding (in millions)              506       509        507      509
+                                        ===       ===        ===      ===
+
+
+Dividends Per Common Share             $.74      $.73      $2.22    $2.19
+                                       ====      ====      =====    =====
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     - 4 -
+<PAGE>
+                          BRISTOL-MYERS SQUIBB COMPANY
+                 CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+                      (Unaudited, in millions of dollars)
+
+                                                      Nine Months Ended
+                                                         September 30,
+                                                      ------------------
+                                                        1995        1994
+                                                      ------      ------
+Cash Flows From Operating Activities:
+ Net earnings                                         $1,954      $1,744
+ Depreciation and amortization                           259         242
+ Other operating items                                    34           3
+ Receivables                                            (147)        (65)
+ Inventories                                             (33)        (55)
+ Prepaid expenses                                        (15)          7
+ Accounts payable                                         69         (85)
+ Accrued expenses                                        162          54
+ Product liability                                      (316)       (230)
+ Income taxes                                             91         109
+ Other liabilities                                      (201)        (78)
+                                                      ------      ------
+  Net Cash Provided by Operating Activities            1,857       1,646
+                                                      ------      ------
+
+Cash Flows From Investing Activities:
+ Proceeds from sales of time deposits and
+   marketable securities                                 336          34
+ Purchases of time deposits and marketable
+   securities                                            (66)       (447)
+ Additions to fixed assets                              (332)       (381)
+ Purchases of businesses and other investments          (361)       (657)
+ Proceeds from sale of business                            -         285
+ Other, net                                              (23)         (6)
+                                                      ------      ------
+  Net Cash Used in Investing Activities                 (446)     (1,172)
+                                                      ------      ------
+Cash Flows From Financing Activities:
+ Short-term borrowings                                   (43)        536
+ Long-term debt                                           (7)         31
+ Issuances of common stock under stock plans              41          21
+ Purchases of treasury stock                            (244)       (506)
+ Dividends paid                                       (1,123)     (1,112)
+                                                      ------      ------
+  Net Cash Used in Financing Activities               (1,376)     (1,030)
+                                                      ------      ------
+
+Effect of Exchange Rates on Cash                          (3)        (22)
+                                                      ------      ------
+
+Increase/(Decrease) in Cash and Cash Equivalents          32        (578)
+Cash and Cash Equivalents at Beginning of
+  Period                                               1,642       2,421
+                                                      ------      ------
+
+Cash and Cash Equivalents at End of Period            $1,674      $1,843
+                                                      ======      ======
+
+
+
+
+
+                                      - 5 -
+<PAGE>
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                 MANAGEMENT'S DISCUSSION AND ANALYSIS
+           OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+          (in millions of dollars, except per share amounts)
+
+Basis of Presentation
+- ---------------------
+
+In the opinion of management, the accompanying unaudited condensed
+consolidated financial statements include all adjustments
+(consisting only of normal adjustments) necessary for a fair
+presentation of the financial position of Bristol-Myers Squibb
+Company (the "Company") at September 30, 1995 and December 31,
+1994, the results of operations for the three and nine months ended
+September 30, 1995 and 1994, and cash flows for the nine months
+ended September 30, 1995 and 1994.  These condensed consolidated
+financial statements should be read in conjunction with the
+consolidated financial statements and the related notes included in
+the Company's 1994 Annual Report on Form 10-K.  In general, the
+business of the Company's industry segments is not seasonal.
+
+Third Quarter Results of Operations
+- ------------------------------------
+
+Sales
+- -----
+
+Worldwide sales for the third quarter of 1995 increased 16% over
+the prior year to $3,413.  Excluding the three acquisitions during
+the last year, sales for the quarter increased 11%.  The
+consolidated sales growth resulted from a 14% increase due to
+volume, a 1% increase due to the favorable effect of foreign
+currency translation, and a 1% increase in selling prices.
+Domestic sales increased 12% and international sales increased 23%
+(21% excluding the favorable effect of foreign currency
+translation).  All four of the Company's industry segments reported
+sales increases in both domestic and international markets.
+Worldwide sales for the third quarter of 1994 increased 2% compared
+to the third quarter of 1993, reflecting a 1% increase due to
+volume, a 1% increase due to the favorable effect of foreign
+currency translation, with no effect due to changes in selling
+prices.
+
+Industry Segments
+- -----------------
+                                      Three Months Ended September 30,
+                                   -------------------------------------
+                                       Net Sales          % Change
+                                   ------------------ ------------------
+                                      1995      1994     1995       1994
+                                   -------   -------  -------    -------
+Pharmaceutical Products             $1,932    $1,682      15%         2%
+Medical Devices                        458       407      13%        (2%)(a)
+Nonprescription
+  Health Products                      623       492      27%         1%
+Toiletries and Beauty Aids             400       351      14%        11%
+                                    ------    ------
+  Total Company                     $3,413    $2,932      16%         2%
+                                    ======    ======
+
+(a) Excluding the effect of businesses divested in 1994, sales
+    increased 6%.
+
+                                 - 6 -
+<PAGE>
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                 MANAGEMENT'S DISCUSSION AND ANALYSIS
+           OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+          (in millions of dollars, except per share amounts)
+
+Sales in the pharmaceutical products segment, which is the largest
+segment at 57% of total company sales, increased 15% over the third
+quarter of 1994 to $1,932.  Sales growth resulted from a 13% increase
+in volume, a 1% increase due to changes in selling prices and a 1%
+increase due to the favorable effect of foreign currency translation.
+Sales of cardiovascular drugs, the largest product group in the
+segment, increased 5% to $721.  Sales of captopril, an angiotensin
+converting enzyme (ACE) inhibitor sold primarily under the trademark
+CAPOTEN* and the Company's largest selling product, decreased 2% to
+$376, due to increased competition in the ACE inhibitor category and
+the loss of patent exclusivity in Germany in February 1995.
+PRAVACHOL*, the Company's leading cholesterol-lowering agent, and
+MONOPRIL*, a second generation ACE inhibitor with once-a-day dosage,
+contributed to the increase in cardiovascular sales.  In the U.S.,
+PRAVACHOL* benefited from a change in the clinical pharmacology
+section of its labeling to reflect a 67% reduction in the incidence of
+fatal and non-fatal heart attacks in hypercholesterolemic patients.
+Anti-infective drug sales increased 11% to $393 due to sales of
+ZERIT*, an antiretroviral drug approved by the FDA in June 1994,
+introductory sales of MAXIPIME*, launched in Japan in August 1995 and
+strong sales growth of CEFZIL* and broad spectrum penicillins.  In the
+Company's line of anti-cancer drugs, sales increased 20% to $409.
+TAXOL* (paclitaxel), which continues to benefit from the April 1994
+approval for its use in the treatment of breast cancer after failure
+of combination chemotherapy for metastatic disease or relapse within
+six months of adjuvant chemotherapy, increased 62% over the prior
+year.  Sales of PARAPLATIN* and PLATINOL* increased in domestic and
+international markets.  Sales of central nervous system drugs
+increased due to introductory sales of SERZONE*, the Company's newly
+launched antidepressant which offers a favorable side effect profile,
+and increases in sales of BUSPAR*, the Company's novel anti-anxiety
+agent and STADOL NS*, a prescription nasal spray analgesic.
+Dermatological drug sales increased primarily due to strong sales of
+DOVONEX*, a vitamin D3 analogue for the treatment of moderate
+psoriasis.  Glucophage, a new oral anti-diabetes agent for Type II
+non-insulin dependent diabetes introduced in the second quarter of
+1995, contributed to the sales growth for the segment.  For the third
+quarter of 1994, sales of the pharmaceutical products segment
+increased 2% over the third quarter of 1993 primarily as a result of
+increases in sales of cardiovascular, anti-cancer, central nervous
+system and dermatological drugs.
+
+In the medical devices segment, sales increased 13% to $458.  In
+January 1995, the Company acquired Calgon Vestal Laboratories, a skin
+care and infection control products business.  Excluding the effect of
+that acquisition, sales increased 5%, reflecting a 3% increase due to
+volume and a 2% increase due to the favorable effect of foreign
+currency translation, with no effect due to changes in selling prices.
+Sales of ostomy care products increased due to the growth of the
+ACTIVE LIFE/COLODRESS* and the SUR-FIT/COMBIHESIVE* product lines.
+Worldwide sales of prosthetic implants increased 3% with growth of the
+Insall/Burstein II Modular Total Knee System and the CENTRALIGN*
+Precoat Hip Prosthesis.  The NEXGEN* Complete Knee Solution, the
+
+*   Indicates brand names of products which are registered trademarks
+    owned by the Company.
+
+                                 - 7 -
+<PAGE>
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                  MANAGEMENT'S DISCUSSION AND ANALYSIS
+            OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+           (in millions of dollars, except per share amounts)
+
+Company's advanced knee replacement system introduced in the first
+quarter, has received strong initial acceptance. In the Company's line
+of wound care products, sales increased reflecting volume growth of
+DUODERM* products.  For the third quarter of 1994, medical devices
+segment sales decreased 2% over the prior year.  Excluding the effect
+of divested businesses, sales increased 6% primarily due to increased
+sales of prosthetic implants, ostomy and wound care products.
+
+Sales of the nonprescription health products segment increased 27% to
+$623.  In September 1994, the Company acquired the remaining ownership
+interest of the UPSA Group, the leading maker and marketer of
+analgesics in France and Belgium and a world leader in effervescent
+technology.  Excluding the acquisition of UPSA, sales increased 14%,
+reflecting a 15% increase due to volume and a 1% decrease in selling
+prices.  Exchange rate fluctuations had no effect on sales growth for
+the quarter.  ENFAMIL* and PROSOBEE* infant formula sales increased
+with the addition of new sole-source contracts in late 1994 and 1995
+under the federal government's Women, Infants and Children (WIC)
+Program including New York, Florida, Georgia, California and the
+Western States Alliance.  Sales of LACTOFREE*, a milk-based, lactose-free
+infant formula, and NUTRAMIGEN* infant formula also increased, as
+did the Company's line of SUSTAGEN* products.  Sales of analgesics
+also increased due to EXCEDRIN* in the U.S., BUFFERIN* in Japan and
+EFFERALGAN* in Europe.  For the third quarter of 1994, the
+nonprescription health products segment sales increased 1% over the
+prior year, primarily due to increases in ENFAMIL*, LACTOFREE*,
+NUTRAMIGEN* and EXCEDRIN*.
+
+Sales of the toiletries and beauty aids segment increased 14% over the
+prior year to $400.  In August 1994, the Company acquired Matrix
+Essentials, Inc., the leading manufacturer in North America of
+professional hair care and beauty products sold exclusively in beauty
+salons.  Excluding the acquisition of Matrix, sales increased 7%,
+reflecting a 5% increase due to volume, a 3% increase due to selling
+prices, and a 1% decrease due to the unfavorable effect of foreign
+currency translation.  Sales of the Company's haircoloring products
+were strong, reflecting worldwide growth of NICE 'N EASY*, LOVING
+CARE* and the continued success of NATURAL INSTINCTS*.  Sales of hair
+care products increased due to the launch of the HERBAL ESSENCES*
+complete line of shampoos and conditioners, as well as the addition of
+the SYSTEME BIOLAGE*, MATRIX ESSENTIALS* and VAVOOM!* lines from
+Matrix.  Skin care products sales increased primarily due to strong
+international volume growth of SEA BREEZE*.  For the third quarter of
+1994, sales of the toiletries and beauty aids segment increased 11%
+over the prior year primarily due to the acquisition of Matrix
+Essentials and increased sales of haircoloring and haircare products.
+
+Cost of Products Sold and Operating Expenses
+- --------------------------------------------
+
+Total costs and expenses for the quarters ended September 30, 1995 and
+1994 as a percentage of sales were 71.9% and 70.2%, respectively,
+increasing primarily due to increased costs associated with recent
+acquisitions and lower gross margins as a result of increased
+
+
+                                 - 8 -
+<PAGE>
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                 MANAGEMENT'S DISCUSSION AND ANALYSIS
+           OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+          (in millions of dollars, except per share amounts)
+
+participation in the WIC program.  Cost of products sold increased to
+27.2% of sales from 25.9% in 1994.  Marketing, selling, administrative
+and other expenses as a percentage of sales were 24.2% in 1995 and
+24.1% in 1994.  Expenditures for advertising and promotion in support
+of new and existing products increased 28% to $406 from $318 in 1994
+and, as a percentage of sales, increased to 11.9% from 10.8% in 1994
+primarily due to spending by acquisitions, as well as spending in
+support of new product launches.  Research and development expenses
+increased 7% to $293 from $274 in 1994, and as a percentage of sales
+were 8.6% compared to 9.3%.  Pharmaceutical research and development
+spending increased 2% over the prior year and as a percentage of
+pharmaceutical sales, was 12.5% compared to 14.1% in 1994.
+
+On September 1, 1995, the Company acquired A/S GEA Farmaceutisk
+Fabrik, a leading manufacturer and marketer of branded generic
+pharmaceuticals for the Scandinavian market.
+
+During the second quarter, research alliances with the following
+companies were announced: Somatix Therapy Corporation, a biotechnology
+company specializing in gene therapy; SIBIA, Inc., a biotechnology
+company engaged in the development of products based on cloned
+receptor and functional assay technology; and ChromaXome Corporation,
+a company that uses DNA technology to tap novel sources of chemical
+diversity.  In October, 1995, the Company announced research
+collaborations with Ixsys, Inc., a biopharmaceutical company engaged
+in the development of molecular design technologies.  In November,
+1995, the Company made an additional equity investment in Cadus
+Pharmaceutical Corporation, a biotechnology company that specializes
+in developing novel drug screening techniques.
+
+Earnings
+- --------
+
+Earnings before income taxes for the third quarter increased 10% to
+$958 from $874 in 1994.  Net earnings increased 11% to $689 from $621
+and earnings per share increased 11% to $1.36 from $1.22 in 1994.  The
+effective tax rate on earnings before taxes decreased to 28.1% in 1995
+from 28.9% in 1994 reflecting the benefit of increased earnings in
+lower tax jurisdictions.
+
+Year-to-Date Results of Operations
+- ----------------------------------
+Sales
+- -----
+
+Worldwide sales for the first nine months of 1995 increased 16% over
+the prior year to $10,159.  Excluding the three acquisitions during
+the last year, sales increased 10% for the nine months.  The
+consolidated sales growth resulted from a 14% increase due to volume
+and a 2% increase due to the favorable effect of foreign currency
+translation.  Changes in selling prices had no effect on sales growth.
+Domestic sales increased 10%, and international sales increased 26%
+(21% excluding the favorable effect of foreign currency translation).
+Worldwide sales for the first nine months of 1994 increased 4%
+compared to the prior year, reflecting a 3% increase due to volume and
+a 1% increase due to selling prices.  Exchange rate fluctuations had
+
+                                 - 9 -
+<PAGE>
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                 MANAGEMENT'S DISCUSSION AND ANALYSIS
+            OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+           (in millions of dollars, except per share amounts)
+
+no effect on sales growth for the nine months.
+
+Industry Segments
+- -----------------
+                                       Nine Months Ended September 30,
+                                   -------------------------------------
+                                        Net Sales          % Change
+                                   ------------------ ------------------
+                                      1995      1994     1995       1994
+                                   -------   -------  -------    -------
+Pharmaceutical Products             $5,773    $5,114      13%         7%
+Medical Devices                      1,394     1,237      13%        (1%)(a)
+Nonprescription
+  Health Products                    1,801     1,425      26%        (1%)
+Toiletries and Beauty Aids           1,191       960      24%         1%
+                                   -------    ------
+  Total Company                    $10,159    $8,736      16%         4%
+                                   =======    ======
+
+(a) Excluding the effect of businesses divested in 1994, sales
+    increased 5%.
+
+Sales of the pharmaceutical products segment increased 13% to $5,773,
+reflecting an 11% increase due to volume and a 2% increase due to the
+favorable effect of foreign currency translation.  Changes in selling
+prices had no effect on sales growth.  Domestic sales increased 7% and
+international sales increased 20% (11% excluding acquisitions and
+foreign currency translation).  Cardiovascular drug sales increased 5%
+to $2,163.  Sales of CAPOTEN* increased 2% to $1,156 as the benefit
+from new indications for the treatment of diabetic nephropathy and
+left ventricular dysfunction were partially offset by increasing
+competition in the ACE inhibitor market.  In the U.S., the expiration
+date of the CAPOTEN* patent was redefined by legislation implementing
+the GATT treaty to February 1996, although the subject of ongoing
+litigation.  PRAVACHOL*, MONOPRIL*, and SOTALOL* also reported strong
+worldwide increases.  Sales of anti-infectives increased 14% to $1,230
+primarily due to the strong growth of DURICEF* and CEFZIL*,
+particularly in international markets, and the introductory sales of
+ZERIT* and MAXIPIME*.  Increases in sales of anti-cancer drugs were
+very strong, primarily due to the continued growth of TAXOL*, and the
+strong performance of PARAPLATIN* and PLATINOL*.  Sales of the
+Company's central nervous system drugs increased, reflecting the
+introductory sales of SERZONE*, as well as the strong growth of
+BUSPAR* and STADOL NS*.  Dermatological drug sales increased primarily
+due to strong sales of DOVONEX*.  For the first nine months of 1994,
+sales of the pharmaceutical products segment increased 7% over the
+first nine months of the prior year primarily as a result of increases
+in sales of cardiovascular, anti-cancer and central nervous system
+drugs partially offset by decreases in anti-infectives.
+
+Sales of the medical devices segment increased 13% to $1,394.
+Excluding the acquisition of Calgon Vestal and the sales of divested
+businesses, sales increased 7%, with a 3% increase due to volume and a
+4% increase due to the favorable effect of foreign currency
+translation.  Domestic sales increased 11% (excluding acquisitions and
+divestitures, sales remained at prior year levels) and international
+
+                                - 10 -
+
+<PAGE>
+                     BRISTOL-MYERS SQUIBB COMPANY
+                 MANAGEMENT'S DISCUSSION AND ANALYSIS
+            OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+           (in millions of dollars, except per share amounts)
+
+sales increased 15% (6% excluding acquisitions, divestitures and
+foreign currency translation).  Increases in sales of the SUR-FIT/
+COMBIHESIVE* and the ACTIVE LIFE/COLODRESS* product lines led to
+the increase in sales of ostomy care products.  Worldwide sales of
+prosthetic implants increased due to growth overseas and continued
+success in the U.S. of the Insall/Burstein II Modular Total Knee
+System.  Increased sales of wound care products resulted from the
+success of the DUODERM* product line.  For the first nine months of
+1994, medical devices segment sales decreased 1% over the prior year.
+Excluding the effect of divested businesses, sales increased 5%
+primarily as a result of sales growth in prosthetic implants, ostomy
+and wound care products.
+
+In the nonprescription health products segment, sales increased 26% to
+$1,801. Excluding the acquisition of UPSA, sales increased 11%,
+with a 10% increase due to volume and a 1% increase due to the
+favorable effect of foreign exchange.  Changes in selling prices had
+no effect on sales growth.  Domestic sales increased 7% and
+international sales increased 59% (17% excluding acquisitions and
+foreign currency translation).  Sales of infant formulas increased
+primarily due to the Company's increased participation in the federal
+government's WIC program.  Sales of analgesics were strong due to
+increased sales of EXCEDRIN* in the U.S., BUFFERIN* in Japan and
+EFFERALGAN* in Europe.  For the first nine months of 1994,
+nonprescription health products segment sales decreased 1%, primarily
+due to decreased sales of analgesics and cough/cold remedies which
+were partially offset by increases in sales of infant formulas.
+
+Sales of the toiletries and beauty aids segment increased 24% to
+$1,191.  Excluding the acquisition of Matrix, sales increased 8%
+reflecting a 6% increase due to volume, a 2% increase due to selling
+prices, and no effect due to foreign currency translation. Domestic
+sales increased 26% (6% excluding the effect of acquisitions) and
+international sales increased 20% (14% excluding acquisitions and the
+unfavorable effect of foreign currency translation).  Sales growth of
+the Company's haircoloring products was led by NATURAL INSTINCTS*,
+NICE 'N EASY* and LOVING CARE*.  Increases in sales of shampoos and
+conditioners benefited from the introduction of HERBAL ESSENCES* as
+well as the addition of the SYSTEME BIOLAGE*, MATRIX ESSENTIALS* and
+VAVOOM!* lines from Matrix.  For the first nine months of 1994, sales
+of the toiletries and beauty aids segment increased 1% over the prior
+year,  primarily due to increases in sales of NICE 'N EASY*, LASTING
+COLOR BY LOVING CARE* and ULTRESS* haircoloring products and SEA
+BREEZE* skin care products.
+
+Cost of Product Sold and Operating Expenses
+- -------------------------------------------
+
+Total costs and expenses for the nine months ended September 30, 1995
+as a percentage of sales increased to 72.9% from 71.7% for the same
+period of 1994 primarily as a result of acquired businesses.  Cost of
+products sold increased to 26.7% of sales from 25.7% in 1994.
+Marketing, selling, administrative and other expenses, as a percentage
+of sales, were 25.9% compared to 25.6% in 1994.  Expenditures for
+advertising and promotion in support of new and existing products were
+$1,182 compared to $972 in the prior year, an increase of 22%
+
+                                - 11 -
+<PAGE>
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                 MANAGEMENT'S DISCUSSION AND ANALYSIS
+            OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+           (in millions of dollars, except per share amounts)
+
+primarily due to spending by acquisitions, as well as spending in
+support of new product launches.  Research and development increased
+9% to $876 compared to $806 in the prior year, and as a percentage of
+sales were 8.6% in 1995 and 9.2% in 1994.  Pharmaceutical research and
+development spending increased 6% over prior year levels and as a
+percentage of pharmaceutical sales was 12.8% compared to 13.6% in
+1994.
+
+Earnings
+- --------
+
+Earnings before income taxes for the first nine months increased 11%
+to $2,752 from $2,473 in 1994, and pretax margins decreased to 27.1%
+from 28.3% primarily due to increased costs associated with recent
+acquisitions and lower gross margins as a result of increased
+participation in the WIC program.  Net earnings increased 12% to
+$1,954 from $1,744 and earnings per share increased 13% to $3.86 from
+$3.43 in 1994.  The effective tax rate on earnings before taxes
+decreased to 29.0% in 1995 from 29.5% in 1994 reflecting the benefit
+of increased earnings in lower tax jurisdictions.
+
+Financial Position
+- ------------------
+
+The balance sheet at September 30, 1995 and the statement of cash
+flows for the nine months then ended reflect the Company's strong
+financial position.  The Company continues to maintain a high level of
+working capital totaling $2,399 at September 30, 1995.
+
+Internally generated funds continue to be the Company's primary source
+for financing expenditures for new plant and equipment.  Additions to
+fixed assets for the nine months ended September 30, 1995 were $332
+compared to $381 during the same period of 1994.
+
+During the nine months ended September 30, 1995, the Company purchased
+3,668,000 shares of its common stock at a total cost of $244.
+
+Reference is made to Part II, Item 1 - Legal Proceedings in which
+developments are described for various lawsuits, claims and
+proceedings in which the Company is involved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 - 12 -
+<PAGE>
+                      BRISTOL-MYERS SQUIBB COMPANY
+                       PART II - OTHER INFORMATION
+                      ----------------------------
+
+
+Item 1.  Legal Proceedings
+- --------------------------
+
+Various lawsuits, claims and proceedings of a nature considered normal
+to its business are pending against the Company and certain of its
+subsidiaries.  The most significant of these are reported in the
+Company's Annual Report on Form 10-K for the fiscal year ended
+December 31, 1994, and material developments in such matters are
+described in the Company's Quarterly Reports on Form 10-Q for the
+quarters ended March 31, 1995 and June 30, 1995, and below.
+
+Breast Implant Litigation
+- -------------------------
+
+The Company and its subsidiary, Medical Engineering Corporation
+("MEC"), together with certain other companies, are defendants in
+numerous breast implant product liability suits, including a class
+action pending in the United States District Court in Birmingham,
+Alabama (Honorable Sam C. Pointer, Jr.).  As of November 1, 1995 there
+were approximately 20,000 plaintiffs with pending suits against the
+Company and its subsidiaries.  Typically the plaintiffs allege
+personal injuries and seek compensatory and punitive damages.
+
+On September 1, 1994 Judge Pointer approved a settlement of the class
+action, subject to various conditions, involving payments totalling
+$4.25 billion by the defendants over 30 years.  The settlement
+provided, among other things, that if the total amount of approved
+current disease compensation claims as defined in the settlement
+agreement against all defendants exceeded $1.2 billion, scheduled
+benefits would be reduced and claimants would have a second
+opportunity to withdraw or opt out from the settlement.
+
+On October 7, 1995, Judge Pointer issued an order declaring that class
+members in the breast implant class action settlement would be
+accorded such a second opt-out right because the value of current
+claims would likely far exceed the $1.2 billion set aside for such
+claims, that negotiations were not successful in eliminating the need
+for a reduction in benefits under the program, that large numbers of
+class members would opt out and thus defendants would withdraw from
+the settlement.
+
+Under the Order, class members would be permitted to opt out and
+pursue litigation beginning on or about December 1, 1995.  The court
+stated, however, that class members would not be required to take
+immediate action to file suit to preserve their claims, for the class
+action would be maintained and the statute of limitations would remain
+suspended until a class member opts out.  The court also indicated
+that a modified settlement program may be offered by the Company,
+Baxter Healthcare and 3M Company.
+
+The Board of Directors of the Company recently conditionally
+authorized management to enter into such a modified settlement
+program.  Baxter Healthcare, 3M Company, McGhan Medical Corporation
+and Union Carbide Corporation are also expected to participate.
+
+This fifteen-year settlement program, if approved by the district
+
+                                - 13 -
+<PAGE>
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                      PART II - OTHER INFORMATION
+                      ---------------------------
+
+court and any appellate courts, would provide benefits to those breast
+implant recipients, other than foreign claimants, who have had at
+least one breast implant manufactured by one of the settling
+defendants (or their predecessors or subsidiaries).  Several kinds of
+benefits would be available for eligible participants: (1) for current
+claimants, compensation ranging from $10,000 to $50,000 based on
+disease and disability definitions of the original settlement, plus
+supplemental benefits of an additional $15,000 to $50,000 for
+claimants with ruptured implants; (2) for current claimants seeking
+higher benefits and for other registrants, compensation ranging from
+$75,000 to $250,000 based on new, more stringent disease and
+disability definitions; and (3) although the settling defendants are
+not recommending removal of implants absent some specific medical
+reason, a $3,000 payment for those class members (other than late
+registrants) who seek removal of implants.  In addition, current
+claimants would be eligible for an advance payment of $5,000, and
+other existing registrants would be eligible for an advance payment of
+$1,000.  For certain current claimants, benefits would be payable
+regardless of the number of claimants seeking compensation, regardless
+of the total dollar value of approved claims, and regardless of the
+outcome of appeals from the order approving the settlement.  For other
+claimants, benefits would be subject to an aggregate $755 million cap
+for all participating companies over the fifteen year life of the
+program.
+
+The settlement notice is expected to be disseminated in December 1995;
+it will provide for opt-out rights for class members, which must be
+exercised within 45 days after they receive notice of the status of
+their registration and claim.  Certain class members who had not
+previously registered by certain deadlines will have the opportunity
+to opt out provided they register by April 1, 1996.  In the event the
+dollar value of claims subject to the cap exceeds $755 million,
+claimants may be afforded additional opt-out rights but without the
+right to assert punitive or other statutory multiple damage claims.
+It is not possible on any reliable basis to estimate how many class
+members will participate in or opt out of the settlement.
+
+The cost of the settlement is dependent upon the number of class
+members that participate, the kinds of claims asserted and approved
+under the settlement, and their dollar value.  In light of the
+uncertainties attendant to these and other factors, it is not possible
+to achieve any precision at this time in estimating the cost of the
+settlement to the Company.  The court has advised that approximately
+440,000 women with implants of all manufacturer companies had
+registered with the claims office under the original settlement,
+including approximately 57,000 foreign class members.  However, since
+all women with implants were urged by the court to register, the
+number of registrants will not necessarily indicate the number of
+women who have filed or will file claims against the settlement funds.
+
+In July of 1995, the Company entered into a $20.5 million (U.S. funds)
+class action settlement with plaintiff representatives in the
+provinces of Ontario and Quebec.  The class includes persons who have
+or had MEC breast implants and who reside in Ontario and Quebec or who
+received their MEC implants there.  The settlement has been approved
+by the provincial courts of Ontario and Quebec.  The Company has the
+right to withdraw from the settlement depending upon the number of
+
+                                - 14 -
+<PAGE>
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                      PART II - OTHER INFORMATION
+                      ---------------------------
+
+claimants who opt out or participate in the program.
+
+The Company's insurers have been notified of the breast implant claims
+and the settlement and certain insurers have reserved their rights or
+declined to confirm coverage.  In 1993, the Company commenced
+litigation in state court, Jefferson County, Texas, against most of
+the Company's insurers, seeking damages and a declaration of coverage.
+A trial of this insurance coverage case is expected in 1996.
+Judge Pointer reported that as of February 28, 1995, 7,270 United
+States women and 2,174 foreign women had elected to opt out of the
+original settlement as to all defendants.  With respect to such opt
+outs by women from the United States, the Company has estimated that
+approximately 3,000 women may assert claims based upon MEC implants,
+approximately 2,000 of whom reside in Texas.  The Company has, at this
+time, identified approximately 300 of the foreign opt-outs as having
+MEC implants.  A number of the opt-outs cannot, at this time, be
+identified as having implants of any particular manufacturer.  The
+exact number of lawsuits that will remain in the event the settlement
+becomes effective is unknown at this time.
+
+The cost to the Company of resolving opt-out claims is subject to a
+number of uncertainties in addition to the unknown quantity and
+quality of such claims.  While there have been large judgments, the
+relatively few trials against breast implant manufacturers have
+produced mixed results, and additional trials may affect the outlook.
+The Company has maintained throughout this litigation that breast
+implants do not cause disease and recent medical and scientific data
+supports the Company's position.  The results of continuing medical
+research and a variety of additional factors, including the success of
+other legal defenses, may substantially affect the cost of resolving
+opt out cases.
+
+In the fourth quarter of 1993, the Company recorded a charge of $500
+million before taxes ($310 million after taxes) in respect of breast
+implant claims.  The charge consisted of $1.5 billion for potential
+liabilities and expenses, offset by $1 billion of expected insurance
+proceeds.  In the fourth quarter of 1994, the Company recorded an
+additional special charge of $750 million before taxes ($488 million
+after taxes) related to breast implant product liability claims.
+Although the revised settlement has just been reached and its effect
+cannot at present be predicted, the Company believes that after its
+consequences are analyzed and more information becomes available, an
+additional charge to earnings may likely be required with respect to
+breast implant litigation which may have a material effect on the
+Company's results of operations for the year.  Such charge should not
+have a material adverse effect on the Company's liquidity or
+consolidated financial position.
+
+Infant Formula Matters
+- ----------------------
+
+The Company, one of its subsidiaries, and others are defendants in 25
+antitrust actions in 19 states filed on behalf of purported statewide
+classes of indirect purchasers of infant formula products and by the
+Attorneys General of Louisiana, Minnesota, Mississippi and Texas
+alleging a price fixing conspiracy and other violations of state
+antitrust or deceptive trade practices laws and seeking penalties and
+
+                                - 15 -
+<PAGE>
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                      PART II - OTHER INFORMATION
+                      ---------------------------
+
+other relief.  The state courts in Colorado, Florida, Nevada, North
+Carolina and Tennessee have dismissed the complaints, but the
+plaintiffs have or are expected to appeal those dismissals.  On June
+29, 1995, the Texas Supreme Court handed down a decision in the
+Company's favor, holding that the plaintiffs, as indirect purchasers,
+were barred from proceeding under the Texas Deceptive Trade Practices-
+Consumer Protection Act.  On October 10, 1995, a trial in which the
+Company and Abbott Laboratories are defendants began in state court in
+Wichita, Kansas and is expected to continue through early December.
+Courts in Wisconsin and South Dakota have also certified classes of
+indirect purchasers of infant formula.  Class certification motions
+have been denied in Minnesota and Michigan.  The civil and criminal
+inquiries by the Canadian Bureau of Competition Policy into alleged
+anticompetitive practices by the Company and certain other members of
+the Canadian infant formula industry are ongoing.
+
+Pharmaceutical Pricing Litigation
+- ---------------------------------
+
+The Company, along with more than 30 other pharmaceutical
+manufacturers, drug wholesalers and pharmacy benefit managers, is a
+defendant in over 100 actions brought by a class of retail pharmacists
+and by over 3,000 independent and chain pharmacies in various federal
+courts seeking damages and injunctive relief under the federal
+antitrust laws for alleged antitrust violations in the pricing and
+marketing of brand-name prescription drugs.  The federal actions have
+been transferred for pre-trial purposes to the United States District
+Court for the Northern District of Illinois, where fact discovery has
+been completed, and discovery of expert witnesses is proceeding.  The
+court has indicated that trial of the consolidated class actions will
+begin on April 1, 1996.  Additional actions continue to be filed.  In
+the California state court litigation, petitions for writ of mandate
+concerning orders that certified a class of independent California
+retail pharmacies/pharmacists and a class of California consumers who
+purchased brand name prescription drugs from independent California
+pharmacies have been denied.  In the Alabama state court litigation,
+the plaintiffs have purported to amend their complaint to add class
+action allegations.  In the Wisconsin state court litigation, the
+Court has denied the defendants' motion to dismiss plaintiffs'
+complaint, but has required plaintiffs to replead.  In the Washington
+state court litigation, the Court entered an order dismissing all of
+the plaintiff's claims, and the plaintiff has appealed.  An additional
+action claiming damages on behalf of a purported class of consumers
+has been filed in state court in Arizona.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 - 16 -
+<PAGE>
+                      BRISTOL-MYERS SQUIBB COMPANY
+                      PART II - OTHER INFORMATION
+                      ----------------------------
+
+
+Item 6.  Exhibits and Reports on Form 8-K
+- -----------------------------------------
+
+(a) Exhibit (listed by number corresponding to the Exhibit Table of
+    Item 601 in Regulation S-K).
+
+27. Bristol-Myers Squibb Company Financial Data Schedule.
+    Page E-27-1.
+
+(b) Reports on Form 8-K.
+
+The Registrant did not file any reports on Form 8-K during the quarter
+ended September 30, 1995.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 - 17 -
+
+<PAGE>
+
+
+                        BRISTOL-MYERS SQUIBB COMPANY
+                              SIGNATURES
+                              ----------
+
+
+    Pursuant to the requirements of the Securities Exchange Act of
+1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+
+
+                                      BRISTOL-MYERS SQUIBB COMPANY
+                                      ----------------------------
+                                              (Registrant)
+
+
+
+
+
+Date     November 13, 1995            /s/ Harrison M. Bains, Jr.
+    ----------------------------      -----------------------------
+                                          Harrison M. Bains, Jr.
+                                       Vice President and Treasurer
+
+
+
+
+
+
+Date     November 13, 1995            /s/ Frederick S. Schiff
+    ----------------------------      -----------------------------
+                                          Frederick S. Schiff
+                                      Vice President and Controller
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 - 18 -
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 27 (FDS) FILED WITH FORM 10-Q - 9/30/95
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+
+<ARTICLE>5
+<LEGEND>
+Exhibit 27 for Bristol-Myers Squibb for the period ended 9/30/95
+</LEGEND>
+<MULTIPLIER>1000000
+       
+<S>                                                  <C>
+<PERIOD-TYPE>                                        9-Mos
+<FISCAL-YEAR-END>                                    Dec-31-1995<F1>
+<PERIOD-END>                                         Sep-30-1995
+<CASH>                                                     1,674
+<SECURITIES>                                                 510
+<RECEIVABLES>                                              2,189 <F2>
+<ALLOWANCES>                                                   0
+<INVENTORY>                                                1,438
+<CURRENT-ASSETS>                                           6,610
+<PP&E>                                                     6,123
+<DEPRECIATION>                                             2,333
+<TOTAL-ASSETS>                                            13,382
+<CURRENT-LIABILITIES>                                      4,211
+<BONDS>                                                      632
+<PREFERRED-MANDATORY>                                          0
+<PREFERRED>                                                    0
+<COMMON>                                                      54
+<OTHER-SE>                                                 6,263
+<TOTAL-LIABILITY-AND-EQUITY>                              13,382
+<SALES>                                                   10,159
+<TOTAL-REVENUES>                                          10,159
+<CGS>                                                      2,716
+<TOTAL-COSTS>                                              2,716
+<OTHER-EXPENSES>                                           4,691
+<LOSS-PROVISION>                                               0
+<INTEREST-EXPENSE>                                            69
+<INCOME-PRETAX>                                            2,752
+<INCOME-TAX>                                                 798
+<INCOME-CONTINUING>                                        1,954
+<DISCONTINUED>                                                 0
+<EXTRAORDINARY>                                                0
+<CHANGES>                                                      0
+<NET-INCOME>                                               1,954
+<EPS-PRIMARY>                                               3.86
+<EPS-DILUTED>                                                  0
+<FN>
+<F1>  Items reported as "zero" are not applicable or are immaterial to
+       the consolidated financial position of the Company.
+<F2>  Receivables are reported net of allowances for doubtful accounts.
+
+
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

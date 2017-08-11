@@ -1,0 +1,958 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TVx2qpEwsf5m9aP9FgiQnd+Ih1dHXX11yof5hp0oxIBIF5S/seWsnyoXFepIF1wb
+ 4kXX8HBCls9OZnpacfR9wA==
+
+<SEC-DOCUMENT>0000014272-99-000007.txt : 19990816
+<SEC-HEADER>0000014272-99-000007.hdr.sgml : 19990816
+ACCESSION NUMBER:		0000014272-99-000007
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19990630
+FILED AS OF DATE:		19990813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		99687014
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+                    SECURITIES AND EXCHANGE COMMISSION
+
+                          WASHINGTON, D.C.  20549
+
+
+                                 FORM 10-Q
+
+
+          QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                      SECURITIES EXCHANGE ACT OF 1934
+
+
+               FOR THE QUARTERLY PERIOD ENDED JUNE 30, 1999
+
+
+                       Commission File Number 1-1136
+
+
+                       BRISTOL-MYERS SQUIBB COMPANY
+          (Exact name of registrant as specified in its charter)
+
+
+
+              Delaware                            22-079-0350
+     (State or other jurisdiction of     (IRS Employer Identification No.)
+     incorporation or organization)
+
+
+
+                  345 Park Avenue, New York, N.Y.  10154
+                 (Address of principal executive offices)
+                         Telephone: (212) 546-4000
+
+
+Indicate  by  check mark whether the registrant (1) has filed  all  reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange  Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject  to
+such filing requirements for the past 90 days.
+
+Yes  [ X ]            No  [    ]
+
+
+
+At  June  30,  1999,  there were 1,986,075,102 shares  outstanding  of  the
+Registrant's $.10 par value Common Stock.
+
+
+
+<PAGE>
+
+                    BRISTOL-MYERS SQUIBB COMPANY
+
+                         INDEX TO FORM 10-Q
+
+                            June 30, 1999
+
+
+
+
+                                                                Page No.
+
+Part I - Financial Information:
+
+Financial Statements (Unaudited):
+
+Consolidated Balance Sheet - June 30, 1999 and December  31,      2 - 3
+1998
+
+Consolidated Statement of Earnings and Comprehensive  Income
+for the three and six months ended June 30, 1999 and 1998             4
+
+Consolidated Statement of Cash Flows for the six months ended
+June 30, 1999 and 1998                                                5
+
+Management's Discussion and Analysis of Financial  Condition
+and Results of Operations                                        6 - 12
+
+
+Part II - Other Information                                          13
+
+Signatures                                                           14
+
+
+<PAGE>
+
+
+PART I  FINANCIAL INFORMATION
+- -----------------------------
+
+Item 1.  Financial Statements
+- -----------------------------
+
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                  CONSOLIDATED BALANCE SHEET - ASSETS
+             (Unaudited, in millions except share amounts)
+
+
+
+
+
+                                                 June 30,   December 31,
+                                                    1999         1998
+Current Assets:
+Cash and cash equivalents                          $2,081      $2,244
+Time deposits and marketable securities               267         285
+Receivables, net of allowances                      3,218       3,190
+
+Finished goods                                      1,402       1,209
+Work in process                                       336         236
+Raw and packaging materials                           306         428
+Inventories                                         2,044       1,873
+Prepaid expenses                                    1,048       1,190
+
+  Total Current Assets                              8,658       8,782
+
+Property, Plant and Equipment                       7,613       7,508
+Less: Accumulated depreciation                      3,158       3,079
+
+Net Property, Plant and Equipment                   4,455       4,429
+
+Insurance Recoverable                                 504         523
+Excess of cost over net tangible assets received
+in business acquisitions                            1,590       1,587
+Other Assets                                        1,007         951
+
+Total Assets                                      $16,214     $16,272
+
+
+<PAGE>
+
+                    BRISTOL-MYERS SQUIBB COMPANY
+                    CONSOLIDATED BALANCE SHEET -
+                LIABILITIES AND STOCKHOLDERS' EQUITY
+            (Unaudited, in millions except share amounts)
+
+
+
+
+
+                                                    June 30,  December 31,
+                                                      1999       1998
+Current Liabilities:
+Short-term borrowings                                 $546       $482
+Accounts payable                                     1,373      1,380
+Accrued expenses                                     2,160      2,302
+Product liability                                      566        877
+U.S. and foreign income taxes payable                  722        750
+
+  Total Current Liabilities                          5,367      5,791
+Other Liabilities                                    1,460      1,541
+Long-Term Debt                                       1,327      1,364
+
+  Total Liabilities                                  8,154      8,696
+
+Stockholders' Equity:
+Preferred stock, $2 convertible series:
+     Authorized  10 million shares;  issued  and
+     outstanding  11,284 in 1999 and  11,684  in         -          -
+     1998, liquidation value of $50 per share
+Common stock, par value of $.10 per share:
+     Authorized   4.5  billion  shares;   issued
+     2,190,336,925 in 1999 and 2,188,316,808  in       219        219
+     1998
+Capital in excess of par value of stock              1,291      1,075
+Cumulative translation adjustment                    (783)      (622)
+Retained earnings                                   13,705     12,540
+                                                    14,432     13,212
+Less  cost of treasury stock 204,261,823  common
+shares in 1999 and 199,550,532 in 1998               6,372      5,636
+
+Total Stockholders' Equity                           8,060      7,576
+
+Total Liabilities and Stockholders' Equity         $16,214    $16,272
+
+
+<PAGE>
+                    BRISTOL-MYERS SQUIBB COMPANY
+                 CONSOLIDATED STATEMENT OF EARNINGS
+                      AND COMPREHENSIVE INCOME
+    (Unaudited, in millions of dollars except per share amounts)
+
+
+
+
+                                      Three Months       Six Months
+                                     Ended June 30,    Ended June 30,
+                                     1999      1998     1999     1998
+EARNINGS
+
+Net Sales                          $4,920    $4,430   $9,774   $8,876
+
+Expenses:
+Cost of products sold               1,361     1,206    2,666    2,358
+Marketing,selling,                  1,122     1,034    2,243    2,082
+administrative and other
+Advertising and product               666       642    1,195    1,213
+promotion
+Research and development              453       384      876      767
+Provision for restructuring             -        76        -      201
+Gain on sale of businesses              -      (76)        -    (201)
+                                    3,602     3,266    6,980    6,420
+Earnings Before Income Taxes        1,318     1,164    2,794    2,456
+Provision for income taxes            366       329      775      694
+
+Net Earnings                         $952      $835   $2,019   $1,762
+
+Earnings Per Common Share
+   Basic                             $.48      $.42    $1.02     $.89
+   Diluted                           $.47      $.41    $1.00     $.87
+Average Common Shares
+Outstanding (in millions)
+   Basic                            1,984     1,987    1,985    1,987
+   Diluted                          2,027     2,031    2,027    2,033
+
+Dividends Per Common Share          $.215     $.195     $.43     $.39
+
+COMPREHENSIVE INCOME
+
+Net Earnings                         $952      $835   $2,019   $1,762
+
+Other Comprehensive Income:
+Foreign currency translation         (65)        17    (169)     (87)
+Tax effect                              3      (11)        8        5
+
+Total Other Comprehensive Income     (62)         6    (161)     (82)
+
+Comprehensive Income                 $890      $841   $1,858   $1,680
+
+<PAGE>
+
+                       BRISTOL-MYERS SQUIBB COMPANY
+                   CONSOLIDATED STATEMENT OF CASH FLOWS
+                    (Unaudited, in millions of dollars)
+
+                                                     Six Months Ended
+                                                         June 30,
+                                                      1999       1998
+Cash Flows From Operating Activities:
+Net earnings                                        $2,019     $1,762
+Depreciation and amortization                          331        301
+Provision for restructuring                              -        201
+Gain on sale of businesses                               -      (201)
+Other operating items                                 (65)         22
+Receivables                                          (115)      (215)
+Inventories                                          (229)       (84)
+Accounts payable                                        16         79
+Accrued expenses                                     (160)      (271)
+Product liability                                    (432)      (381)
+Insurance recoverable                                   19         25
+Income taxes                                           348        187
+Other assets and liabilities                         (146)       (67)
+
+Net Cash Provided by Operating Activities            1,586      1,358
+
+Cash Flows From Investing Activities:
+Proceeds  from  sales  of  time  deposits   and         22        167
+marketable securities
+Purchases   of  time  deposits  and  marketable        (3)      (137)
+securities
+Additions to fixed assets                            (299)      (365)
+Proceeds from sale of business                           -        406
+Acquisition of businesses                                -       (67)
+Other, net                                            (59)         16
+
+Net  Cash  (Used  in) / Provided  by  Investing      (339)         20
+Activities
+
+Cash Flows From Financing Activities:
+Short-term borrowings                                   87       (89)
+Long-term debt                                        (34)         70
+Issuances of common stock under stock plans            (2)         98
+Purchases of treasury stock                          (633)    (1,126)
+Dividends paid                                       (854)      (776)
+
+Net Cash Used in Financing Activities              (1,436)    (1,823)
+
+Effect of Exchange Rates on Cash                        26        (6)
+
+Decrease in Cash and Cash Equivalents                (163)      (451)
+Cash  and  Cash  Equivalents  at  Beginning  of      2,244      1,456
+Period
+
+Cash and Cash Equivalents at End of Period          $2,081     $1,005
+
+<PAGE>
+
+
+                       BRISTOL-MYERS SQUIBB COMPANY
+              ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+               FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+                                (UNAUDITED)
+
+
+Basis of Presentation
+- ---------------------
+
+In   the  opinion  of  management,  the  accompanying  unaudited
+consolidated   financial  statements  include  all   adjustments
+(consisting  only of normal adjustments) necessary  for  a  fair
+presentation  of the financial position of Bristol-Myers  Squibb
+Company (the "Company") at June 30, 1999 and December 31,  1998,
+the  results  of operations for the three and six  months  ended
+June  30, 1999 and 1998, and cash flows for the six months ended
+June 30, 1999 and 1998.  These consolidated financial statements
+should  be  read in conjunction with the consolidated  financial
+statements and the related notes included in the Company's  1998
+Annual Report on Form 10-K.
+
+Second Quarter Results of Operations
+- ------------------------------------
+
+Worldwide  sales  for the second quarter of 1999  increased  11%
+over  the prior year to $4,920 million.  The consolidated  sales
+growth resulted from a 10% increase due to volume, a 2% increase
+due  to  changes  in  selling prices and a 1%  decrease  due  to
+foreign  exchange rate fluctuations.  U.S. sales  increased  19%
+and  international  sales  remained at  prior  year  levels  (an
+increase of 3% excluding the effect of foreign exchange).
+
+Sales  in  the medicines products segment, which is the  largest
+segment  at 70% of total Company sales, increased 15%  over  the
+second   quarter   of   1998  to  $3,435   million.    Worldwide
+pharmaceutical  sales  increased 17%  with  U.S.  pharmaceutical
+sales  up  29% over the prior year. Sales growth in  the  second
+quarter resulted from a 14% increase in volume, a 2% increase in
+selling  prices and a 1% decrease due to foreign  exchange  rate
+fluctuations.
+
+Sales of cardiovascular drugs, the largest product group in  the
+segment,  increased 20% to $881 million (22%  excluding  foreign
+exchange).   Sales of PRAVACHOL*, the Company's largest  selling
+product,  increased  5% to $380 million.   Sales  of  the  anti-
+hypertensive   MONOPRIL*,   a  second   generation   angiotensin
+converting enzyme (ACE) inhibitor, increased 9% to $116 million.
+PLAVIX,  a  platelet aggregation inhibitor for the reduction  of
+stroke,  heart  attack  and  vascular death  in  atherosclerotic
+patients  with recent stroke, recent heart attack or  peripheral
+arterial  disease, had sales of $128 million  for  the  quarter.
+AVAPRO, an angiotensin II receptor blocker for the treatment  of
+hypertension,  had sales of $64 million. AVAPRO and  PLAVIX  are
+cardiovascular  products that were launched  from  the  Bristol-
+Myers  Squibb  and Sanofi S.A. joint venture. In May  1999,  the
+Company  and Sanofi S.A. announced the availability in the  U.S.
+of  the  anti-hypertensive AVALIDE, an angiotensin  II  receptor
+blocker  combined  with a thiazide diuretic.  Sales  growth  for
+these  cardiovascular products was partially offset  by  an  18%
+decline  in CAPOTEN* sales due to the loss of patent exclusivity
+in international markets.
+
+
+
+*    Indicates  brand  names of products  which  are  registered
+trademarks owned by the Company.
+
+<PAGE>
+
+
+Sales of anti-cancer drugs increased 19% to $852 million.  Sales
+of  TAXOL*  (paclitaxel),  the  Company's  leading  anti-cancer
+agent, increased 19% to $362 million as the product continues to
+benefit from increased use in ovarian, breast and non-small cell
+lung  cancer. In April 1999, the Company applied for  regulatory
+approval  to  extend  the use of TAXOL* to treat  breast  cancer
+patients following surgery.  In June 1999, the Company submitted
+a  regulatory  application to the Food and  Drug  Administration
+(FDA)  to  gain  marketing  approval  for  TAXOL*  injection  in
+combination  with  Genentech, Inc's Herceptin  r  as  first-line
+therapy for women with metastatic breast cancer.  Also in  June,
+the  Company filed for European marketing authorization  to  the
+Dutch  Health Authorities for the use of TAXOL* for the adjuvant
+treatment of node-positive breast cancer.  Sales of PARAPLATIN*,
+an anti-cancer agent used in combination with other chemotherapy
+agents,  increased  11% to $138 million.   Sales  from  Oncology
+Therapeutics  Network  (OTN), a specialty distributor  of  anti-
+cancer  medicines and related products, increased  41%  to  $219
+million.
+
+Anti-infective drug sales of $584 million increased 2% over  the
+prior  year.    ZERIT*  and  VIDEX*,  the  Company's  two  anti-
+retroviral agents, increased 19% to $151 million and 41% to  $55
+million,  respectively.  ZERIT* is  one  of  the  most  commonly
+prescribed thymidine nucleoside reverse transcriptase  inhibitor
+in  HIV therapy in most major markets in the world.  During  the
+quarter,  the European Union gave a mutual recognition agreement
+on  the  once-daily dosing of VIDEX* for the treatment  of  HIV.
+International sales of MAXIPIME*, a fourth generation injectable
+cephalosporin,  increased 19% to $32  million  in  the  quarter.
+Effective  January  1,  1999,  Dura  Pharmaceuticals,  Inc.  was
+appointed the exclusive distributor for MAXIPIME* in the  United
+States.
+
+The  Company is committing $100 million over the next five years
+in  connection with the Secure the Future program,  whose  goals
+are  to  speed  research, train doctors  and  enhance  community
+outreach to fight HIV/AIDS in Southern Africa.
+
+Central nervous system drug sales of $306 million increased  26%
+with  sales of BUSPAR*, an anti-anxiety agent, and SERZONE*,  an
+anti-depressant, increasing 57% to $132 million, and 18% to  $84
+million, respectively.
+
+GLUCOPHAGE,  the  leading  branded  oral  medication   for   the
+treatment  of non-insulin dependent (type 2) diabetes, continued
+its  strong  growth  rate  with sales  increasing  47%  to  $350
+million.  In  May 1999, the FDA approved AVANDIA in  combination
+with  GLUCOPHAGE for the treatment of type 2 diabetes.   AVANDIA
+is  a product of SmithKline Beecham, and is being co-promoted by
+Bristol-Myers Squibb Company in the United States.
+
+Analgesic  sales decreased 2% to $168 million.  EXCEDRIN*  sales
+increased  6%  to  $53  million and  sales  of  EFFERALGAN*,  an
+effervescent analgesic sold primarily in France, decreased 6% to
+$34 million.
+
+Earnings  before  taxes  for  the  medicines  products   segment
+increased  19%  to  $893 million in 1999.  As  a  percentage  of
+sales, earnings before taxes for this segment improved to  26.0%
+in  1999  from  25.2% in 1998.  Advertising and  promotion,  and
+sales  force  expenses  improved,  as  a  percentage  of  sales,
+partially  offset  by  increases in cost of  goods  sold,  as  a
+percentage of sales.
+
+
+<PAGE>
+
+
+Sales  in  the  beauty care products segment  increased  4%  (5%
+excluding  the  effect  of foreign exchange)  to  $626  million.
+Sales  growth in the second quarter resulted from a 3%  increase
+in volume, a 2% increase in selling prices and a 1% decrease due
+to  foreign exchange rate fluctuations.  Clairol continues to be
+the   number  one  hair  products  company  in  the  U.S.    The
+introduction of a demand management manufacturing system  slowed
+shipments  during the quarter. HERBAL ESSENCES*, the number  two
+brand  in the U.S. shampoo/conditioner category and number three
+in   the  body  wash  category,  continued  its  strong  growth,
+increasing 16% to $159 million.  HERBAL ESSENCES FACIAL CARE*, a
+line  of  skin  care products, was launched in March  1999,  and
+contributed $6 million in second quarter sales. AUSSIE* products
+contributed $33 million to second quarter sales, an increase  of
+22%.  AUSSIE LAND*, hair products for children, was launched  in
+March  1999 and contributed $7 million to second quarter  sales.
+Sales  of DAILY DEFENSE* increased 100% to $30 million  for  the
+second quarter, following its launch into international markets.
+Earnings  before taxes for the beauty care segment decreased  to
+$44  million in 1999 from $89 million in 1998, primarily due  to
+the introduction of a demand management manufacturing system.
+
+Sales  in the nutritional products segment increased 4% to  $438
+million  (6%  excluding the effect of foreign  exchange).   U.S.
+sales   increased  7%  and  international  sales  decreased   1%
+primarily due to market conditions in Asia.  Sales growth in the
+second  quarter  resulted from a 4% increase  in  volume,  a  2%
+increase  in  selling prices and a 2% decrease  due  to  foreign
+exchange   rate   fluctuations.  The  Company's   Mead   Johnson
+subsidiary  continues  to  build  on  its  U.S.  and   worldwide
+leadership position in the infant formula market.  ENFAMIL*, the
+Company's largest-selling infant formula, recorded sales of $163
+million,  a  5% increase over the prior year. BOOST*,  an  adult
+nutritional  supplement,  also  contributed  to  sales   growth,
+increasing  45%  to  $29 million. In March  1999,  Mead  Johnson
+Nutritionals introduced VIACTIV* Soft Calcium Chews  to  address
+the  need for a convenient, great-tasting calcium supplement for
+women.   Sales  of  VIACTIV* reached $6 million  in  the  second
+quarter.   Earnings  before taxes for  the  nutritional  segment
+decreased  to $71 million in 1999 from $74 million in 1998,  and
+as  a percentage of sales, decreased to 16.2% in 1999 from 17.5%
+in 1998 primarily due to market conditions in Asia.
+
+Medical  device  segment sales increased  4%  to  $421  million,
+excluding  sales  from a 1998 distribution  agreement  with  the
+acquirer  of Zimmer's divested arthroscopy and powered  surgical
+instrument  business.   On  this  basis,  medical  device  sales
+increased  5% due to volume and decreased 1% due to  changes  in
+selling  prices. Fluctuations in foreign exchange had no  effect
+on  medical  devices  sales.  Zimmer sales on  this  same  basis
+increased  7%  to $240 million (6% excluding foreign  exchange).
+Knee  joint  replacement sales increased 12% to $95 million  and
+hip  replacement  sales increased 9% to $72  million.   ConvaTec
+sales  increased  1%  to  $180  million  (2%  excluding  foreign
+exchange).   Sales  of  ostomy products  increased  2%  to  $116
+million partially offset by a decrease in wound care products of
+3% to $56 million.  Earnings before taxes for the medical device
+segment increased 12% to $91 million in 1999 from $81 million in
+1998  and, as a percentage of sales, increased to 21.6% in  1999
+from  19.4%  in  1998,  primarily due to improved  manufacturing
+efficiencies.
+
+
+<PAGE>
+
+
+Operating Expenses
+- ------------------
+
+Total  expenses  for  the quarter ended  June  30,  1999,  as  a
+percentage  of  sales, decreased to 73.2% from 73.7% in 1998. Cost
+of products sold, as a percentage of sales, increased to 27.7% from
+27.2%  in  1998  due  to  revenue growth of  OTN  which  carries
+significantly  lower margins.  Expenditures for advertising  and
+promotion  in support of new and existing products increased  4%
+to   $666   million  from  $642  million.   Marketing,  selling,
+administrative  and  other  expenses  increased  9%  to   $1,122
+million. Research and development expenditures increased 18%  to
+$453 million from $384 million in 1998.  Pharmaceutical research
+and  development spending increased 19% over the prior year, and
+as a percentage of pharmaceutical sales, was 12.7% in the second
+quarter  of  1999 and 12.6% in the second quarter  of  1998.  In
+research  and development highlights this quarter, data  on  the
+Company's  new  novel cardiovascular agent in Phase  II  trials,
+VANLEV*  (omapatrilat), were presented at the American  Society
+of  Hypertension.   The  Phase II results  showed  that  use  of
+VANLEV* was effective in reducing both systolic (top number) and
+diastolic (bottom number) blood pressure.  The Company plans  to
+file for regulatory approval for VANLEV* with the FDA by the end
+of  the  year  with worldwide regulatory filings to follow.  The
+Company  is  also awaiting marketing approval from the  FDA  for
+ORZEL*  (UFT),  an  oral  therapy for  colorectal  cancer,  and
+TEQUIN*  (gatifloxacin), a broad-spectrum quinolone  antibiotic
+for the treatment of multiple common infections, including those
+of the respiratory tract.
+
+Earnings
+- --------
+
+Earnings  before  income taxes for the second quarter  increased
+13% to $1,318 million from $1,164 million in 1998. The effective
+tax  rate on earnings before income taxes decreased to 27.8%  in
+1999  from 28.3% in 1998. The decrease in the effective tax rate
+is  due to increased earnings from lower tax rate jurisdictions.
+Net  earnings  increased 14% to $952 million from $835  million
+in 1998. Basic earnings per share increased 14% to $.48 from $.42
+in 1998 and  diluted earnings per share increased 15% to $.47 from
+$.41 in 1998.
+
+Six Months Results of Operations
+- --------------------------------
+
+Worldwide  sales for the first six months of 1999 increased  10%
+(11%  excluding the effect of foreign exchange) over  the  prior
+year to $9,774 million.   The consolidated sales growth resulted
+from  a  9% increase due to volume, a 2% increase due to changes
+in selling prices and a 1% decrease due to the effect of foreign
+exchange.   U.S.  sales  increased 16% and  international  sales
+increased 2% (3% excluding the effect of foreign exchange).
+
+Sales  in the medicines products segment increased 14% over  the
+prior  year  to  $6,865 million. Worldwide pharmaceutical  sales
+increased  16% with U.S. pharmaceutical sales up  25%  over  the
+prior year. Sales growth for the six months resulted from a  12%
+increase  in  volume,  a 2% increase in selling  prices  and  no
+effect from foreign exchange rate fluctuations.
+
+
+<PAGE>
+
+
+Cardiovascular drug sales of $1,802 million increased  17%  from
+the  prior  year.  PRAVACHOL* increased 7% to $866  million  and
+MONOPRIL*  increased 10% to $222 million.  PLAVIX had  sales  of
+$216  million  for the six months and AVAPRO had sales  of  $114
+million.   Sales growth for these products was partially  offset
+by  a  22% decline in CAPOTEN* sales, due to the loss of  patent
+exclusivity  in  international markets.   Sales  of  anti-cancer
+drugs  increased  24% to $1,687 million due to strong  sales  of
+TAXOL*  and PARAPLATIN* which increased 24% to $692 million  and
+13% to $287 million, respectively.  Sales from OTN increased 42%
+to  $420  million.  Anti-infective drug sales  increased  5%  to
+$1,217  million as ZERIT* and VIDEX* recorded gains  of  18%  to
+$302   million   and   34%   to   $99   million,   respectively.
+International  sales of MAXIPIME* increased 24% to  $62  million
+for  the  six months and sales of CEFZIL* increased 12% to  $220
+million.  Sales of central nervous system drugs increased 10% to
+$574  million  as  BUSPAR* and SERZONE* increased  15%  to  $264
+million   and  9%  to  $147  million,  respectively.  GLUCOPHAGE
+continued  its strong growth and increased 51% to $631  million.
+Analgesic  sales of $360 million increased 3% primarily  due  to
+increases in EFFERALGAN* of 11% to $84 million and DAFALGAN*  of
+16% to $36 million partially offset by decreases in EXCEDRIN* of
+3% to $112 million, coming off significant increases in 1998 due
+to the launch of EXCEDRIN MIGRAINE*.
+
+Earnings  before  taxes  for  the  medicines  products   segment
+increased  15%  to $1,894 million in 1999.  As a  percentage  of
+sales, earnings before taxes for this segment improved to  27.6%
+in 1999 from 27.2% in 1998.
+
+Sales  in  the  beauty care products segment  increased  5%  (6%
+excluding  the  effect of foreign exchange) to  $1,198  million.
+Sales  growth  resulted  from a 4%  increase  in  volume,  a  2%
+increase  in  selling prices and a 1% decrease  due  to  foreign
+exchange  rate  fluctuations.  HERBAL  ESSENCES*  continued  its
+strong  growth, increasing 21% to $323 million.  HERBAL ESSENCES
+FACIAL CARE* contributed $12 million in six month sales. AUSSIE*
+products contributed $61 million, an increase of 22%, and  sales
+of  DAILY  DEFENSE* increased 100% to $64 million  for  the  six
+months.   Earnings  before  taxes for the  beauty  care  segment
+decreased  to  $109 million in 1999 from $161 million  in  1998,
+primarily  due  to  the  introduction  of  a  demand  management
+manufacturing system.
+
+Sales  in the nutritional products segment increased 2% to  $888
+million  (3%  excluding the effect of foreign exchange).   Sales
+growth for the six months resulted from a 2% increase in volume,
+a 1% increase in selling prices and a 1% decrease due to foreign
+exchange rate fluctuations. Total infant formula sales increased
+2% to $605 million.  ENFAMIL* recorded sales of $350 million,  a
+6%  increase  over the prior year. BOOST*, an adult  nutritional
+supplement,  increased 30% to $52 million.  Six month  sales  of
+VIACTIV*  were  $9  million.   Earnings  before  taxes  for  the
+nutritional segment were $172 million in 1999 compared  to  $169
+million  in  1998 and, as a percentage of sales, were  19.4%  in
+both 1999 and 1998.
+
+Medical  device  segment sales increased  4%  to  $823  million,
+excluding  sales  from a 1998 distribution  agreement  with  the
+acquirer  of Zimmer's divested arthroscopy and powered  surgical
+instrument  business.   On  this  basis,  medical  device  sales
+increased  3% due to volume and 1% due to foreign exchange  with
+no  effect  from price changes. Zimmer sales on the  same  basis
+increased  7%  to  $478 million.  Knee joint  replacement  sales
+increased  10%  to  $189  million  and  hip  replacement   sales
+increased  8% to $143 million. ConvaTec remained at  prior  year
+levels of $344 million as sales of ostomy products increased  2%
+to  $224  million and wound care products decreased 2%  to  $111
+million.   Earnings before taxes for the medical devices segment
+increased 10% to $163 million in 1999 from $148 million in  1998
+and,  as  a percentage of sales, improved to 19.8% in 1999  from
+17.9%  in  1998, resulting from a decrease, as a  percentage  of
+sales, in cost of products sold.
+
+
+<PAGE>
+
+
+Operating Expenses
+- ------------------
+
+Total  expenses  for the six months ended June 30,  1999,  as  a
+percentage  of  sales, decreased to 71.4% from 72.3% in 1998. Cost
+of products  sold  increased to 27.3% of sales from 26.6%  in  1998
+primarily  due  to  revenue  growth of  OTN.   Expenditures  for
+advertising  and  promotion  in  support  of  new  and  existing
+products  decreased 1% to $1,195 million from $1,213 million  in
+1998.  Marketing,  selling, administrative  and  other  expenses
+increased  8%  to  $2,243 million from $2,082 million  in  1998.
+Research  and  development expenditures increased  14%  to  $876
+million  from $767 million in 1998. Pharmaceutical research  and
+development spending increased 15% over the prior year, and as a
+percentage of pharmaceutical sales, was 12.4% compared to  12.6%
+in the same period of 1998.
+
+Earnings
+- --------
+
+Earnings before income taxes for the six months increased 14% to
+$2,794  million from $2,456 million in 1998. The  effective  tax
+rate  on earnings before income taxes decreased to 27.8% in 1999
+from 28.3% in 1998. Net earnings increased 15% to $2,019 million
+from  $1,762 million in 1998. Basic earnings per share increased
+15% to $1.02 from $.89 in 1998 and diluted earnings per share
+increased 15% to $1.00 from $.87 in 1998.
+
+Financial Position
+- ------------------
+
+The  balance  sheet at June 30, 1999 and the statement  of  cash
+flows for the six months then ended reflect the Company's strong
+financial  position.  The Company continues to maintain  a  high
+level of working capital, increasing to $3.3 billion at June 30,
+1999, from $3.0 billion at December 31, 1998.
+
+Long-Term Debt decreased slightly to $1,327 million from  $1,364
+million at December 1998.
+
+Internally generated funds continue to be the Company's  primary
+source  for  financing expenditures for new plant and equipment.
+Net  cash  provided  by Operating Activities  increased  17%  to
+$1,586  million in 1999.  Additions to fixed assets for the  six
+months  ended June 30, 1999 were $299 million compared  to  $365
+million during the same period of 1998.
+
+During the six months ended June 30, 1999, the Company purchased
+10.2  million shares of its common stock at a total cost of $633
+million.
+
+During  the first quarter of 1998, the Company divested its  BAN
+brand  of  anti-perspirants  and deodorants  for  $165  million,
+resulting  in a gain of $125 million before taxes.   During  the
+second  quarter,  the Company divested A/S GEA, a  Denmark-based
+generic   drug   business,  and  Hexachimie,  a  fine   chemical
+manufacturer  based in France, resulting in a combined  gain  of
+$76  million before taxes.  The Company recorded provisions  for
+restructuring of $125 million before taxes in the first  quarter
+and  $76  million  before  taxes  in  the  second  quarter.  The
+restructuring charges primarily related to the consolidation and
+closure  of  plants and facilities as part of the Company's  on-
+going productivity programs.
+
+
+
+<PAGE>
+
+
+
+
+Business Segments
+- -----------------
+
+
+
+                                 Three Months Ended June 30,
+
+                              Net Sales          Earnings Before
+                                                       Taxes
+(in millions)              1999        1998       1999       1998
+
+Medicines Products       $3,435      $2,987       $893       $753
+Beauty Care Products        626         603         44         89
+Nutritional Products        438         423         71         74
+Medical Devices             421         417         91         81
+Other                         -           -        219        167
+Total Company            $4,920      $4,430     $1,318     $1,164
+
+
+
+
+                                  Six Months Ended June 30,
+
+                              Net Sales          Earnings Before
+                                                       Taxes
+(in millions)              1999        1998       1999       1998
+
+Medicines Products       $6,865      $6,044     $1,894     $1,646
+Beauty Care Products      1,198       1,137        109        161
+Nutritional Products        888         870        172        169
+Medical Devices             823         825        163        148
+Other                         -           -        456        332
+Total Company            $9,774      $8,876     $2,794     $2,456
+
+
+
+Included  in earnings before taxes of each segment is a  cost  of
+capital  charge.   The offset to the cost of  capital  charge  is
+included  in  Other. In addition, Other principally  consists  of
+interest   income,   interest  expense,  certain   administrative
+expenses  and  allocations to the industry segments  for  certain
+corporate  programs. In the second quarter of  1998,  Other  also
+includes  the  gain on sale of a business of $76  million  and  a
+provision  for restructuring of $76 million.  For the  first  six
+months  of  1998,  Other  also  includes  the  gain  on  sale  of
+businesses  of $201 million and a provision for restructuring  of
+$201  million.   In  addition, the segment  information  reflects
+certain internal organizational changes made in 1999. Prior  year
+data have been restated accordingly.
+
+
+
+<PAGE>
+
+
+
+
+PART II - OTHER INFORMATION
+- ---------------------------
+
+
+Item 6.  Exhibits and Reports on Form 8-K
+- -----------------------------------------
+
+a) Exhibits (listed by number corresponding to the Exhibit Table
+    of Item 601 in Regulation S-K).
+
+
+   Exhibit Number and Description                         Page
+   -------------------------------                        -----
+
+   27.  Bristol-Myers Squibb Company Financial Data ScheduleE-27-1
+
+
+b) Reports on Form 8-K.
+
+The  Registrant did not file any reports on Form 8-K during  the
+   quarter ended June 30, 1999.
+
+
+
+<PAGE>
+
+
+                                SIGNATURES
+                                ----------
+
+
+
+Pursuant  to  the  requirements of the Securities Exchange  Act  of
+1934,  the  Registrant has duly caused this report to be signed  on
+its behalf by the undersigned, thereunto duly authorized.
+
+
+
+
+
+
+                                 BRISTOL-MYERS SQUIBB COMPANY
+                                         (Registrant)
+
+
+
+
+
+
+
+Date: August 13, 1999              /s/ Harrison M. Bains, Jr.
+
+                                       Harrison M. Bains, Jr.
+                                   Vice President and Treasurer
+
+
+
+
+
+
+
+Date: August 13, 1999              /s/ Frederick S. Schiff
+
+                                       Frederick S. Schiff
+                                 Vice President Financial Operations
+                                          and Controller
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+Exhibit 27 for Bristol-Myers Squibb Company for the period ended 6/30/99
+<MULTIPLIER> 1000000
+
+<S>                                                <C>
+<PERIOD-TYPE>                                    6-MOS
+<FISCAL-YEAR-END>                          DEC-31-1999 <F1>
+<PERIOD-END>                               JUN-30-1999
+<CASH>                                            2081
+<SECURITIES>                                       267
+<RECEIVABLES>                                     3218 <F2>
+<ALLOWANCES>                                         0
+<INVENTORY>                                       2044
+<CURRENT-ASSETS>                                  8658
+<PP&E>                                            7613
+<DEPRECIATION>                                    3158
+<TOTAL-ASSETS>                                   16214
+<CURRENT-LIABILITIES>                             5367
+<BONDS>                                           1327
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           219
+<OTHER-SE>                                        7841
+<TOTAL-LIABILITY-AND-EQUITY>                     16214
+<SALES>                                           9774
+<TOTAL-REVENUES>                                  9774
+<CGS>                                             2666
+<TOTAL-COSTS>                                     2666
+<OTHER-EXPENSES>                                  2071
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                  64
+<INCOME-PRETAX>                                   2794
+<INCOME-TAX>                                       775
+<INCOME-CONTINUING>                               2019
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                      2019
+<EPS-BASIC>                                     1.02
+<EPS-DILUTED>                                     1.00
+<FN>
+<F1>
+Items reported as "zero" are not applicable or are immaterial to the
+consolidated financial position of the Company.
+<F2>
+Receivables are reported net of allowances for doubtful accounts.
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

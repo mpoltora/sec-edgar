@@ -1,0 +1,2490 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ua61PfVwiv2irtq/z/93zAlyZC9UhScCYA3lYW3/TNOLIq2ywf6aKF0ealoLyuar
+ DUDLlbGf9vV8V5AtWAiqYg==
+
+<SEC-DOCUMENT>0000014272-98-000011.txt : 19981118
+<SEC-HEADER>0000014272-98-000011.hdr.sgml : 19981118
+ACCESSION NUMBER:		0000014272-98-000011
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19980930
+FILED AS OF DATE:		19981116
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		98750218
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 1998
+<TEXT>
+
+
+
+
+
+
+
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                          WASHINGTON, D.C.  20549
+
+
+                                FORM 10-Q
+
+
+           QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                       SECURITIES EXCHANGE ACT OF 1934
+
+
+              FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 1998
+
+
+                       Commission File Number 1-1136
+
+
+                       BRISTOL-MYERS SQUIBB COMPANY
+            (Exact name of registrant as specified in its charter)
+
+
+
+       Delaware                                    22-079-0350
+ (State or other jurisdiction of          (IRS Employer Identification No.)
+  incorporation or organization)
+
+
+
+                 345 Park Avenue, New York, N.Y.  10154
+                (Address of principal executive offices)
+                        Telephone: (212) 546-4000
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.
+
+Yes  [ X ]            No  [   ]
+
+
+
+At September 30, 1998, there were 993,571,678 shares outstanding of the
+Registrant's $.10 par value Common Stock.
+
+<PAGE>
+
+
+
+
+
+                      BRISTOL-MYERS SQUIBB COMPANY
+
+
+                           INDEX TO FORM 10-Q
+
+
+                           September 30, 1998
+
+
+
+                                                                  Page No.
+                                                                -----------
+Part I - Financial Information:
+
+  Financial Statements (Unaudited):
+
+  Consolidated Balance Sheet - September 30, 1998
+    and December 31, 1997                                            2 - 3
+
+  Consolidated Statement of Earnings and Comprehensive Income for
+    the three and nine months ended September 30, 1998 and 1997          4
+
+  Consolidated Statement of Cash Flows for the nine
+    months ended September 30, 1998 and 1997                             5
+
+  Management's Discussion and Analysis of Financial
+    Condition and Results of Operations                             6 - 14
+
+
+Part II - Other Information                                        15 - 20
+
+Signatures                                                              21
+
+
+
+
+
+
+
+
+
+
+
+
+                               -1-
+
+
+
+
+   <PAGE>
+
+                   BRISTOL-MYERS SQUIBB COMPANY
+               CONSOLIDATED BALANCE SHEET - ASSETS
+          (Unaudited, in millions except share amounts)
+
+
+
+                                           September 30      December 31,
+                                               1998              1997
+                                           ------------      ------------
+
+Current Assets:
+  Cash and cash equivalents                     $ 1,531           $ 1,456
+  Time deposits and marketable
+    securities                                      308               338
+  Receivables, net of allowances                  3,129             2,973
+
+  Finished goods                                  1,101             1,153
+  Work in process                                   241               197
+  Raw and packaging materials                       433               449
+                                             ----------        ----------
+  Inventories                                     1,775             1,799
+
+  Prepaid expenses                                  977             1,170
+                                             ----------        ----------
+    Total Current Assets                          7,720             7,736
+                                             ----------        ----------
+
+Property, Plant and Equipment                     7,221             7,001
+
+Less: Accumulated depreciation                    2,973             2,845
+                                             ----------        ----------
+                                                  4,248             4,156
+                                             ----------        ----------
+
+Insurance Recoverable                               529               619
+
+Excess of cost over net tangible assets
+  received in business acquisitions               1,580             1,625
+
+Other Assets                                        848               841
+                                             ----------        ----------
+
+  Total Assets                                  $14,925           $14,977
+                                             ==========        ==========
+
+
+
+
+
+                                 -2-
+
+
+
+<PAGE>
+
+                    BRISTOL-MYERS SQUIBB COMPANY
+                     CONSOLIDATED BALANCE SHEET -
+                  LIABILITIES AND STOCKHOLDERS' EQUITY
+             (Unaudited, in millions except share amounts)
+
+                                             September 30,   December 31,
+                                                 1998            1997
+                                              -----------    ------------
+Current Liabilities:
+  Short-term borrowings                          $    504        $    543
+  Accounts payable                                  1,067           1,017
+  Accrued expenses                                  2,117           1,939
+  Product liability                                   343             865
+  U.S. and foreign income taxes payable               614             668
+                                               ----------      ----------
+    Total Current Liabilities                       4,645           5,032
+
+Other Liabilities                                   1,419           1,447
+
+Long-Term Debt                                      1,314           1,279
+                                               ----------      ----------
+    Total Liabilities                               7,378           7,758
+                                               ----------      ----------
+Stockholders' Equity:
+  Preferred stock, $2 convertible series:
+    Authorized 10 million shares; issued and
+    outstanding 12,112 in 1998 and 12,936 in
+    1997, liquidation value of $50 per share            -               -
+
+  Common stock, par value of $.10 per share:
+    Authorized 2.25 billion shares; issued
+    1,093,589,093 in 1998 and 1,083,253,703
+    in 1997                                           109             108
+
+  Capital in excess of par value of stock           1,102             544
+
+  Cumulative translation adjustments                (677)           (533)
+
+  Retained earnings                                12,514          10,950
+                                               ----------      ----------
+                                                   13,048          11,069
+  Less cost of treasury stock - 100,017,415
+  common shares in 1998 and 90,069,383 in 1997      5,501           3,850
+                                               ----------      ----------
+       Total Stockholders' Equity                   7,547           7,219
+                                               ----------      ----------
+  Total Liabilities and Stockholders' Equity      $14,925         $14,977
+                                               ==========      ==========
+
+
+
+                                   -3-
+
+
+<PAGE>
+
+                          BRISTOL-MYERS SQUIBB COMPANY
+                        CONSOLIDATED STATEMENT OF EARNINGS
+                            AND COMPREHENSIVE INCOME
+           (Unaudited, in millions of dollars except per share amounts)
+
+
+                                       Three Months Ended    Nine Months Ended
+                                          September 30,         September 30,
+                                      -------------------   -------------------
+                                        1998       1997       1998       1997
+EARNINGS                              --------   --------   --------   --------
+- ---------------
+Net Sales                               $4,523     $4,151    $13,399    $12,260
+                                      --------   --------   --------   --------
+
+   Cost of products sold                 1,191      1,110      3,549      3,285
+   Marketing, selling, administrative
+      and other                          1,034        949      3,116      3,017
+   Advertising and product promotion       554        550      1,767      1,604
+   Research and development                398        346      1,165        993
+   Provision for restructuring               -          -        201          -
+   Gain on sale of businesses                -          -       (201)         -
+                                      --------   --------   --------   --------
+                                         3,177      2,955      9,597      8,899
+                                      --------   --------   --------   --------
+
+Earnings Before Income Taxes             1,346      1,196      3,802      3,361
+
+Provision for income taxes                 380        341      1,074        958
+                                      --------   --------   --------   --------
+
+Net Earnings                           $   966    $   855     $2,728     $2,403
+                                      ========   ========   ========   ========
+
+Earnings Per Common Share
+
+Basic                                     $.97       $.86      $2.74      $2.41
+Diluted                                   $.95       $.84      $2.68      $2.36
+
+Average Common Shares Outstanding (in millions)
+
+Basic                                      995        995        994        997
+Diluted                                  1,015      1,021      1,016      1,018
+
+
+Dividends Per Common Share                $.39       $.38      $1.17      $1.14
+
+COMPREHENSIVE INCOME
+- --------------------
+
+Net Earnings                              $966       $855     $2,728     $2,403
+
+Other Comprehensive Income:
+   Foreign currency translation            (68)       (87)      (155)      (201)
+   Tax effect                                6         17         11         38
+                                      --------   --------   --------   --------
+   Total Other Comprehensive Income        (62)       (70)      (144)      (163)
+                                      --------   --------   --------   --------
+Comprehensive Income                      $904       $785     $2,584     $2,240
+                                      ========   ========   ========   ========
+
+
+                           -4-
+
+<PAGE>
+
+                  BRISTOL-MYERS SQUIBB COMPANY
+              CONSOLIDATED STATEMENT OF CASH FLOWS
+              (Unaudited, in millions of dollars)
+
+                                                         Nine Months Ended
+                                                           September 30,
+                                                   ---------------------------
+                                                         1998           1997
+                                                     ---------      ---------
+Cash Flows From Operating Activities:
+      Net earnings                                     $ 2,728       $ 2,403
+      Depreciation and amortization                        457           409
+      Provision for restructuring                          201             0
+      Gain on sale of businesses                          (201)            0
+      Other operating items                                 27           (10)
+      Receivables                                         (262)         (290)
+      Inventories                                          (81)         (265)
+      Accounts payable                                      89           (41)
+      Accrued expenses                                    (242)          (79)
+      Product liability                                   (493)         (421)
+      Insurance recoverable                                 89           223
+      Income taxes                                         468            50
+      Other assets and liabilities                        (103)          (96)
+                                                      --------      --------
+      Net Cash Provided by Operating Activities          2,677         1,883
+                                                      --------      --------
+Cash Flows From Investing Activities:
+      Proceeds from sales of time deposits and
+      marketable securities                                225           465
+      Purchases of time deposits and marketable
+      securities                                          (195)         (266)
+      Additions to fixed assets                           (537)         (438)
+      Proceeds from sale of business                       413             0
+      Acquisition of businesses                            (67)         (170)
+      Other, net                                            10            26
+                                                      --------      --------
+      Net Cash Used in Investing Activities               (151)         (383)
+                                                      --------      --------
+Cash Flows From Financing Activities:
+      Short-term borrowings                                (30)           80
+      Long-term debt                                        69           305
+      Issuances of common stock under stock plans          129           226
+      Purchases of treasury stock                       (1,448)         (971)
+      Dividends paid                                    (1,163)       (1,138)
+                                                      --------      --------
+      Net Cash Used in Financing Activities             (2,443)       (1,498)
+                                                      --------      --------
+
+Effect of Exchange Rates on Cash                            (8)          (19)
+                                                      --------      --------
+
+Increase / (Decrease) in Cash and Cash Equivalents          75           (17)
+Cash and Cash Equivalents at Beginning of Period         1,456         1,681
+                                                      --------      --------
+Cash and Cash Equivalents at End of Period              $1,531        $1,664
+                                                      ========      ========
+
+                            -5-
+
+<PAGE>
+
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                 MANAGEMENT'S DISCUSSION AND ANALYSIS
+           OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+               (in millions, except per share amounts)
+
+
+Basis of Presentation
+- ---------------------
+
+
+
+In the opinion of management, the accompanying unaudited consolidated
+financial statements include all adjustments (consisting only of normal
+adjustments) necessary for a fair presentation of the financial position
+of Bristol-Myers Squibb Company (the "Company") at September 30, 1998 and
+December 31, 1997, the results of operations for the three and nine months
+ended September 30, 1998 and 1997, and cash flows for the nine months ended
+September 30, 1998 and 1997.  These consolidated financial statements should
+be read in conjunction with the consolidated financial statements and the
+related notes included in the Company's 1997 Annual Report on Form 10-K.
+
+
+Third Quarter Results of Operations
+- -----------------------------------
+
+Sales
+- ------
+
+Worldwide sales for the third quarter of 1998 increased 9% (12% excluding
+the effect of foreign exchange) over the prior year to $4,523.   The
+consolidated sales growth resulted from a 10% increase due to volume, a 3%
+decrease due to the effect of foreign exchange and a 2% increase due to
+changes in selling prices.  Domestic sales increased 16% and international
+sales decreased 2% (an increase of 5% excluding the effect of foreign
+exchange).  Worldwide sales for the third quarter of 1997 increased 11%
+compared to the third quarter of 1996.
+
+Industry Segments
+- -----------------                    Three Months Ended September 30,
+                            ------------------------------------------------
+                                    Net Sales                 % Change
+                            -----------------------     --------------------
+                               1998           1997        1998         1997
+                            -------        -------      ------       -------
+Pharmaceutical Products      $2,812         $2,424        16 %          13 %
+Consumer Medicines              288            321       (10)%          18 %
+Medical Devices                 385            444       (13)%          (3)%
+Nutritional Products            441            452        (2)%           6 %
+Beauty Care Products            597            510        17 %          13 %
+                            -------        -------
+Total Company                $4,523         $4,151         9 %          11 %
+                            =======        =======
+
+
+<PAGE>
+
+
+
+Sales in the pharmaceutical products segment, which is the largest segment
+at 62% of total company sales, increased 16% (18% excluding foreign exchange)
+over the third quarter of 1997 to $2,812.  Sales growth resulted from a 16%
+increase in volume, a 2% decrease due to the effect of foreign exchange and
+a 2% increase in selling prices. Domestic pharmaceutical sales increased 26%
+and international sales increased 6% excluding foreign exchange.
+
+Sales of cardiovascular drugs, the largest product group in the segment,
+increased 11% to $775 (13% excluding foreign exchange).  Sales of PRAVACHOL*,
+the Company's largest selling product, increased 11% to $390.  Domestic sales
+of PRAVACHOL* increased 14% to $244 and international sales increased 7% to
+$146 (11% excluding foreign exchange). In July 1998, additional findings of
+the Cholesterol and Recurrent Events (CARE) Trial were published in the
+Journal of the American College of Cardiology.  The results of the analysis
+showed extensive proof of cardiovascular protection in women, the subgroup
+that was studied, as well as for a broad range of patients.  PRAVACHOL* is
+the only drug of its type indicated to reduce the risk of a heart attack in
+patients with and without established coronary heart disease.  Sales of the
+anti-hypertensive MONOPRIL*, a second generation angiotensin converting
+enzyme (ACE) inhibitor with once-a-day dosing, increased 13% to $86.  AVAPRO
+and PLAVIX, recently launched products from the Bristol-Myers Squibb and
+Sanofi S.A. joint venture, contributed $86 to sales in the third quarter.
+AVAPRO is an angiotensin II receptor blocker for the treatment of hypertension
+and PLAVIX is a platelet aggregation inhibitor for the reduction of stroke,
+heart attack and vascular death in atherosclerotic patients.  Sales growth for
+these cardiovascular products was partially offset by a 21% decline in
+CAPOTEN* sales due to the loss of patent exclusivity in Europe.
+
+Sales of anti-cancer drugs increased 21% to $774.  Sales of TAXOL(r)*
+(paclitaxel), the Company's leading anti-cancer agent, increased 25% to $304.
+In September 1998, the FDA approved another company's product, Herceptin(r)**,
+as a first-line therapy in combination with TAXOL* for treatment of patients
+with metastatic breast cancer.  Also in September, the European Community
+approved a TAXOL* indication for non-small cell lung cancer. Sales of
+PARAPLATIN*, an anti-cancer agent used in combination with other chemotherapy
+agents, increased 25% to $148.  Sales in the Oncology Therapeutics Network
+increased 36% to $171.
+
+Anti-infective drug sales of $589 increased 14% over the prior year.   ZERIT*
+and VIDEX*, the Company's two antiretroviral agents, increased 22% to $133
+and 17% to $43, respectively. ZERIT* is now the most commonly prescribed
+thymidine nucleoside reverse transcriptase inhibitor in HIV therapy.  Sales
+of CEFZIL*, used in the treatment of respiratory infections and the treatment
+of sinusitis, increased 89% to $98, in anticipation of the upcoming flu
+season.  Sales of MAXIPIME*, a fourth generation injectable cephalosporin,
+were $30, an increase of 29% over the prior year.
+
+
+*   Indicates brand names of products which are registered trademarks owned
+    by the Company.
+**  Herceptin is a registered trademark of Genentech Inc.
+
+<PAGE>
+
+Central nervous system drug sales of $255 increased 14% over the prior
+year, primarily as a result of BUSPAR*, an anti-anxiety agent, and SERZONE*,
+an anti-depressant, which recorded growth of 23% to $138, and 53% to $61,
+respectively.
+
+GLUCOPHAGE, the leading branded oral medication for the treatment of non-
+insulin dependent (type 2) diabetes, continued its strong growth rate with
+sales increasing 33% to $222. In September 1998, results of the United
+Kingdom Prospective Diabetes Study demonstrated the excellent therapeutic
+efficacy profile of GLUCOPHAGE in the treatment of type 2 diabetes.
+
+For the third quarter of 1997, sales of the pharmaceutical products segment
+increased 13% over the third quarter of 1996 to $2,424 as a result of
+increases in sales of PRAVACHOL*, GLUCOPHAGE, ZERIT*, TAXOL*, BUSPAR*, and
+PARAPLATIN*, which were partially offset by a decrease in CAPOTEN* sales.
+
+Sales in the consumer medicines segment decreased 1% to $288, excluding the
+March 1998 divestiture of the Company's BAN* brand of antiperspirants and
+deodorants.  Including the divested business, sales decreased 10% reflecting
+a 9% decrease in volume, a 3% decrease due to the effect of foreign exchange
+and a 2% increase due to changes in selling prices.  Sales of EXCEDRIN*
+increased 7% to $58 following clearance by the FDA in January 1998 to market
+EXCEDRIN* MIGRAINE, the first and only non-prescription medication approved
+for relief of migraine pain.  International consumer medicines sales
+decreased 2% (an increase of 3% excluding foreign exchange).  BUFFERIN* sales
+of $26 increased 1%, and sales of EFFERALGAN*, an analgesic product from the
+Company's UPSA group, decreased 2% to $31, both excluding foreign exchange.
+For the third quarter of 1997, consumer medicines segment sales increased 18%
+to $321, compared to the third quarter of 1996 due to increased sales of
+EXCEDRIN* and EFFERALGAN*.
+
+Medical Device sales increased 1% to $385 (5% excluding the effect of
+foreign exchange) excluding the December 1997 divestiture of Zimmer's
+arthroscopy and surgical powered instrument business.  Including sales of the
+divested products, sales were 13% below prior year levels, reflecting
+decreases of 10% due to volume and 3% due to the effect of foreign exchange.
+Changes in selling prices had no effect on sales for the quarter.  ConvaTec's
+sales increased 3% to $176, excluding the effect of foreign exchange, as
+sales of wound care and ostomy products increased 6% to $59 and 1% to $112,
+respectively, excluding foreign exchange.  Zimmer sales decreased 22% from
+prior year levels to $209.  Excluding the December 1997 divestiture, Zimmer
+sales increased 2% (7% excluding the effect of foreign exchange rate
+fluctuations). The 1998 increase is due primarily to the inclusion of revenue
+under a distribution agreement with the acquirer of the divested business.
+Knee prosthetic joint replacement sales decreased 1% to $78 and hip
+replacement sales decreased 2% to $59, both excluding foreign exchange.  For
+the third quarter of 1997, medical devices segment sales of $444 were 3%
+below 1996 levels as decreases due to the effect of foreign exchange and
+changes in selling prices offset increased sales in prosthetic implants,
+wound care and ostomy products.
+
+<PAGE>
+
+Sales in the nutritional products segment decreased 2% from the third quarter
+of 1997 to $441 (an increase of 3% excluding the effect of foreign exchange),
+reflecting a 1% increase due to volume, a 5% decrease due to the effect of
+foreign exchange and a 2% increase in selling prices. The Company's Mead
+Johnson subsidiary maintains its worldwide leadership position in the infant
+formula market.  Total infant formula sales were $304 for the third quarter
+of 1998, an increase of 2% from prior year levels.  ENFAMIL* increased 3% to
+$166 (6% excluding foreign exchange) and total special infant formulas
+increased 8% to $110.   BOOST* an adult nutritional supplement also
+contributed to sales growth, increasing 23% to $24.  For the third quarter
+of 1997, nutritional products segment sales increased 6% to $452 compared to
+the third quarter of 1996 due to increased sales of NUTRAMIGEN* and LACTOFREE*.
+
+Sales in the beauty care products segment increased 17% over the third quarter
+of 1997 to $597, reflecting a 19% increase due to volume, a 2% increase due to
+changes in selling prices and a 4% decrease due to the effect of foreign
+exchange.  Clairol continues to be the number one hair products company in the
+U.S., increasing its market share to its highest level to date, following the
+January 1998 acquisition of Redmond Products, Inc.  The Redmond AUSSIE brand
+has added $30 to Beauty Care sales in the quarter.  HERBAL ESSENCES*, the
+number two brand in total hair care and the number two shampoo in the U.S.,
+after only three years in the market, continued its strong growth, increasing
+44% to $154.  NICE 'N EASY* sales increased 4% to $45 following its recent
+re-stage.  Sales of DAILY DEFENSE*, launched in September 1997, contributed
+$26 to third quarter sales, and REVITALIQUE*, a new permanent haircolor
+launched in June 1998, reached sales of $18.  For the third quarter of 1997,
+sales of the beauty care products segment were $510, an increase of 13%
+over the third quarter of 1996 due to increased sales of HERBAL ESSENCES*,
+HYDRIENCE* and INFUSIUM 23*.
+
+Cost of Products Sold and Operating Expenses
+- --------------------------------------------
+
+Total costs and expenses for the quarter ended September 30, 1998, as a
+percentage of sales, decreased to 70.2% from 71.2%.  Cost of products
+sold decreased to 26.3% of sales from 26.7% in 1997 due to the lower margins
+of the divested businesses.  Expenditures for advertising and promotion in
+support of new and existing products increased 1% to $554 from $550 in 1997.
+Marketing, selling, administrative and other expenses increased 9% to $1,034.
+Research and development expenditures increased 15% to $398 from $346 in 1997.
+Pharmaceutical research and development spending increased 17% over the prior
+year, and as a percentage of pharmaceutical sales, was 12.6% in 1998 and
+12.3% in 1997.
+
+Earnings
+- --------
+
+
+Earnings before income taxes for the third quarter increased 13% to $1,346
+from $1,196 in 1997. The effective tax rate on earnings before income taxes
+decreased to 28.2% in 1998 from 28.5% in 1997.  Net earnings increased 13%
+to $966 from $855.  Basic earnings per share increased 13% to $.97 from $.86
+in 1997 and diluted earnings per share increased 13% to $.95 from $.84 in 1997.
+
+
+<PAGE>
+
+
+Year-To-Date Results of Operations
+- ----------------------------------
+
+Sales
+- ------
+
+Worldwide sales for the first nine months of 1998 increased 9% (13% excluding
+the effect of foreign exchange) over the prior year to $13,399.   The
+consolidated sales growth resulted from an 11% increase due to volume, a 4%
+decrease due to the effect of foreign exchange and a 2% increase due to
+changes in selling prices.  Domestic sales increased 15% and international
+sales increased 2% (10% excluding the effect of foreign exchange).  Worldwide
+sales for the first nine months of 1997 increased 10% compared to the first
+nine months of 1996.
+
+Industry Segments
+- -----------------                    Nine Months Ended September 30,
+                            -----------------------------------------------
+                                  Net Sales                   % Change
+                            --------------------       --------------------
+                                1998        1997          1998         1997
+                            --------    --------       -------      -------
+Pharmaceutical Products      $ 8,216     $ 7,148          15 %         13 %
+Consumer Medicines               927         999          (7)%         15 %
+Medical Devices                1,210       1,334          (9)%         (2)%
+Nutritional Products           1,313       1,337          (2)%          6 %
+Beauty Care Products           1,733       1,442          20 %         13 %
+                            --------    --------
+Total Company                $13,399     $12,260           9 %         10 %
+                            ========    ========
+
+
+
+Pharmaceutical products segment sales were $8,216, an increase of 15% over
+the prior year, reflecting a 16% increase due to volume, a 3% decrease due
+to the effect of foreign exchange and a 2% increase due to changes in selling
+prices.
+
+
+Domestic and international sales increased 23% and 3%, respectively.
+Excluding the unfavorable effect of foreign exchange, international sales
+increased 10% for the nine months.  Cardiovascular drug sales of $2,309
+increased 9% from the prior year (excluding the effect of foreign exchange,
+sales increased 13%). PRAVACHOL* and MONOPRIL* sales grew 16% to $1,196 and
+24% to $288, respectively. Initial sales of AVAPRO and PLAVIX reached $71 and
+$74, respectively.  Sales growth for these products was partially offset by
+a 21% decline in CAPOTEN* sales, due to the loss of its patent exclusivity in
+certain countries in Europe during 1997.  Sales of anti-cancer drugs
+increased 19% to $2,138 due to strong sales of TAXOL* and PARAPLATIN*, up 25%
+to $859 and 24% to $401, respectively, as well as OTN sales which increased
+35% to $466. Anti-infective drug sales increased 12% to $1,780.  Gains were
+recorded for ZERIT* and VIDEX*, increasing 41% to $390 and 11% to $117,
+respectively, as well as CEFZIL* and MAXIPIME*, up 36% to $296 and 28% to $88,
+
+<PAGE>
+
+respectively.  Sales of central nervous system drugs continued to experience
+growth, increasing 15% to $748.  Sales of SERZONE* and BUSPAR* increased 60%
+to $196 and 17% to $368, respectively. GLUCOPHAGE continued its strong growth,
+increasing 46% to $641.  For the first nine months of 1997, sales of the
+pharmaceutical products segment increased 13% over the prior year primarily as
+a result of increases in sales of PRAVACHOL*, MONOPRIL*, GLUCOPHAGE,
+anti-cancer, anti-infective and central nervous system drugs, partially offset
+by the decline in CAPOTEN* sales.
+
+In the consumer medicines segment, excluding the divestiture of BAN*, consumer
+medicines sales decreased 2% (an increase of 3% excluding foreign exchange).
+Including the divested business, sales decreased 7% to $927, reflecting a 4%
+decrease due to volume, a 4% decrease due to the effect of foreign exchange
+and a 1% increase due to changes in selling prices. International sales
+decreased 2% to (an increase of 5% excluding the effect of foreign exchange).
+Sales of EXCEDRIN* increased 17% to $174.  For the first nine months of 1997,
+consumer medicines segment sales increased 15% over the prior year, primarily
+due to the strong performance of analgesics from the UPSA Group.
+
+Sales in the medical devices segment decreased 9% from prior year levels to
+$1,210, reflecting a 6% decrease due to volume, a 3% decrease due to the
+effect of foreign exchange, and no effect from changes in selling prices.
+Excluding the December 1997 divestiture of Zimmer's arthroscopy and surgical
+powered instrument business, domestic sales increased 9% and international
+sales increased 5% (12% excluding the effect of foreign exchange).  Sales of
+ostomy and wound care products from the Company's ConvaTec subsidiary
+increased 4% to $332 and 9% to $172 respectively, excluding foreign exchange.
+Zimmer sales decreased 17% from prior year levels (14% excluding the effect
+of foreign exchange rate fluctuations) due to the 1997 divestiture.  Knee
+prosthetic joint replacement sales increased 1% to $250 and hip replacement
+sales remained at prior year levels at $191, excluding foreign exchange. For
+the first nine months of 1997, medical devices segment sales decreased 2% from
+the prior year levels as decreases due to the effect of foreign exchange
+offset increased sales in prosthetic implants, wound care and ostomy products.
+
+In the nutritional products segment, sales decreased 2% to $1,313, reflecting
+a 1% increase due to volume, a 6% decrease due to the effect of foreign
+exchange and a 3% increase due to changes in selling prices.  Domestic sales
+increased 2% and international sales decreased 7% (an increase of 7%
+excluding the effect of foreign exchange).  Total infant formula sales
+decreased 2% to $899 (sales increased 2% excluding foreign exchange).
+ENFAMIL*, the Company's largest selling infant formula had sales of $486,
+a decrease of 4% (2% excluding foreign exchange). Gains were recorded for
+LACTOFREE*, NUTRAMIGEN* and BOOST*, up 9% to $86, 8% to $89 and 24% to $65,
+respectively.  For the first nine months of 1997, nutritional products
+segment sales increased 6% over the prior year, primarily due to increased
+sales of LACTOFREE*, ENFAPRO* and BOOST*.
+
+
+<PAGE>
+
+Sales in the beauty care products segment increased 20% over the prior year,
+to $1,733 reflecting a 22% increase due to volume, a 2% increase in selling
+prices, and a 4% decrease due to the effect of foreign exchange.  Domestic
+sales increased 22% and international sales increased 17%. Sales of hair
+care products increased 49% to $877 due to strong growth of the HERBAL
+ESSENCES* complete line of shampoos and conditioners, which increased 70%
+to $419, initial sales of the Redmond AUSSIE* brand of $81, and introductory
+sales of DAILY DEFENSE* of $58. Sales of HYDRIENCE* haircolor grew 20% to
+$73 and introductory sales of REVITALIQUE*, a new permanent haircolor, were
+$34.  For the first nine months of 1997, sales in the beauty care products
+segment increased 13% over the prior year primarily due to increased sales
+of HERBAL ESSENCES*, HYDRIENCE* and INFUSIUM 23*.
+
+Cost of Products Sold and Operating Expenses
+- --------------------------------------------
+
+Total costs and expenses for the nine months ended September 30, 1998, as
+a percentage of sales, decreased to 71.6% from 72.6%.  Cost of products
+sold decreased to 26.5% of sales from 26.8% in 1997 primarily due to the
+lower margin of divested businesses.  Expenditures for advertising and
+promotion in support of new and existing products increased 10% to $1,767
+from $1,604 in 1997.  This increase is primarily due to increased spending
+on the Company's promoted pharmaceutical and beauty care products.  Marketing,
+selling, administrative and other expenses increased 3% to $3,116.  Research
+and development expenditures increased 17% to $1,165 from $993 in 1997.
+Pharmaceutical research and development spending increased 19% over the prior
+year, and as a percentage of pharmaceutical sales, was 12.6% compared to
+11.9% in the same period of 1997.
+
+Earnings
+- --------
+
+Earnings before income taxes for the nine months increased 13% to $3,802 from
+$3,361 in 1997. The effective tax rate on earnings before income taxes
+decreased to 28.3% in 1998 from 28.5% in 1997.  Net earnings increased 14% to
+$2,728 from $2,403.  Basic earnings per share increased 14% to $2.74 from
+$2.41 in 1997 and diluted earnings per share increased 14% to $2.68 from $2.36
+in 1997.
+
+Financial Position
+- ------------------
+
+The balance sheet at September 30, 1998 and the statement of cash flows for
+the nine months then ended reflect the Company's strong financial position.
+The Company continues to maintain a high level of working capital increasing
+to $3.1 billion at September 30, 1998, from $2.7 billion at December 31, 1997.
+
+Long-Term Debt increased to $1,314 from $1,279 at December 1997 due to the
+issuance, in February 1998, of  $100 million principal 2.14% and 1.73% Yen
+denominated notes due in 2003 and 2005.
+
+Internally generated funds continue to be the Company's primary source for
+financing expenditures for new plant and equipment.  Additions to fixed assets
+for the nine months ended September 30, 1998 were $537 compared to $438 during
+the same period of 1997.
+
+<PAGE>
+
+During the nine months ended September 30, 1998, the Company purchased 14.2
+million shares of its common stock at a total cost of $1,448.  In 1998, 2.4
+million shares were issued in connection with an acquisition.
+
+YEAR 2000
+- ---------
+
+As described in the Company's Annual Report on Form 10-K for the year ended
+December 31, 1997, the Company has reviewed its information systems for
+YEAR 2000 compliance. The YEAR 2000 problem arises because many computer
+systems use only two digits to represent the year. These programs may not
+process dates beyond 1999, which may cause miscalculations or system failures.
+
+The Company has a comprehensive compliance program to assess the YEAR 2000
+problem in the processing of data in the Company's information technology
+("IT"), and non-IT systems, including manufacturing, and research and
+development systems. With regard to information technology systems, this
+program has been implemented, and the assessment as well as the required
+corrective actions is substantially complete. With regard to the critical
+manufacturing, and research and development systems, the assessment has been
+completed, with corrective actions to be substantially completed by mid-year
+1999.
+
+In connection with this compliance program, the Company has also asked
+critically important vendors, customers, suppliers, governmental regulatory
+authorities, and financial institutions whose incomplete or untimely
+resolution of the YEAR 2000 problem could potentially have a significant
+impact on the Company's operations to assess their YEAR 2000 readiness. This
+assessment will be substantially completed by the end of 1998.
+
+Contingency plans are being prepared, where necessary, to minimize any
+significant exposures from the failures of these third parties to be YEAR 2000
+compliant. These plans will be substantially completed by mid-year 1999, and
+include development of backup procedures, identification of alternate
+suppliers, and possible increases in inventory levels.
+
+The Company does not expect the YEAR 2000 problem, as well as the cost of the
+compliance program, to have a material impact on the results of operations,
+financial condition or cash flows. However, there can be no absolute assurance
+that third parties will convert their systems in a timely manner and in a way
+that is compatible with the Company's systems.
+
+Euro Conversion
+- ---------------
+
+On January 1, 1999, certain members of the European Union are scheduled to
+establish fixed conversion rates between their existing currencies and the
+European Union's common currency, known as the Euro. The transition period
+for the introduction of the Euro will be between January 1, 1999 and January
+1, 2002. It is planned that by July 1, 2002, the participating countries will
+withdraw all currencies and exclusively use the Euro.
+
+<PAGE>
+
+The Company has committed resources to conduct assessments and to take
+corrective actions to ensure the Company is prepared for the introduction of
+the Euro. The Company is currently evaluating methods to address the many
+areas involved with the introduction of the Euro, including information
+management, finance, legal, and tax. This review includes the conversion
+of information technology business and financial systems, evaluating currency
+risk and the effect on the company's financial instruments, as well as the
+impact concerning the pricing and the distribution of our products.
+
+The Company believes the effect of the introduction of the Euro, as well as
+any related cost of conversion, will not have a material impact on the
+results of operations, financial condition and cash flows.
+
+Recently Issued Accounting Standard
+- -----------------------------------
+
+In June 1998, the Financial Accounting Standards Board issued Statement
+No. 133, "Accounting for Derivative Instruments and Hedging Activities"
+which requires that companies recognize all derivatives as either assets or
+liabilities in the balance sheet and measure these instruments at fair
+value. The Company is required to adopt this Statement by the first quarter
+of 2000 and is currently assessing the effect of the new standard.
+
+
+Reference is made to Part II, Item 1 - Legal Proceedings in which
+developments are described for various lawsuits, claims and proceedings
+in which the Company is involved.
+
+
+<PAGE>
+
+                      BRISTOL-MYERS SQUIBB COMPANY
+                      PART II - OTHER INFORMATION
+                      ----------------------------
+
+Item 1.  Legal Proceedings
+- --------------------------
+
+Various lawsuits, claims and proceedings of a nature considered normal to its
+business are pending against the Company and certain of its subsidiaries.
+The most significant of these are reported in the Company's Annual Report on
+Form 10-K for the fiscal year ended December 31, 1997, and material
+developments in such matters are described in the Company's Quarterly Reports
+on Form 10-Q for the quarters ended March 31, 1998 and June 30, 1998, and below.
+
+Breast Implant Product Liability Litigation and Prescription Drug Litigation -
+Additional Litigation Reserves
+- -------------------------------
+
+As previously reported in the Company's Form 10-K for the fiscal year
+referred to above, the Company, together with its subsidiary Medical
+Engineering Corporation (MEC) and certain other companies, has been named as
+a defendant in a number of claims and lawsuits alleging damages for personal
+injuries of various types resulting from polyurethane-covered silicone breast
+implants and smooth-walled silicone breast implants formerly manufactured by
+MEC or a related company.
+
+Also, as previously reported in the Company's Form 10-K and 10-Q Reports
+referred to above, the Company is a defendant in a number of actions against
+the Company, other pharmaceutical manufacturers, drug wholesalers and pharmacy
+benefit managers, in various federal and state courts, brought by certain
+chain drugstores, supermarket chains, independent drugstores and consumers,
+suing either individually or as representatives of classes of retail
+pharmacies or consumers.  These cases all seek treble damages and injunctive
+relief on account of alleged antitrust violations in the pricing and
+marketing of brand name prescription drugs.
+
+For breast implants, the litigation has now reached a point where substantial
+information is known about its size and scope.  In the fourth quarter of 1998
+a number of events are expected to have conjoined to permit the Company to
+make a reasoned projection of the overall financial impact on the Company of
+breast implant product liability litigation.  The Revised Settlement Program
+pending before Federal Judge Sam C. Pointer, Jr. (see below) has progressed
+to a point where substantial information is now known about the nature of the
+claims of persons participating in the Program.  In recent months, more
+knowledge has been acquired about the nature of the claims of persons opting
+out of the Revised Settlement Program and into the court system (see below).
+Accordingly, the Company now believes it can estimate within reasonable range
+the financial impact of this litigation on the Company, and it expects to
+take in the fourth quarter of 1998 an additional special charge to earnings
+in the range of $700 to $800 million before taxes and to increase insurance
+receivables in the approximate amount of $100 million leaving a net charge
+to earnings in the range of $375 to $435 million after taxes in respect of
+breast implant product liability.  The Company does not expect any additional
+special charge in the future in respect of this loss contingency.
+
+
+<PAGE>
+
+
+As to the prescription drug litigation, as previously reported, the Company,
+along with most other defendant pharmaceutical companies, entered into a
+settlement of the national retailer class action pending before Federal Judge
+Charles P. Kocoras (see below), which is now on trial as to remaining
+pharmaceutical company defendants and others.  In addition, the Company has
+also entered into settlements with certain retailer class members who opted
+out of the national class action, and is vigorously defending its position
+in court as to other opt-out retailers.  The Company is also defending state
+cases asserting so-called consumer antitrust claims based on the same or
+similar theories of antitrust liability.  In light of the foregoing, the
+Company expects to take in the fourth quarter of 1998, a special charge to
+earnings, in respect of prescription drug litigation in the approximate
+amount of $100 million, or approximately $60 million after taxes.
+
+More details with respect to these matters are as follows:
+
+Breast Implant Litigation
+- -------------------------
+
+Of the more than 90,000 claims or potential claims against the Company in
+direct lawsuits or through registration in the national class action Revised
+Settlement Program, most have been dealt with through the Revised Settlement,
+other settlements, or trial.  It is expected that as of January 1, 1999, the
+Company's contingent liability in respect of breast implant claims will be
+limited to residual unpaid Revised Settlement Program obligations and to
+roughly 6,000 remaining opt-outs who have pursued or may pursue their claims
+in court.  As of October 9, 1998, approximately 15,750 U.S. and 1,300 foreign
+breast implant recipients were still at least technically plaintiffs in
+lawsuits pending in federal and state courts in the U.S. and in certain courts
+in Canada and Australia.  In these lawsuits, about 10,400 U.S. and 380 foreign
+plaintiffs have opted out of the Revised Settlement.  The lawsuits of the
+5,350 U.S. plaintiffs who have not opted out are expected to be dismissed
+since these plaintiffs are among the estimated 74,000 women with MEC implants
+who have chosen to participate in the nationwide settlement.  Of the remaining
+opt-out plaintiffs, some have claims based upon products which were not
+manufactured and sold by MEC; many others have claims that are in the process
+of being settled.  Under the terms of the Revised Settlement Program,
+additional opt-outs are expected to be minimal since the deadline for U.S.
+class members to opt out has passed.  In addition, the Company's remaining
+obligations under the Revised Settlement Program are limited because most
+payments to "Current Claimants" (see below) have already been made, no
+additional "Current Claims" may be filed without court approval, and because
+payments of claims to so-called "Other Registrants" and "Late Registrants"
+are limited by the terms of the Revised Settlement Program.  The Company
+believes it will be able to address remaining opt-out claims as well as
+expected remaining obligations under the Revised Settlement Program within
+its existing reserves as augmented by the expected fourth quarter 1998
+special charge to earnings referred to above.
+
+
+<PAGE>
+
+
+Breast implants were manufactured by several companies, including MEC,
+which the Company acquired in 1982.  Until 1991, MEC manufactured two types
+of breast implants, polyurethane-covered silicone breast implants and
+smooth-walled silicone breast implants.  In these lawsuits, plaintiffs
+typically contend that silicone in breast implants causes systemic disease
+and/or local complications.  Some plaintiffs with polyurethane-covered
+silicone breast implants contend that the polyurethane component causes
+injury, including cancer.  Most of the disease claims involve non-specific
+complaints such as chronic fatigue, aches and pains and other symptoms that
+commonly affect the population at large.  Many women claim local complications
+such as rupture, hardening or contracture, and disfigurement or scarring.
+The plaintiffs typically seek compensatory damages for alleged medical
+conditions and emotional distress as well as punitive damages.  The
+defendants have based their defense in part on the lack of credible scientific
+evidence that breast implants cause disease.  Many large scale epidemiological
+studies have found no connection between breast implants and alleged diseases.
+Defendants also contend that warnings set forth in the product literature
+adequately advised physicians and surgeons of the risks of local complications.
+
+The Company is a participant in the national class action Revised Settlement
+Program approved on December 22, 1995, by the Honorable Sam C. Pointer, Jr.,
+Chief Judge of the United States District Court for the Northern District of
+Alabama (Lindsey, et al., v. Dow Corning, et al., CV-94-P-11558-S), before
+whom all federal breast implant cases were consolidated for pretrial purposes.
+The Revised Settlement arises out of the class action settlement originally
+approved by the Court on September 1, 1994. All appeals from the Order
+approving the Revised Settlement have been dismissed.  On January 16, 1996,
+the Company, Baxter Healthcare Corporation and Baxter International
+(collectively, Baxter), and Minnesota, Mining and Manufacturing Company (3M)
+(hereinafter, the Settling Defendants) each paid $125 million into a
+court-established fund as an initial reserve to pay claims under the Revised
+Settlement.  The Company has made and will make additional contributions to
+the court-established fund.  The fifteen-year Revised Settlement Program
+provides benefits to those U.S. breast implant recipients who have had at
+least one breast implant manufactured by one of the Settling Defendants
+(or their related companies).  Several kinds of benefits are available for
+eligible participants with breast implants made by companies affiliated with
+Bristol-Myers Squibb, Baxter and 3M:  (1) for Current Claimants, compensation
+generally ranging from $10,000 to $50,000 based on disease and disability
+definitions of the original settlement, plus supplemental benefits of an
+additional $15,000 to $50,000 for claimants with ruptured implants; (2) for
+Current Claimants seeking higher benefits and for Other and Late Registrants,
+compensation ranging from $75,000 to $250,000 based on more stringent disease
+and disability definitions (Long-Term Benefits); and (3) although the Settling
+Defendants are not recommending removal of implants absent some specific
+medical reason, a $3,000 payment for those class members (other than Late
+Registrants) who seek removal of implants.  Current Claimants are eligible for
+an advance payment of $5,000, and Other Registrants are eligible for an
+advance payment of $1,000.  Other Registrants who receive their $1,000
+advance payment by June 15, 1999, will be eligible for an additional $2,500
+payment if they relinquish their rights to further benefits under the Revised
+Settlement and provide a full release of their breast implant claims.  For
+Current Claimants, benefits are payable regardless of the number of claimants
+seeking compensation, and regardless of the total dollar value of approved
+claims.  For Other and Late Registrants, benefits are subject to an aggregate
+$755 million limit for all participating companies over the fifteen-year life
+of the Program.  The Company's aggregate limit for such benefits is $400
+million.  In the event the dollar value of the claims subject to the limit
+were to exceed this amount, claimants may be afforded additional opt-out
+rights but without the right to assert punitive or other statutory multiple
+damage claims.  The Company's obligations to make payments under the Revised
+Settlement are not affected by the number of class members electing to opt
+out of the settlement or the number of class members making claims under it
+except to the extent of the above-mentioned dollar limits.
+
+<PAGE>
+
+In addition to individual suits and the Lindsey class action, the Company
+continues as a defendant, together with other defendants, in two other class
+action proceedings.  On April 11, 1996, a class action on behalf of all women
+in the Canadian province of British Columbia was certified in the provincial
+court of British Columbia on the single issue of whether silicone gel breast
+implants are reasonably fit for their intended purpose (Harrington v. Dow
+Corning Corporation, et al., Supreme Court, British Columbia, C954330).
+Also, there is an action pending on behalf of children allegedly exposed to
+silicone in utero and through breast milk (Feuer, et al., v. McGhan, et al.,
+U.S.D.C., E. Dist. NY, 93-0146), which has not been certified as a class
+action, and which names all breast implant manufacturers as defendants and
+seeks to establish a medical monitoring fund.
+
+The Company entered into several other settlements of breast implant related
+claims.  In July of 1995, the Company entered into a $20.5 million (U.S.
+funds) class action settlement with plaintiff representatives in the provinces
+of Ontario and Quebec.  The class includes persons who have or had MEC breast
+implants and who reside in Ontario and Quebec or who received their MEC
+implants there.  The settlement, which had minimal opt-outs, has been approved
+by the provincial courts of Ontario and Quebec.  In May of 1996, the Company,
+together with other Settling Defendants in the Revised Settlement Program,
+entered into a $50 million settlement of claims asserted by certain health
+insurers based upon payments made or benefits provided by insurers and
+represented health plans to participating registrants that allegedly involve
+or relate to silicone gel breast implants.  The Company has contributed $22.5
+million to this settlement, which extinguishes the potential claims of the
+majority of the U.S. commercial and non-governmental health care insurer
+market against both the defendants and settlement class members.  In November
+1996, the benefits of the Revised Settlement were extended, with certain
+modifications, to foreign breast implant recipients.  Pursuant to this
+settlement, the Settling Defendants paid (on an equal basis) an aggregate of
+$25 million into a court-approved settlement fund as an initial reserve for
+payment of foreign claims.
+
+The Company's insurers were notified of the breast implant claims and the
+Revised Settlement, and a number reserved their rights or declined coverage.
+The Company reached settlement with many of these insurers in connection with
+coverage litigation filed by it in state court in Texas. Certain proceedings
+remain involving some insurers.  In 1993, the Company offset its breast
+implant product liability special charges by $1.0 billion of expected
+insurance proceeds (recorded as Insurance Recoverable).  The Company now
+believes that it will obtain additional amounts of insurance proceeds above
+that amount and expects to record an additional Insurance Recoverable in the
+fourth quarter of 1998 of approximately $100 million.
+
+While there have been a few large judgments, defendants have won more trials
+than they have lost, and since 1992 the Company's trial experience has been
+favorable.  The Company has maintained throughout this litigation that breast
+implants do not cause disease and medical and scientific data support the
+Company's position.  The Company's view has found support in the trial courts.
+So far, courts in seven states have ruled to exclude the testimony of
+plaintiffs' experts concerning a causal link between silicone gel breast
+implants and systemic illness on the ground that it fails to satisfy
+standards for reliability under current U.S. Supreme Court guidelines.  A
+science panel appointed by Judge Pointer is in the process of reviewing the
+scientific literature regarding any relationship between breast implants and
+disease, and is expected to report its findings in 1998.  The Company intends
+to dispose of the claims of remaining opt-outs by continuing to implement its
+plan to settle cases at values it deems acceptable, and to wage a vigorous
+defense, including taking cases to trial, of those cases that do not settle
+at such values.
+
+<PAGE>
+
+
+In the fourth quarter of 1993, the Company recorded a charge of $500 million
+before taxes ($310 million after taxes) in respect of breast implant cases.
+The charge consisted of $1.5 billion for potential liabilities and expenses,
+offset by $1.0 billion of expected insurance proceeds.  In the fourth
+quarters of 1994 and 1995, the Company recorded additional special charges
+of $750 million before taxes ($488 million after taxes) and $950 million
+before taxes ($590 million after taxes), respectively, related to breast
+implant product liability claims.  Those reserves are now expected to be
+augmented by the fourth quarter 1998 charge to earnings described above.
+
+Prescription Drug Litigation
+- ----------------------------
+
+The Company, without admitting any wrongdoing, previously reached an amended
+agreement to settle the national class action brought against the Company,
+other pharmaceutical manufacturers, drug wholesalers and pharmacy benefit
+managers by certain chain drugstores, supermarket chains and independent
+drugstores and consolidated in the United States District Court for the
+Northern District of Illinois, before Federal Judge Charles P. Kocoras.  That
+settlement has become final. Settlements have also been reached with some of
+the opt-out retailers who brought federal antitrust claims and settlement
+negotiations have been conducted with others.  Cases brought by retail
+pharmacies in state court under state law alleging similar grounds are
+proceeding in Alabama, California and Mississippi, while settlements have been
+reached by the Company of such cases brought in Minnesota and Wisconsin.  The
+Company and almost all of the other pharmaceutical manufacturers named as
+defendants in cases brought as class actions on behalf of consumers in Arizona,
+the District of Columbia, Florida, Kansas, Maine, Michigan, Minnesota, New
+York, North Carolina, Tennessee and Wisconsin, have entered into settlements
+of those actions, which have received final approvals in Arizona, Michigan,
+New York and Wisconsin, and are subject to court approval in each remaining
+state.  On July 30, 1998, a class action on behalf of consumers was brought
+in Tennessee against the Company and other pharmaceutical manufacturers which
+sought state recoveries in Tennessee, as well as in Alabama, Arizona, Florida,
+Kansas, Maine, Michigan, Minnesota, New Mexico, North Carolina, North Dakota,
+South Dakota, West Virginia and Wisconsin.  Based on recent activity, the
+Company expects to take the charge against earnings referred to above in
+respect of prescription drug litigation.  The Company will continue to defend
+vigorously its position in this ongoing litigation, considering settlement of
+some or all of the remaining cases only where the cost of litigation and any
+associated litigation risk make this a practical and sensible course.
+
+
+Item 6.  Exhibits and Reports on Form 8-K
+- ------------------------------------------
+
+(a) Exhibits (listed by number corresponding to the Exhibit Table of Item 601
+in Regulation S-K).
+
+
+Exhibit Number and Description                                        Page
+- ------------------------------                                      -------
+
+3b.  Bylaws of Bristol-Myers Squibb Company, as amended,
+       effective November 3, 1998.                                   E- 3-1
+
+27.  Bristol-Myers Squibb Company Financial Data Schedule.           E-27-1
+
+99.  Additional Exhibit.                                             E-99-1
+
+
+
+(b)   Reports on Form 8-K.
+
+The Registrant did not file any reports on Form 8-K during the quarter ended
+September 30, 1998.
+
+
+<PAGE>
+
+
+                              SIGNATURES
+                              ----------
+
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+
+
+                                          BRISTOL-MYERS SQUIBB COMPANY
+                                         ---------------------------------
+                                                  (Registrant)
+
+
+
+
+
+Date:     November 16, 1998                /s/ Harrison M. Bains, Jr.
+                                         ---------------------------------
+                                          Harrison M. Bains, Jr.
+                                          Vice President and Treasurer
+
+
+
+
+
+
+Date:     November 16, 1998                /s/ Frederick S. Schiff
+                                         ---------------------------------
+                                          Frederick S. Schiff
+                                          Vice President Financial Operations
+                                               and Controller
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 3
+<TEXT>
+
+
+
+
+
+
+ --------------------------------------------------------------------------
+
+
+
+
+
+
+                            BRISTOL-MYERS SQUIBB COMPANY
+
+
+
+
+
+
+
+                                  ---------------
+
+
+                                      BYLAWS
+
+
+
+
+
+                            As Adopted on November 1, 1965
+
+                          And as Amended to November 3, 1998
+
+
+
+
+
+
+                                  ---------------
+
+
+
+
+
+
+
+
+ --------------------------------------------------------------------------
+
+
+                                        E-3-1
+
+<PAGE>
+
+
+                                        INDEX
+
+
+
+
+BYLAW NO.   SUBJECT                                                   Page No.
+
+
+ 1.         Principal Office                                           E-3-5
+
+ 2.         Other Offices                                              E-3-5
+
+ 3.         Seal                                                       E-3-5
+
+ 4.         Meetings of Shareholders -- Date and Time                  E-3-5
+
+ 5.         Meetings of Shareholders -- Place                          E-3-6
+
+ 6.         Meetings of Shareholders -- No Action By Written
+               Consent, Call                                           E-3-6
+
+ 7.         Meetings of Shareholders -- Notice                         E-3-6
+
+ 8.         Meetings of Shareholders -- Quorum                         E-3-6
+
+ 9.         Meetings of Shareholders -- Presiding Officer and
+               Secretary                                               E-3-7
+
+10.         Meetings of Shareholders -- Voting                         E-3-7
+
+11.         Meetings of Shareholders -- Voting List                    E-3-7
+
+12.         Annual Meeting of Shareholders -- Statement of Business
+               and Condition of Company                                E-3-7
+
+13.         Meetings of Shareholders -- Inspectors of Election         E-3-7
+
+14.         Board of Directors -- Powers                               E-3-8
+
+15.         Board of Directors -- Number, Election, Term, Resignation
+               or Retirement, Removal and Filling Vanancies            E-3-8
+
+16.         Board of Directors -- Location of Meetings and Books       E-3-9
+
+17.         Board of Directors -- Scheduling of Regular Meetings       E-3-9
+
+18.         Board of Directors -- Scheduling of Special Meetings       E-3-9
+
+
+
+                                    E-3-2
+
+
+<PAGE>
+
+
+
+BYLAW NO.   SUBJECT                                                  Page No.
+
+
+19.         Board of Directors -- Waiver of Meeting Notice and
+               Action by Consent                                       E-3-9
+
+20.         Board of Directors -- Quorum for Meeting                   E-3-9
+
+21.         Board of Directors -- Meeting Procedure                   E-3-10
+
+22.         Board of Directors -- Fees                                E-3-10
+
+23.         Board of Directors -- Indemnification                     E-3-10
+
+24.         Committees of the Board -- Executive, Audit, Others       E-3-11
+
+25.         Committees of the Board -- Minutes and Reports            E-3-12
+
+26.         Officers                                                  E-3-12
+
+27.         Officers -- Election and Term                             E-3-12
+
+28.         Appointment of Other Officers, Committees or Agents       E-3-13
+
+29.         Officers -- Removal                                       E-3-13
+
+30.         Officers -- Resignation                                   E-3-13
+
+31.         Officers -- Unable to Perform Duties                      E-3-13
+
+32.         Officers -- Vacancy                                       E-3-13
+
+33.         The Chairman of the Board -- Powers and Duties            E-3-13
+
+34.         Vice Chairman of the Board -- Powers and Duties           E-3-13
+
+35.         Duties of President                                       E-3-13
+
+36.         Vice Presidents -- Powers and Duties                      E-3-14
+
+37.         The Treasurer -- Powers and Duties                        E-3-14
+
+
+
+
+
+                                   E-3-3
+
+<PAGE>
+
+
+BYLAW NO.   SUBJECT                                                  Page No.
+
+
+38.         The Secretary -- Powers and Duties                        E-3-14
+
+39.         The Controller -- Powers and Duties                       E-3-14
+
+40.         Assistant Treasurers and Assistant Secretaries --
+               Powers and Duties                                      E-3-14
+
+41.         Officers -- Compensation                                  E-3-14
+
+42.         Contracts, Other Instruments, Authority to Enter
+               Into or Execute                                        E-3-15
+
+43.         Loans and Negotiable Paper                                E-3-15
+
+44.         Checks, Drafts, etc.                                      E-3-15
+
+45.         Banks -- Deposit of Funds                                 E-3-15
+
+46.         Stock Certificates -- Form, Issuance                      E-3-15
+
+47.         Stock -- Transfer                                         E-3-15
+
+48.         Stock Certificates -- Loss, Replacement                   E-3-16
+
+49.         Record Dates                                              E-3-16
+
+50.         Registered Shareholders                                   E-3-16
+
+51.         Fiscal Year                                               E-3-17
+
+52.         Notices                                                   E-3-17
+
+53.         Notices -- Waiver                                         E-3-17
+
+54.         Amendments of Bylaws                                      E-3-17
+
+
+
+
+
+
+
+
+
+
+                                    E-3-4
+
+<PAGE>
+
+
+                                    BYLAWS
+
+
+                                      of
+
+
+
+                          BRISTOL-MYERS SQUIBB COMPANY
+
+
+
+
+OFFICES.
+
+
+1. The registered office of the Company shall be in the City of Wilmington,
+County of New Castle, State of Delaware, and the name of the resident agent
+in charge thereof is The Corporation Trust Company.
+
+2. The Company may also have offices at such place or places as the Board of
+Directors may from time to time appoint or the business of the Company may
+require.
+
+
+
+SEAL.
+
+3. The corporate seal shall have inscribed thereon the name of the Company,
+the year of its organization and the words "Corporate Seal, Delaware."  Said
+seal may be used in causing it or a facsimile thereof to be impressed or
+affixed or reproduced or otherwise.
+
+
+
+MEETINGS OF SHAREHOLDERS.
+
+4. The annual meeting of the shareholders for the election of directors and
+for the transaction of any other proper business shall be held at such time
+as the Board of Directors may determine.  For nominations or other business
+to be properly brought before any annual meeting by a shareholder, a
+shareholder must give timely notice in writing thereof to the Secretary of
+the Company and, in the case of business other than nominations, such other
+business must be a proper matter for shareholder action.  To be considered
+timely, a shareholder's notice must be received by the Secretary at the
+principal executive offices of the Company not less than 120 calendar days
+before the date of the Company's proxy statement released to shareholders in
+connection with the prior year's annual meeting.  If the annual meeting for
+the election of directors is not held on the date designated therefor, the
+directors shall cause the meeting to be held as soon thereafter as convenient.
+A shareholder's notice shall set forth: (a) as to each person whom the
+shareholder proposes to nominate for election or re-election as a director,
+all information relating to such person that is required to be disclosed in
+solicitations of proxies for election of directors pursuant to Regulation 14A
+under the Securities Exchange Act of 1934, including such person's written
+consent to being named in the proxy statement as a nominee and to serving as
+a director if elected; (b) as to any other business that the shareholder
+proposes to bring before the meeting, a brief description of the business
+desired to be brought before the meeting, the reasons for conducting such
+business at the meeting and any material interest in such business of such
+shareholder and the beneficial owner, if any, on whose behalf the proposal
+is made and (c) as to
+
+                                  E-3-5
+
+
+the shareholder giving the notice and the beneficial owner, if any, on
+whose behalf the nomination or proposal is made (i) the name and address of
+such shareholder, as they appear on the Company's books, and of such
+beneficial owner, (ii) the number of shares of stock held of record and
+beneficially by such shareholder and such beneficial owner, (iii) the name
+in which all such shares of stock are registered on the stock transfer books
+of the Company, (iv) a representation that the shareholder intends to appear
+at the meeting in person or by proxy to submit the business specified in such
+notice, (v) a brief description of the business desired to be submitted to
+the annual meeting, including the complete text of any resolutions intended to
+be presented at the annual meeting, and the reasons for conducting such
+business at the annual meeting, (vi) any personal or other material interest
+of the shareholder in the business to be submitted, and (vii) all other
+information relating to the proposed business which may be required to be
+disclosed under applicable law.  In addition, a shareholder seeking to submit
+such business at the meeting shall promptly provide any other information
+reasonably requested by the Company.  The chairman of the meeting shall
+determine all matters relating to the efficient conduct of the meeting,
+including, but not limited to, the items of business, as well as the
+maintenance of order and decorum.  The chairman shall, if the facts warrant,
+determine and declare that any putative business was not properly brought
+before the meeting in accordance with the procedures prescribed by this bylaw,
+in which case such business shall not be transacted.  Notwithstanding the
+foregoing provisions of this bylaw, a shareholder who seeks to have any
+proposal included in the Company's proxy materials shall comply with the
+requirements of Rule 14a-8 under Regulation 14A of the Securities Exchange
+Act of 1934.
+
+5. Meetings of the shareholders may be held at such places either within or
+without the State of Delaware as the Board of Directors may determine.
+
+
+6. Any action required or permitted to be taken by the stockholders of the
+Company must be effected at a duly called annual or special meeting of such
+stockholders and may not be effected by any consent in writing by such
+stockholders.  Except as otherwise required by law and subject to the rights
+under Article FOURTH of the Certificate of Incorporation of the Company of
+the holders of any class or series of stock having a preference over the
+Common Stock as to dividends or upon liquidation, special meetings of
+stockholders of the Company may be called only by the Chairman of the Board
+or by the Board of Directors pursuant to a resolution approved by a majority
+of the entire Board of Directors.
+
+7. Except as hereinafter provided or as may be otherwise required by law,
+notice of the place, date and hour of holding each annual and special meeting
+of the shareholders shall be in writing and shall be delivered personally or
+mailed in a postage prepaid envelope, not less than ten days before such
+meeting, to each person who appears on the books of the Company as a
+shareholder entitled to vote at such meeting, and to any shareholders who,
+by reason of any action proposed at such meeting, would be entitled to have
+their shares appraised if such action were taken.  The notice of every special
+meeting, besides stating the time and place of such meeting, shall state
+briefly the purpose or purposes thereof; and no business other than that
+specified in such notice or germane thereto shall be transacted at the
+meeting, except with the unanimous consent in writing of the holders of record
+of all of the shares of the Company entitled to vote at such meeting.  Notice
+of any meeting of shareholders shall not be required to be given to any
+shareholder entitled to participate in any action proposed to be taken at
+such meeting who shall attend such meeting in person or by proxy or who
+before or after any such meeting shall waive notice thereof in writing or by
+telegram, cable or wireless.  Notice of any adjourned meeting need not be given.
+
+8. At all meetings of shareholders of the Company, except as otherwise
+provided by law, the holders of a majority in number of the outstanding shares
+of the Company, present in person or by proxy and entitled to vote thereat,
+shall constitute a quorum for the transaction of business.  In the absence of
+a quorum the holders of a majority in number of the shares of stock so present
+or represented and entitled to vote may adjourn the meeting from time to time
+until a quorum is present.  At any such adjourned meeting at which a quorum
+is present any business may be transacted which might have been transacted at
+the meeting as originally called.
+
+                                   E-3-6
+
+<PAGE>
+
+
+9. The Chairman of the Board shall preside as chairman at every meeting of
+shareholders.  The Chairman of the Board may designate another officer of the
+Company or any shareholder to preside as chairman of a meeting of shareholders
+in place of the Chairman of the Board and in the absence of the Chairman of
+the Board and an officer or shareholder designated by the Chairman of the
+Board to preside as chairman of the meeting, the Board of Directors may
+designate an officer or shareholder to preside as chairman of the meeting.
+In the event the Chairman of the Board and the Board of Directors fail to so
+designate a chairman of the meeting the shareholders may designate an officer
+or shareholder as chairman.  The Secretary shall act as secretary of the
+meeting, or, in the absence of the Secretary, the presiding officer shall
+appoint a secretary of the meeting.
+
+10. At each meeting of the shareholders every shareholder of record entitled
+to vote thereat shall be entitled to one vote for each share of the Company
+standing in that shareholder's name on the books of the Company provided that
+no share of stock shall be voted at any election of directors which shall
+have been transferred on the books of the Company later than the record date
+announced by the Board of Directors or fixed by operation of these bylaws
+The vote on shares may be given by the shareholder entitled thereto in person
+or by proxy duly appointed by an instrument in writing subscribed by such
+shareholder or that shareholder's duly authorized attorney (or in any other
+manner prescribed by the General Corporation Law of the State of Delaware),
+and delivered to the secretary of the meeting; provided, however, that no
+proxy shall be valid after the expiration of three years from the date of
+its execution unless the shareholder executing it shall have specified
+therein the length of time it is to continue in force, which shall be for
+some limited period.  At all meetings of shareholders, a quorum being present,
+all matters, except as otherwise provided by law or by the Certificate of
+Incorporation of the Company or these bylaws, shall be decided by the holders
+of a majority in number of the shares of stock of the Company present in
+person or by proxy and entitled to vote.  A share vote may be by ballot and
+each ballot shall state the name of the shareholder voting and the number
+of shares owned by that shareholder and shall be signed by such shareholder
+or by that shareholder's proxy.  Except as otherwise required by law or by
+these bylaws all voting may be viva voce.
+
+11. The Secretary or other officer in charge of the stock ledger of the
+Company shall prepare and make at least ten days before every meeting of
+shareholders a complete list of the shareholders entitled to vote at the
+meeting arranged in alphabetical order and showing the address of each
+shareholder and the number of shares registered in the name of each
+shareholder.  Such list shall be open to the examination of any shareholder
+for any purpose germane to the meeting during ordinary business hours for a
+period of at least ten days prior to the meeting either at a place within
+the city where the meeting is to be held, which place shall be specified in
+the notice of the meeting, or if not so specified at the place where the
+meeting is to be held.  The list shall also be produced and kept at the time
+and place of the meeting during the whole time thereof and may be inspected
+by any shareholder who is present.  The stock ledger shall be the only
+evidence as to who are the shareholders entitled to examine the stock
+ledger, the list required by this bylaw, or the books of the Company or to
+vote in person or by proxy at any meeting of shareholders.
+
+12. The Board of Directors shall present at each annual meeting, and when
+called for by vote of the shareholders at any special meeting of the
+shareholders, a full and clear statement of the business and condition of
+the Company.
+
+13. At all elections of directors and when otherwise required by law, the
+chairman of the meeting shall appoint two inspectors of election.  The
+inspectors shall be responsible for receiving, tabulating and reporting the
+result of the votes taken.  No director or candidate for the office of
+director shall be appointed such inspector.  The chairman of the meeting shall
+open and close the polls.
+
+
+                                  E-3-7
+
+<PAGE>
+
+
+
+
+ DIRECTORS.
+
+
+14. The property, business and affairs of the Company shall be managed by
+or under the direction of the Board of Directors, which may exercise all
+such powers of the Company and do all such lawful acts and things as are
+not by statute or by the Certificate of Incorporation or by these bylaws
+directed or required to be exercised or done by the shareholders.
+
+15. (a) The Board of Directors shall consist of eleven directors.  Directors
+need not be shareholders.  The number of directors may be determined by a
+majority vote of the entire Board of Directors.
+
+(b) Except as otherwise provided by the Certificate of Incorporation, by
+these bylaws or by law, at each meeting of the shareholders for the election
+of directors at which a quorum shall be present, the persons receiving a
+plurality of the votes cast shall be directors.  Such election shall be by
+ballot.
+
+(c) The directors, other than those who may be elected by the holders of any
+class or series of stock having a preference over the Common Stock as to
+dividends or upon liquidation, shall be classified, with respect to the time
+for which they severally hold office, into three classes, as nearly equal in
+number as possible, as determined by the Board of Directors, one class to be
+originally elected for a term expiring at the annual meeting of stockholders
+to be held in 1985, another class to be originally elected for a term expiring
+at the annual meeting of stockholders to be held in 1986, and another class
+to be originally elected for a term expiring at the annual meeting of
+stockholders to be held in 1987, with the directors of each class to hold
+office until their successors are elected and qualified.  At each annual
+meeting of the stockholders, the successors of the class of directors whose
+term expires at that meeting shall be elected to hold office for a term
+expiring at the annual meeting of stockholders held in the third year
+following the year of their election.  No decrease in the number of directors
+constituting the Board of Directors or change in the restrictions and
+qualifications for directors shall shorten the term of any incumbent director.
+
+(d) Except as otherwise provided in the Certificate of Incorporation or in
+these bylaws, each director shall continue in office until the expiration of
+his term of office and until a successor shall have been elected and shall
+have qualified, or until the director shall have resigned, or, in the case of
+a director who is an employee of the Company, until the director shall have
+resigned from employment with the Company or the director's employment shall
+have been terminated by the Company.  In addition, a director who is not an
+employee of the Company or who is the Chief Executive Officer of the Company
+or a retired Chief Executive Officer of the Company shall retire from the
+position of director at the Annual Meeting following attainment of age 70; an
+employee who is a director of the Company (other than the Chief Executive
+Officer or a retired Chief Executive Officer) shall retire from the position
+of director on the effective date of the director's retirement as an employee
+of the Company.  Any director of the Company may resign at any time by giving
+written notice to the Chairman of the Board or to the Secretary of the Company.
+Such resignation shall take effect at the time specified therein; and, unless
+otherwise specified therein, the acceptance of such resignation shall not be
+necessary to make it effective.  Exceptions to the requirements for the
+retirement of a director may be made by the Board of Directors.
+
+(e) Subject to the rights under Article FOURTH of the Certificate of
+Incorporation of any class or series of stock having a preference over the
+Common Stock as to dividends or upon liquidation to elect directors under
+specified circumstances, any director or entire class of directors or the
+entire Board of Directors may be removed from office, with or without cause,
+only by the affirmative
+
+                                  E-3-8
+
+<PAGE>
+
+
+vote of the holders of at least 75% of the outstanding shares of stock of
+the Company entitled to vote generally in the election of directors, voting
+together as a single class.
+
+(f) Subject to the rights under Article FOURTH of the Certificate of
+Incorporation of the Company of the holders of any class or series of stock
+having a preference over the Common Stock as to dividends or upon liquidation
+to elect directors under specified circumstances, newly created directorships
+resulting from any increase in the number of directors and any vacancies on
+the Board of Directors resulting from death, resignation, retirement,
+disqualification, removal or other cause shall be filled only by the
+affirmative vote of a majority of the remaining directors then in office,
+even though less than a quorum of the Board of Directors.  Any director elected
+in accordance with the preceding sentence shall hold office for the remainder
+of the full term of the class of directors in which the new directorship was
+created or the vacancy occurred and until such director's successor shall have
+been elected and qualified.
+
+
+16. The directors may hold their meetings and keep the books of the Company
+at such place or places as they may from time to time determine.
+
+17. Regular meetings of the Board of Directors may be held at such time as
+may be fixed from time to time by resolution of the Board of Directors.
+Unless required by said resolution, notice of any such meeting need not be
+given.
+
+18. Special meetings of the Board of Directors shall be held whenever called
+by direction of the Chairman of the Board or any of three of the directors
+for the time being in office.  Notice of each such special meeting shall be
+mailed, postage prepaid, to each director, addressed to the director at the
+director's residence or usual place of business, at least two days before
+the day on which the meeting is to be held, or shall be sent to the director
+at such place by telegraph, cable, or wireless, or be delivered personally
+or by telephone, not later than the day before the day on which the meeting
+is to be held.  Every such notice shall state the time and place but, except
+as provided by these bylaws or by resolution of the Board of Directors, need
+not state the purposes of the meetings.
+
+19. Anything in these bylaws or in any resolution adopted by the Board of
+Directors to the contrary notwithstanding, notice of any meeting of the
+Board of Directors need not be given to any director, if, before or after
+any such meeting, notice thereof shall be waived by such director in writing
+or by telegraph, cable or wireless.  Any meeting of the Board of Directors
+shall be a legal meeting without any notice having been given or regardless
+of the giving of any notice or the adoption of any resolution in reference
+thereto, if all the directors shall be present thereat or shall have so
+waived notice thereof.  Any action required or permitted to be taken at any
+meeting of the Board of Directors may be taken without a meeting, if prior
+to such action a written consent thereto is signed by all members of the
+Board and such written consent is filed with the minutes of proceedings of
+the Board of Directors.
+
+20. Five of the directors in office at the time of any regular or special
+meeting of the Board of Directors shall constitute a quorum for the
+transaction of business at such meeting and except as may be otherwise
+specifically provided by statute or by the Certificate of Incorporation or by
+these bylaws, the act of a majority of the directors present at any such
+meeting at which a quorum is present shall be the act of the Board of
+Directors.  In the absence of a quorum a majority of the directors present
+may adjourn any meeting from time to time until a quorum is present.  Notice
+of any adjourned meeting need not be given.  The directors shall act only as
+a board and the individual directors shall have no power as such.
+
+
+
+
+                                E-3-9
+
+<PAGE>
+
+
+21. At each meeting of the Board of Directors the Chairman of the Board
+shall preside.  The Chairman of the Board may designate another member of
+the Board of Directors to preside as chairman of a meeting in place of the
+Chairman of the Board and in the absence of the Chairman of the Board and
+any member of the Board of Directors designated by the Chairman of the Board
+to preside as chairman of the meeting a majority of the directors present
+may designate a member of the Board of Directors as chairman to preside at
+the meeting.  The Secretary of the Company or, in the absence of the
+Secretary, a person appointed by the chairman of the meeting, shall act as
+secretary of the Board of Directors.  The Board of Directors may adopt such
+rules and regulations for the conduct of their meetings and the management of
+the affairs of the Company as they shall deem proper and not inconsistent
+with the law or with these bylaws.  At all meetings of the Board of Directors
+business shall be transacted in such order as the Board of Directors may
+determine.
+
+22. Each director shall be paid such fee, if any, for each meeting of the
+Board attended and/or such annual fee as shall be determined from time to
+time by resolution of the Board of Directors, provided that nothing herein
+contained shall be construed to prevent any director from serving the Company
+in any other capacity and receiving compensation therefor.
+
+23. (a) Definitions.  As used herein, the term "director" shall include each
+present and former director of the Company and the term "officer" shall
+include each present and former officer of the Company as such, and the
+terms "director" and "officer" shall also include each employee of the
+Company, who, at the Company's request, is serving or may have served as a
+director or officer of another corporation in which the Company owns directly
+or indirectly, shares of capital stock or of which it is a creditor.  The
+term "officer" also includes each assistant or divisional officer.  The term
+"expenses" shall include, but not be limited to, reasonable amounts for
+attorney's fees, costs, disbursements and other expenses and the amount or
+amounts of judgments, fines, penalties and other liabilities.
+
+(b) Indemnification Granted.  Each director and officer shall be and hereby
+is indemnified by the Company, to the full extent permitted by law, against:
+
+(i) expenses incurred or paid by the director or officer in connection with
+any claim made against such director or officer, or any actual or threatened
+action, suit or proceeding (civil, criminal, administrative, investigative or
+other, including appeals and whether or not relating to a date prior to the
+adoption of this bylaw) in which such director or officer may be involved as
+a party or otherwise, by reason of being or having been a director or officer
+of the Company, or of serving or having served at the request of the Company
+as a director, officer, employee, or agent of another corporation,
+partnership, joint venture, trust or other enterprise, or by reason of any
+action taken or not taken by such director or officer in such capacity, and
+
+(ii) the amount or amounts paid by the director or officer in settlement of
+any such claim, action, suit or proceeding or any judgment or order entered
+therein, however, notwithstanding anything to the contrary herein where a
+director or officer seeks indemnification in connection with a proceeding
+voluntarily initiated by such director or officer the right to indemnification
+granted hereunder shall be limited to proceedings where such director or
+officer has been wholly successful on the merits.
+
+
+
+
+
+                                  E-3-10
+
+<PAGE>
+
+
+(c)Miscellaneous.
+
+(i) Expenses incurred and amounts paid in settlement with respect to any
+claim, action, suit or proceeding of the character described in
+paragraph (b)(i) above may be advanced by the Company prior to the final
+disposition thereof upon receipt of an undertaking by or on behalf of the
+recipient to repay such amounts as shall not ultimately be determined to be
+payable to such recipient under this bylaw.
+
+(ii) The rights of indemnification herein provided for shall be severable,
+shall not be exclusive of other rights to which any director or officer now
+or hereafter may be entitled, shall continue as to a person who has ceased
+to be an indemnified person and shall inure to the benefit of the heirs,
+executors, administrators and other legal representatives of such a person.
+
+(iii) The provisions of this bylaw shall be deemed to be a contract between
+the Company and each director or officer who serves in such capacity at any
+time while such bylaw is in effect.
+
+(iv) The Board of Directors shall have power on behalf of the Company to
+grant indemnification to any person other than a director or officer to such
+extent as the Board in its discretion may from time to time determine.
+
+
+
+COMMITTEES OF THE BOARD.
+
+
+24. (a) The Board of Directors may, by resolution or resolutions, passed by a
+majority of the whole Board of Directors, designate an Executive Committee
+(and may discontinue the same at any time) to consist of three or more of the
+Directors of the Company.  The members shall be appointed by the Board of
+Directors and shall hold office during the pleasure of the Board of Directors;
+provided, however, that in the absence or disqualification of any member of
+the Executive Committee, the member or members thereof present at any meeting
+and not disqualified from voting, whether or not the member or members
+constitute a quorum, may unanimously appoint another member of the Board of
+Directors to act at the meeting in the place of any such absent or
+disqualified member.  The Executive Committee shall have and may exercise,
+during the intervals between the meetings of the Board of Directors, all of
+the powers of the Board of Directors in the management of the business and
+affairs of the Company (and shall have power to authorize the seal of the
+Company to be affixed to all papers which may require it), except that the
+Executive Committee shall have no power to (i) elect Directors to fill any
+vacancies or appoint any officers; (ii) fix the compensation of any officer
+or the compensation of any Director for serving on the Board of Directors or
+on any committee; (iii) declare any dividend or make any other distribution
+to the shareholders of the Company; (iv) submit to shareholders any action
+that needs shareholder authorization; (v) amend or repeal the bylaws or adopt
+any new bylaw; (vi) amend or repeal any resolution of the Board of Directors
+which by its terms shall not be so amendable or repealable; (vii) take any
+final action with respect to the acquisition or disposition of any business
+at a price in excess of $20,000,000.
+
+
+(b) The Board of Directors shall, by resolution or resolutions, passed by a
+majority of the whole Board of Directors designate an Audit Committee to
+consist of three or more non-employee directors of
+
+
+                                      E-3-11
+
+<PAGE>
+
+
+the Company free from any relationship that, in the opinion of the Board of
+Directors, would interfere with the exercise of independent judgment as a
+Committee member.   Any director who is a former employee of the Company may
+not serve on the Audit Committee.  The members of the Audit Committee shall
+be appointed by and hold office during the pleasure of the Board of Directors.
+A majority of the members of the Audit Committee will constitute a quorum for
+the transaction of business.  It shall be the duty of the Audit Committee
+(i) to recommend to the Board of Directors a firm of independent accountants
+to perform the examination of the annual financial statements of the Company;
+(ii) to review with the independent accountants and with the Controller the
+proposed scope of the annual audit, past audit experience, the Company's
+internal audit program, recently completed internal audits and other matters
+bearing upon the scope of the audit; (iii) to review with the independent
+accountants and with the Controller significant matters revealed in the
+course of the audit of the annual financial statements of the Company;
+(iv) to review on a biennial basis that the Company's Standards of Business
+Conduct  have been communicated by the Company to all key employees of the
+Company and its subsidiaries throughout the world with a direction that all
+such key employees certify that they have read, understand and are not aware
+of any violation of the Standards of Business Conduct; (v) to review with
+the Controller any suggestions and recommendations of the independent
+accountants concerning the internal control standards and the accounting
+procedures of the Company; (vi) to meet on a regular basis with a
+representative or representatives of the Internal Audit Department of the
+Company and to review the Internal Audit Department's Reports of Operations;
+(vii) to report its activities and actions to the Board of Directors at
+least once each fiscal year.
+
+(c) The Board of Directors may, by resolution or resolutions passed by a
+majority of the whole Board of Directors, designate such other committees
+as may be deemed advisable (and may discontinue the same at any time), to
+consist of two or more of the directors of the Company.  The members shall
+be appointed by and shall hold office during the pleasure of the Board of
+Directors, and the Board of Directors shall prescribe the name or names of
+such committees, the number of their members and their duties and powers.
+
+(d) Any action required or permitted to be taken at any meeting of any
+committee may be taken without a meeting, if prior to such action a written
+consent thereto is signed by all members of the committee and such written
+consent is filed with the minutes of proceedings of the committee.
+
+25. All committees shall keep written minutes of their proceedings and report
+the same to the Board of Directors when required.
+
+
+OFFICERS.
+
+26. The officers of the Company shall be a Chairman of the Board, a Vice
+Chairman of the Board, a President, two or more Vice Presidents (which shall
+include Senior Vice President, Executive Vice President and other Vice
+President titles), a Treasurer, a Secretary, a Controller, and such other
+officers as may be appointed in accordance with these bylaws.  The Secretary
+and Treasurer may be the same person, or a Vice President may hold at the
+same time the office of Secretary, Treasurer, or Controller.
+
+27. The officers of the Company shall be chosen by the Board of Directors.
+Each officer shall hold office until a successor shall have been duly chosen
+and shall have qualified or until the death or retirement of the officer or
+until the officer shall resign or shall have been removed in the manner
+hereinafter provided.  The Chairman of the Board and the Vice Chairman of the
+Board shall be chosen from among the directors.
+
+                                  E-3-12
+
+<PAGE>
+
+
+28. The Board of Directors may appoint such other officers, committees or
+agents, as the business of the Company may require, including one or more
+Assistant Treasurers and one or more Assistant Secretaries, each of whom
+shall hold office for such period, and have such authority and perform such
+duties as are provided in these bylaws or as the Board of Directors may from
+time to time determine.  The Board of Directors may delegate to any officer
+or committee the power to appoint and to remove any such subordinate officer
+or agent.
+
+29. Subject to the provisions of any written agreement, any officer may be
+removed, either with or without cause, by a vote of the majority of the whole
+Board of Directors at a regular meeting or a special meeting called for the
+purpose.  Any officer, except an officer elected by the Board of Directors,
+may also be removed, with or without cause, by any committee or superior
+officer upon whom such power of removal may be conferred by the Board of
+Directors.
+
+30. Subject to the provisions of any written agreement, any officer may
+resign at any time by giving written notice to the Board of Directors, the
+Chairman of the Board or the Secretary of the Company.  Any such resignation
+shall take effect at the time specified therein; and, unless otherwise
+specified therein, the acceptance of such resignation shall not be necessary
+to make it effective.
+
+31. Except as otherwise provided in these bylaws, in the event any officer
+shall be unable to perform the duties of the office held, whether by reason
+of absence, disability or otherwise, the Chairman of the Board may designate
+another officer of the Company to assume the duties of the officer who is
+unable to carry out the duties of the office; in the event the Chairman of
+the Board shall be absent and unable to perform the duties of the office of
+Chairman of the Board, the Chairman of the Board shall designate another
+officer to assume the duties of the Chairman of the Board; if another officer
+has not been designated by the Chairman of the Board to assume the duties of
+the Chairman of the Board, then the Board of Directors shall designate
+another officer to assume the duties of the Chairman of the Board; in the
+event the Chairman of the Board shall be disabled and unable to perform the
+duties of the office of Chairman of the Board, then the Board of Directors
+shall designate another officer to assume the duties of the Chairman of the
+Board.  Any officer designated to assume the duties of another officer shall
+have all the powers of and be subject to all the restrictions imposed upon
+the officer whose duties have been assumed.
+
+32. A vacancy in any office because of death, resignation, removal,
+disqualification or any other cause shall be filled for the unexpired portion
+of the term in the manner prescribed by these bylaws for the regular
+appointment or election to such office.
+
+33. The Chairman of the Board shall be the chief executive officer of the
+Company and shall have general supervision of the business and operations
+of the Company, subject, however, to the control of the Board of Directors.
+The Chairman of the Board shall preside at all meetings of the shareholders
+and of the Board of Directors.  The Chairman of the Board shall perform all
+of the duties usually incumbent upon a chief executive officer of a
+corporation and incident to the office of the Chairman of the Board.  The
+Chairman of the Board shall also have such powers and perform such duties
+as are assigned by these bylaws and shall have such other powers and perform
+such other duties, not inconsistent with these bylaws, as may from time to
+time be assigned by the Board of Directors.
+
+34. The Vice Chairman shall have such powers and perform such duties as are
+assigned by these bylaws and shall have such other powers and perform such
+other duties, not inconsistent with these bylaws, as from time to time may be
+assigned by the Board of Directors or the Chairman of the Board.
+
+35. The President shall have such powers and perform such duties as are
+assigned by these bylaws and shall have such other powers and perform such
+other duties, not inconsistent with these bylaws, as from time to time
+
+                                E-3-13
+
+<PAGE>
+
+
+may be assigned by the Board of Directors or the Chairman of the Board.
+
+36. Each Vice President shall have such powers and perform such duties as
+are assigned by these bylaws and shall have such other powers and perform
+such other duties, not inconsistent with these bylaws, as from time to time
+may be assigned by the Board of Directors or the Chairman of the Board.
+
+
+37. The Treasurer shall have charge and custody of, and be responsible for,
+all funds of the Company.  The Treasurer shall regularly enter or cause to
+be entered in books to be kept by the Treasurer or under the Treasurer's
+direction for this purpose full and adequate account of all moneys received
+or paid by the Treasurer for the account of the Company; the Treasurer shall
+exhibit such books of account and records to any of the directors of the
+Company at any time upon request at the office of the Company where such
+books and records shall be kept and shall render a detailed statement of
+these accounts and records to the Board of Directors as often as it shall
+require the same.  The Treasurer shall also have such powers and perform such
+duties as are assigned the Treasurer by these bylaws and shall have such
+other powers and perform such other duties, not inconsistent with these bylaws,
+as from time to time may be assigned by the Board of Directors.
+
+38. It shall be the duty of the Secretary to act as Secretary of all meetings
+of the Board of Directors and of the shareholders of the Company, and to keep
+the minutes of all such meetings in the proper book or books to be provided
+for that purpose; the Secretary shall see that all notices required to be
+given by or for the Company or the Board of Directors or any committee are
+duly given and served; the Secretary shall be custodian of the seal of the
+Company and shall affix the seal, or cause it to be affixed, to all documents,
+the execution of which on behalf of the Company, under its seal shall have
+been duly authorized in accordance with the provisions of these bylaws.  The
+Secretary shall have charge of the share records and also of the other books,
+records, and papers of the Company relating to its organization and management
+as a corporation and shall see that the reports, statements and other
+documents required by law are properly kept and filed; and shall in general
+perform all the duties usually incident to the office of Secretary.  The
+Secretary shall also have such powers and perform such duties as are assigned
+by these bylaws, and shall have such other powers and perform such other
+duties, not inconsistent with these bylaws, as from time to time may be
+assigned by the Board of Directors.
+
+39. The Controller shall perform the usual duties pertaining to the office of
+the Controller.  The Controller shall have charge of the supervision of the
+accounting system of the Company, including the preparation and filing of
+all reports required by law to be made to any public authorities and
+officials, and shall also have such powers and perform such duties, not
+inconsistent with these bylaws, as from time to time may be assigned by the
+Board of Directors.
+
+40. The Assistant Treasurers and the Assistant Secretaries shall have such
+powers and perform such duties as are assigned to them by these bylaws and
+shall have such other powers and perform such other duties, not inconsistent
+with these bylaws, as from time to time may be assigned to them by the
+Treasurer or the Secretary, respectively, or by the Board of Directors.
+
+41. The compensation of the Chairman of the Board, Vice Chairman of the Board,
+President, Vice President, Treasurer, Secretary and Controller shall be fixed
+by the Board of Directors.  The compensation of such other officers as may be
+appointed in accordance with the provisions of these bylaws may be fixed by
+the Chairman of the Board.  No officer shall be prevented from receiving such
+compensation by reason of also being a director of the Company.
+
+
+
+                                    E-3-14
+
+<PAGE>
+
+
+
+CONTRACTS, CHECKS, DRAFTS, BANK ACCOUNTS, ETC.
+
+
+42. The Board of Directors except as in these bylaws otherwise provided, may
+authorize any officer or officers, agent or agents, in the name of and on
+behalf of the Company, to enter into any contract or execute and deliver any
+instrument, and such authority may be general or confined to specific
+instances; and, unless so authorized by the Board of Directors or expressly
+authorized by these bylaws, no officer or agent or employee shall have any
+power or authority to bind the Company by any contract or engagement or to
+pledge its credit or to render it pecuniarily liable for any purpose or to
+any amount.
+
+43. No loans shall be contracted on behalf of the Company and no negotiable
+paper shall be issued in its name unless authorized by resolution of the
+Board of Directors.  When authorized by the Board of Directors, any officer
+or agent of the Company thereunto authorized may effect loans and advances at
+any time for the Company from any bank, trust company, or other institution,
+or from any firm, corporation or individual, and for such loans and advances
+may make, execute and deliver promissory notes, bonds, or other certificates
+or evidences of indebtedness of the Company and, when authorized so to do,
+may pledge, hypothecate or transfer any securities or other property of the
+Company as security for any such loans or advances.  Such authority may be
+general or confined to specified instances.
+
+44. All checks, drafts and other orders for the payment of moneys out of the
+funds of the Company and all notes or other evidences of indebtedness of the
+Company shall be signed on behalf of the Company in such manner as shall from
+time to time be determined by resolution of the Board of Directors.
+
+45. All funds of the Company not otherwise employed shall be deposited from
+time to time to the credit of the Company in such banks, trust companies or
+other depositories as the Board of Directors may select or as may be selected
+by any officer or officers, agent or agents of the Company to whom such power
+may from time to time be delegated by the Board of Directors; and for the
+purpose of such deposit, the Chairman of the Board, the Vice Chairman of the
+Board, the President, a Vice President, the Treasurer, the Controller, the
+Secretary or any other officer or agent or employee of the Company to whom
+such power may be delegated by the Board of Directors, may endorse, assign
+and deliver checks, drafts and other orders for the payment of moneys which
+are payable to the order of the Company.
+
+
+
+CERTIFICATES AND TRANSFERS OF SHARES.
+
+
+46. The shares of the Company shall be represented by certificates or shall
+be uncertificated.  Each registered holder of shares, upon request to the
+Company, shall be provided with a certificate of stock, representing the
+number of shares owned by such holder.  Certificates for shares of the Company
+shall be in such form as shall be approved by the Board of Directors. Such
+certificates shall be numbered and registered in the order in which they are
+issued and shall be signed by the  Chairman of the Board, the Vice Chairman
+of the Board, the President or a Vice President and the Secretary or an
+Assistant Secretary or the Treasurer or an Assistant Treasurer.  Where any
+such certificate is countersigned by a transfer agent, other than the Company
+or its employee, or by a registrar, other than the Company or its employee,
+any other signature on such certificate may be a facsimile, engraved, stamped
+or printed.  In the event that an officer whose facsimile signature appears
+on such certificate ceases for any reason to hold the office indicated and
+the Company or its transfer agent has on hand a supply of share certificates
+bearing such officer's facsimile signature, such certificates may continue to
+be issued and registered until such supply is exhausted.
+
+47. Transfers of shares of the Company shall be made only on the books of the
+Company by the holder thereof, or by the holder's attorney thereunto duly
+authorized and on either the surrender of the certificate or certificates
+
+                                      E-3-15
+
+<PAGE>
+
+
+for such shares properly endorsed or upon receipt of proper transfer
+instructions from the registered owner of uncertificated shares.  Every
+certificate surrendered to the Company shall be marked "Cancelled," with the
+date of cancellation, and no new certificate shall be issued in exchange
+therefor until the old certificate has been surrendered and cancelled, except
+as hereinafter provided.  Uncertificated shares shall be cancelled and
+issuance of new equivalent uncertificated shares shall be made to the person
+entitled thereto and the transaction shall be recorded upon the books of the
+Company.
+
+48. The holder of any shares of the Company shall immediately notify the
+Company of any loss, destruction or mutilation of the certificate therefor
+and the Company may issue a new certificate in the place of any certificate
+theretofore issued by it alleged to have been lost, destroyed or mutilated.
+The Board of Directors may, in its discretion, as conditions to the issue of
+any such new certificate, require the owner of the lost or destroyed
+certificate or the owner's legal representatives to make proof satisfactory
+to the Board of Directors of the loss or destruction thereof and to give the
+Company a bond in such form, in such sum and with such surety or sureties as
+the Board of Directors may direct, to indemnify the Company against any claim
+that may be made against it on account of any such certificate so alleged to
+have been lost or destroyed.
+
+
+DETERMINATION OF RECORD DATE.
+
+49. In order that the Company may determine the shareholders entitled to
+notice of or to vote at any meeting of shareholders or any adjournment thereof
+or entitled to receive payment of any dividend or other distribution or
+allotment of any rights or entitled to exercise any rights in respect of any
+change, conversion or exchange of stock or for the purpose of any other lawful
+action, the Board of Directors may fix in advance a record date which shall
+not be more than 60 nor less than 10 days before the date of such meeting nor
+more than 60 days prior to any other action.
+
+If no record date is fixed:
+
+(i) The record date for determining shareholders entitled to notice of or to
+vote at a meeting of shareholders shall be at the close of business on the
+day next preceding the day on which notice is given, or if notice is waived,
+at the close of business on the day next preceding the day on which the
+meeting is held.
+
+(ii)  The record date for determining shareholders for any other purpose
+shall be at the close of business on the day on which the Board of Directors
+adopts the resolution relating thereto.
+
+A determination of shareholders of record entitled to notice of or to vote
+at a meeting of shareholders shall apply to any adjournment of the meeting
+provided, however, that the Board of Directors may fix a new record date for
+the adjourned meeting.
+
+
+
+REGISTERED SHAREHOLDERS.
+
+
+50. The Company shall be entitled to treat the holder of record of any share
+or shares of stock as the holder in fact thereof and, accordingly, shall not
+be bound to recognize any equitable or other claim to or interest in such
+share on the part of any other person, whether or not it shall have express
+or other notice thereof, save as expressly provided by the laws of Delaware.
+
+
+
+
+                                    E-3-16
+
+<PAGE>
+
+
+
+FISCAL YEAR.
+
+
+51. The fiscal year shall begin on the first day of January and end on the
+thirty-first day of December in each year.
+
+
+
+NOTICES.
+
+
+52. Whenever under the provision of these bylaws notice is required to be
+given to any director or shareholder, it shall be construed to mean personal
+notice, but such notice may be given in writing, by mail, by depositing the
+same in a post office or letter box, in a postpaid sealed wrapper, addressed
+to such director or shareholder at such address as appears on the books of
+the Company, or, in default of other address, to such director or shareholder,
+at the General Post Office in the City of Wilmington, Delaware, and such
+notice shall be deemed to be given at the time when the same shall be thus
+mailed.
+
+53. Any notice required to be given under these bylaws may be waived in
+writing, signed by the person or persons entitled to said notice, whether
+before or after the time stated therein.
+
+
+AMENDMENTS.
+
+54. Except as otherwise provided in the Certificate of Incorporation of the
+Company and consistent therewith, these bylaws may be altered, amended or
+repealed or new bylaws may be made by the affirmative vote of the holders
+of record of a majority of the shares of the Company entitled to vote, at
+any annual or special meeting, provided that such proposed action shall be
+stated in the notice of such meeting, or, by a vote of the majority of the
+whole Board of Directors, at any regular meeting without notice, or at any
+special meeting provided that notice of such proposed action shall be stated
+in the notice of such special meeting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     E-3-17
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 27 (FDS) FILED WITH FORM 10-Q - 9/30/98
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>                                                              5
+<LEGEND>
+Exhibit 27 for Bristol-Myers Squibb Company for the period ended 9/30/98
+</LEGEND>
+<MULTIPLIER>                                                     1000000
+       
+<S>                                                                   <C>
+<PERIOD-TYPE>                                                      9-Mos
+<FISCAL-YEAR-END>                                            Dec-31-1998 <F1>
+<PERIOD-END>                                                 Sep-30-1998
+<CASH>                                                              1531
+<SECURITIES>                                                         308
+<RECEIVABLES>                                                       3129 <F2>
+<ALLOWANCES>                                                           0
+<INVENTORY>                                                         1775
+<CURRENT-ASSETS>                                                    7720
+<PP&E>                                                              7221
+<DEPRECIATION>                                                      2973
+<TOTAL-ASSETS>                                                     14925
+<CURRENT-LIABILITIES>                                               4645
+<BONDS>                                                             1314
+<PREFERRED-MANDATORY>                                                  0
+<PREFERRED>                                                            0
+<COMMON>                                                             109
+<OTHER-SE>                                                          7438
+<TOTAL-LIABILITY-AND-EQUITY>                                       14925
+<SALES>                                                            13399
+<TOTAL-REVENUES>                                                   13399
+<CGS>                                                               3549
+<TOTAL-COSTS>                                                       3549
+<OTHER-EXPENSES>                                                    2932
+<LOSS-PROVISION>                                                       0
+<INTEREST-EXPENSE>                                                   113
+<INCOME-PRETAX>                                                     3802
+<INCOME-TAX>                                                        1074
+<INCOME-CONTINUING>                                                 2728
+<DISCONTINUED>                                                         0
+<EXTRAORDINARY>                                                        0
+<CHANGES>                                                              0
+<NET-INCOME>                                                        2728
+<EPS-PRIMARY>                                                       2.74
+<EPS-DILUTED>                                                       2.68
+<FN>
+<F1>Items reported as "zero" are not applicable or are immaterial to the
+     consolidated financial position of the Company.
+<F2>Receivables are reported net of allowances for doubtful accounts.
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 99
+<TEXT>
+
+
+
+
+
+
+
+
+                                                               EXHIBIT 99
+                                                               ----------
+
+Cautionary statement regarding forward looking statements made by the Company,
+intended to have the benefit of the "safe harbor" provisions of the Private
+Securities Litigation Reform Act of 1995.
+
+The Company is hereby filing a cautionary statement identifying important
+factors that could cause the Company's actual results to differ materially
+from those projected in forward looking statements made by or on behalf of
+the Company.  There are several communications made by or on behalf of the
+Company (including the Company's Annual Report to Stockholders and Form 10-K)
+which contain statements relating to goals, plans and projections regarding
+its financial position, results of operations, market position and product
+development, among other things, which are based on current expectations that
+involve inherit risks and uncertainties including factors that would delay,
+divert or change one of them in the next several years.
+
+These important factors include --
+
+New government laws and regulations, such as (i) health care initiatives,
+(ii) changes in the FDA and foreign regulatory approval processes which may
+cause delays in approving new products, and (iii) tax changes such as the
+phasing out or elimination of tax benefits heretofore available in the United
+States and certain foreign countries.
+
+Difficulties in developing new products; new products developed by competitors
+which have lower prices or superior performance features or which are otherwise
+competitive with the Company's current products; and generic competition as
+the Company's products go off patent, as well as possible problems with
+licensors.
+
+Legal difficulties including negative results relating to patents; adverse
+decisions in litigation including the breast implant cases and other product
+liability cases; the inability to obtain adequate insurance with respect to
+this type of liability; and recalls of pharmaceutical products or forced
+closings of manufacturing plants.
+
+Increasing pricing pressures worldwide from managed care buyers and
+institutional and governmental purchasers; the impact of Year 2000 problems;
+and changes of business and economic conditions including, but not limited to,
+changes in interest rates and fluctuation of foreign currency exchange rates.
+
+No assurance can be given that any goal or plan set forth in forward looking
+statements can be achieved and readers are cautioned not to place undue
+reliance on such statements, which speak only as of the date made.  The Company
+undertakes no obligation to release publicly any revisions to forward looking
+statements as a result of future events or developments.
+
+
+                                E-99-1
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

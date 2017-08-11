@@ -1,0 +1,379 @@
+<SEC-DOCUMENT>0001193125-15-126142.txt : 20150410
+<SEC-HEADER>0001193125-15-126142.hdr.sgml : 20150410
+<ACCEPTANCE-DATETIME>20150410162133
+ACCESSION NUMBER:		0001193125-15-126142
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20150408
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20150410
+DATE AS OF CHANGE:		20150410
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		15764679
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d906267d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 8-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant
+to Section&nbsp;13 OR 15(d) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of The Securities Exchange Act Of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): April&nbsp;10, 2015 (April 8, 2015) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>BRISTOL-MYERS SQUIBB COMPANY </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact Name of Registrant as Specified in its Charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-1136</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>22-0790350</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or Other Jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of Incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification Number)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>345 Park Avenue </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>New York, NY, 10154 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of Principal Executive Office) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Registrant&#146;s telephone number, including area code: (212)&nbsp;546-4000 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions (<I>see </I>General Instruction A.2. below): </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;8.01. Other Events. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On April&nbsp;8, 2015, Bristol-Myers Squibb Company (the &#147;Company&#148;) announced that it had completed the previously announced planned
+acquisition of Flexus Biosciences, Inc. A copy of the press release is filed as Exhibit 99.1 to this report and is incorporated herein by reference. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;9.01. Financial Statements and Exhibits. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>(d) Exhibits. </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Press release of Bristol-Myers Squibb Company dated April&nbsp;8, 2015.</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="42%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="43%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="3">BRISTOL-MYERS SQUIBB COMPANY</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="4"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Dated: April&nbsp;10, 2015</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Sandra Leung</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Sandra Leung</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="top">General Counsel and Corporate Secretary</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:25.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit<BR>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Press release of Bristol-Myers Squibb Company dated April 8, 2015.</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d906267dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 99.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g906267ex99_1logo.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Bristol-Myers Squibb Completes Previously Announced Acquisition of Flexus Biosciences, Inc. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(NEW YORK, April&nbsp;8, 2015) - <U>Bristol-Myers Squibb Company</U> (NYSE: BMY) today announced that it has completed the previously
+announced planned acquisition of Flexus Biosciences, Inc. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The transaction includes full rights to F001287, Flexus&#146; lead preclinical,
+small-molecule IDO1-inhibitor targeted for IND filing in the second half of 2015 and an IDO/TDO discovery program that includes its IDO-selective, IDO/TDO dual and TDO-selective compound libraries. A newly formed entity established by the current
+shareholders of Flexus will retain, from and after the closing, all non-IDO/TDO assets of Flexus including those related to Flexus&#146; Phase 1 FLT3 and CDK4/6 inhibitor, its earlier stage small-molecule Treg cancer immunotherapy programs, and its
+current personnel and facilities. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>About Bristol-Myers Squibb </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Bristol-Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help
+patients prevail over serious diseases. For more information, please visit <U>www.bms.com</U> or follow us on Twitter at <U>http://twitter.com/bmsnews</U>. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Bristol-Myers Squibb Forward-Looking Statement </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>This
+press release contains &#147;forward-looking statements&#148; relating to the acquisition of Flexus by Bristol-Myers Squibb and the discovery, development and commercialization of certain investigational compounds. Such forward-looking statements
+are based on current expectations and involve inherent risks and uncertainties, including factors that could delay, divert or change any of them, and could cause actual outcomes and results to differ materially from current expectations. No
+forward-looking statement can be guaranteed. Among other risks, there can be no guarantee that the expected benefits of the acquisition will be realized. In addition, the compounds described in this release are subject to all the risks inherent in
+the drug development process, and there can be no assurance that the development of these compounds will be successful. Forward-looking statements in the press release should be evaluated together with the many uncertainties that affect
+Bristol-Myers Squibb&#146;s business, particularly those identified in the cautionary factors discussion in Bristol-Myers Squibb&#146;s Annual Report on Form 10-K for the year ended December&nbsp;31, 2014, its Quarterly Reports on Form 10-Q, and
+Current Reports on Form 8-K. Bristol-Myers Squibb undertakes no obligation to publicly update any forward-looking statement, whether as a result of new information, future events, or otherwise. </I></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Contacts </U></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Bristol-Myers Squibb </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Media: </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Ken Dominski, 609-252-5251, <U>ken.dominski@bms.com</U> </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Sarah
+Koenig, 609-252-4145, <U>sarah.koenig@bms.com</U> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Investors: </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Ranya Dajani, 609-252-5330, <U>ranya.dajani@bms.com</U> </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Flexus </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Media and Investors </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Yujiro Hata, Flexus Chief Operating Officer, 650-489-9009, <U>yhata@flexusbio.com</U> </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g906267ex99_1logo.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g906267ex99_1logo.jpg
+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
+8`*`"@`H`*`"@`H`*`"@`H`*`"@`H`__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

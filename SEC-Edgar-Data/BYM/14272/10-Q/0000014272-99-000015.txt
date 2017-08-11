@@ -1,0 +1,2741 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Vp732q4sCELAHFYom7AhEJm4lr8kj5OOuutnK663M8NOdBdwr3UOQpZY8/WidWz8
+ oGb4JX71ht1hLG8KCgY/9w==
+
+<SEC-DOCUMENT>0000014272-99-000015.txt : 19991115
+<SEC-HEADER>0000014272-99-000015.hdr.sgml : 19991115
+ACCESSION NUMBER:		0000014272-99-000015
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19990930
+FILED AS OF DATE:		19991112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		99747435
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+
+
+                    SECURITIES AND EXCHANGE COMMISSION
+
+                          WASHINGTON, D.C.  20549
+
+
+                                 FORM 10-Q
+
+
+          QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                      SECURITIES EXCHANGE ACT OF 1934
+
+
+             FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 1999
+
+
+                       Commission File Number 1-1136
+
+
+                       BRISTOL-MYERS SQUIBB COMPANY
+          (Exact name of registrant as specified in its charter)
+
+
+
+              Delaware                            22-079-0350
+     (State or other jurisdiction of     (IRS Employer Identification No.)
+     incorporation or organization)
+
+
+
+                  345 Park Avenue, New York, N.Y.  10154
+                 (Address of principal executive offices)
+                         Telephone: (212) 546-4000
+
+
+Indicate  by  check mark whether the registrant (1) has filed  all  reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange  Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject  to
+such filing requirements for the past 90 days.
+
+Yes  [ X ]            No  [    ]
+
+
+
+At  September 30, 1999, there were 1,983,692,284 shares outstanding of  the
+Registrant's $.10 par value Common Stock.
+
+
+
+<PAGE>
+
+
+                    BRISTOL-MYERS SQUIBB COMPANY
+
+                         INDEX TO FORM 10-Q
+
+                         September 30, 1999
+
+
+
+Part I - Financial Information:                                Page
+
+Item 1.
+
+Financial Statements (Unaudited):
+
+Consolidated Balance Sheet - September 30, 1999 and December     2 - 3
+31, 1998
+
+Consolidated Statement of Earnings and Comprehensive  Income
+for the three and nine months ended September 30, 1999 and         4
+1998
+
+Consolidated  Statement of Cash Flows for  the  nine  months
+ended September 30, 1999 and 1998                                  5
+
+Notes to Condensed Consolidated Financial Statements             6 - 7
+
+ Report of Independent Accountants                                 8
+
+Item 2.
+
+ Management's   Discussion  and  Analysis   of   Financial    9 - 17
+ Condition and Results of Operations
+
+Part II - Other Information
+
+Item 1.
+
+ Legal Proceedings                                           18 - 19
+
+Item 6.
+
+ Exhibits and Reports on Form 8-K                                 20
+
+Signatures                                                        21
+
+
+
+<PAGE>
+
+
+PART I  FINANCIAL INFORMATION
+- ------------------------------
+
+Item 1.  Financial Statements
+- -----------------------------
+
+
+                     BRISTOL-MYERS SQUIBB COMPANY
+                  CONSOLIDATED BALANCE SHEET - ASSETS
+             (Unaudited, in millions except share amounts)
+
+
+
+
+                                               September   December
+                                               30, 1999    31, 1998
+                                               ---------- ----------
+
+Current Assets:
+Cash and cash equivalents                          $2,455      $2,244
+Time deposits and marketable securities               235         285
+Receivables, net of allowances                      3,306       3,190
+Inventories                                         2,052       1,873
+Prepaid expenses                                      909       1,190
+                                                ---------   ---------
+
+  Total Current Assets                              8,957       8,782
+                                                ---------   ---------
+
+Property, Plant and Equipment, net                  4,489       4,429
+
+Insurance Recoverable                                 466         523
+Excess of cost over net tangible assets arising
+         from business acquisitions                 1,550       1,587
+Other Assets                                        1,150         951
+                                                ---------   ---------
+
+Total Assets                                      $16,612     $16,272
+                                                =========   =========
+
+                                -2-
+
+<PAGE>
+
+                    BRISTOL-MYERS SQUIBB COMPANY
+                    CONSOLIDATED BALANCE SHEET -
+                LIABILITIES AND STOCKHOLDERS' EQUITY
+            (Unaudited, in millions except share amounts)
+
+
+
+
+                                                September   December
+                                                30, 1999    31, 1998
+                                                ---------   ---------
+
+Current Liabilities:
+Short-term borrowings                               $  512     $  482
+Accounts payable                                     1,506      1,380
+Accrued expenses                                     2,309      2,302
+Product liability                                      378        877
+U.S. and foreign income taxes payable                  696        750
+                                                    ------   --------
+
+        Total Current Liabilities                    5,401      5,791
+
+Other Liabilities                                    1,439      1,541
+Long-Term Debt                                       1,331      1,364
+                                                    ------   --------
+
+
+  Total Liabilities                                  8,171      8,696
+                                                    ------   --------
+
+
+Stockholders' Equity:
+Preferred stock, $2 convertible series:
+     Authorized  10 million shares; issued  and
+     outstanding 11,153 in 1999 and  11,684  in          -          -
+     1998, liquidation value of $50 per share
+Common stock, par value of $.10 per share:
+     Authorized  4.5  billion  shares;   issued
+     2,190,910,985 in 1999 and 2,188,316,808 in        219        219
+     1998
+Capital in excess of par value of stock              1,394      1,075
+Other Comprehensive Income                            (796)     (622)
+Retained earnings                                   14,374     12,540
+                                                    ------   --------
+
+                                                    15,191     13,212
+Less  cost  of  treasury  stock  -  207,218,701
+common shares in 1999 and 199,550,532 in 1998        6,750      5,636
+                                                    ------   --------
+
+
+Total Stockholders' Equity                           8,441      7,576
+                                                    ------   --------
+
+
+Total Liabilities and Stockholders' Equity         $16,612    $16,272
+                                                   =======    =======
+
+                                -3-
+<PAGE>
+
+                    BRISTOL-MYERS SQUIBB COMPANY
+                 CONSOLIDATED STATEMENT OF EARNINGS
+                      AND COMPREHENSIVE INCOME
+          (Unaudited, in millions except per share amounts)
+
+
+                                    Three Months       Nine Months
+                                        Ended             Ended
+                                    September 30,      September 30,
+                                  -----------------  ----------------
+
+EARNINGS                             1999      1998     1999     1998
+- --------                          -------   -------  -------  -------
+
+
+Net Sales                          $5,040    $4,523  $14,814  $13,399
+                                   ------    ------  -------  -------
+
+
+Expenses:
+Cost of products sold               1,402     1,191    4,068    3,549
+Marketing,selling, administrative   1,095     1,034    3,338    3,116
+     and other
+Advertising and product promotion     573       554    1,768    1,767
+Research and development              452       398    1,328    1,165
+Provision for restructuring             -         -        -      201
+Gain on sale of businesses              -         -        -     (201)
+                                   ------    ------  -------  -------
+
+                                    3,522     3,177   10,502    9,597
+                                   ------    ------  -------  -------
+
+Earnings Before Income Taxes        1,518     1,346    4,312    3,802
+
+Provision for income taxes            421       380    1,197    1,074
+                                   ------    ------  -------  -------
+
+
+Net Earnings                       $1,097      $966   $3,115   $2,728
+                                   ======    ======   ======   ======
+
+Earnings Per Common Share
+Basic                                $.55      $.49    $1.57    $1.37
+Diluted                              $.54      $.47    $1.54    $1.34
+
+Average Common Shares Oustanding
+      Basic                         1,984     1,988    1,985    1,987
+      Diluted                       2,028     2,030    2,027    2,032
+
+Dividends Per Common Share          $.215     $.195    $.645    $.585
+
+COMPREHENSIVE INCOME
+- --------------------
+
+
+Net Earnings                       $1,097      $966   $3,115   $2,728
+
+Other Comprehensive Income:
+Foreign currency translation          (18)      (68)    (187)    (155)
+Tax effect                              5         6       13       11
+                                   ------    ------  -------  -------
+
+
+Total Other Comprehensive Income      (13)      (62)    (174)    (144)
+                                  -------   -------  -------  -------
+
+
+Comprehensive Income               $1,084      $904   $2,941   $2,584
+                                   ======    ======   ======   ======
+
+                                -4-
+<PAGE>
+
+                       BRISTOL-MYERS SQUIBB COMPANY
+                   CONSOLIDATED STATEMENT OF CASH FLOWS
+                         (Unaudited, in millions)
+                                                  Nine Months Ended
+                                                    September 30,
+                                                  -----------------
+
+                                                   1999       1998
+                                                  ------     ------
+
+Cash Flows From Operating Activities:
+Net earnings                                        $3,115     $2,728
+Depreciation and amortization                          489        457
+Provision for restructuring                              -        201
+Gain on sale of businesses                               -       (201)
+Other operating items                                  (59)        27
+Receivables                                           (208)      (262)
+Inventories                                           (245)       (81)
+Accounts payable                                       (21)        89
+Accrued expenses                                       (53)      (242)
+Product liability                                     (622)      (493)
+Insurance recoverable                                   57         89
+Income taxes                                           478        468
+Other assets and liabilities                           (79)      (103)
+                                                 ---------  ---------
+      Net Cash Provided by Operating Activities      2,852      2,677
+                                                 ---------  ---------
+Cash Flows From Investing Activities:
+Proceeds from sales of time deposits and                51        225
+    marketable securities
+Purchases of time deposits and marketable               (1)      (195)
+   securities
+Additions to fixed assets                             (455)      (537)
+Proceeds from sale of business                           -        413
+Acquisition of businesses                                -        (67)
+Other, net                                              (9)        10
+                                                 ---------  ---------
+      Net Cash Used in Investing Activities           (414)      (151)
+                                                 ---------  ---------
+Cash Flows From Financing Activities:
+Short-term borrowings                                   27        (30)
+Long-term debt                                         (12)        69
+Issuances of common stock under stock plans             (7)       129
+Purchases of treasury stock                           (915)    (1,448)
+Dividends paid                                      (1,281)    (1,163)
+                                                 ---------  ---------
+      Net Cash Used in Financing Activities         (2,188)    (2,443)
+                                                 ---------  ---------
+
+Effect of Exchange Rates on Cash                       (39)        (8)
+                                                 ---------  ---------
+Increase in Cash and Cash Equivalents                  211         75
+Cash and Cash Equivalents at Beginning of            2,244      1,456
+     Period                                      ---------  ---------
+
+Cash and Cash Equivalents at End of Period          $2,455     $1,531
+                                                 =========  =========
+
+                                -5-
+<PAGE>
+
+                       BRISTOL-MYERS SQUIBB COMPANY
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+             (Unaudited, in millions except per share amounts)
+
+
+Note 1:   Basis of Presentation
+- -------------------------------
+
+In   the  opinion  of  management,  the  accompanying  unaudited
+consolidated   financial  statements  include  all   adjustments
+(consisting  only of normal adjustments) necessary  for  a  fair
+presentation  of the financial position of Bristol-Myers  Squibb
+Company  (the "Company") at September 30, 1999 and December  31,
+1998,  the  results of operations for the three and nine  months
+ended  September 30, 1999 and 1998, and cash flows for the  nine
+months  ended  September 30, 1999 and 1998.  These  consolidated
+financial  statements  should be read in  conjunction  with  the
+consolidated financial statements and the related notes included
+in   the   Company's   1998  Annual   Report   on   Form   10-K.
+PricewaterhouseCoopers LLP, the Company's independent  auditors,
+have  performed a review of the unaudited consolidated financial
+statements  included  herein, and their  review  report  thereon
+accompanies this filing.
+
+Note 2:   Accounting Policies
+- -----------------------------
+
+Basis  of  Consolidation - The consolidated financial statements
+include the accounts of Bristol-Myers Squibb Company and all  of
+its subsidiaries.
+
+Cash  and Cash Equivalents - Cash and cash equivalents primarily
+include  securities with a maturity of three months or  less  at
+the  time  of  purchase,  recorded at cost,  which  approximates
+market.
+
+Time  Deposits  and  Marketable Securities - Time  deposits  and
+marketable securities are available for sale and are recorded at
+fair value, which approximates cost.
+
+Inventory  Valuation  -  Inventories  are  generally  stated  at
+average cost, not in excess of market. As of September 30, 1999,
+the  amounts  of finished goods, work in process,  and  raw  and
+packaging  materials  were $1,362, $340 and $350,  respectively.
+These  amounts  as  of December 31, 1998 were $1,209,  $236  and
+$428, respectively.
+
+Capital  Assets  and Depreciation - Expenditures for  additions,
+renewals  and betterments are capitalized at cost.  Depreciation
+is  generally computed by the straight-line method based on  the
+estimated  useful  lives of the related assets.   The  estimated
+useful  lives of the major classes of depreciable assets are  50
+years  for  buildings and 3 to 40 years for machinery, equipment
+and fixtures.  Accumulated depreciation as of September 30, 1999
+and   December   31,  1998  amounted  to  $3,234   and   $3,079,
+respectively.
+
+Excess  of  Cost over Net Tangible Assets - The excess  of  cost
+over  net tangible assets arising from business acquisitions  is
+amortized on a straight-line basis over periods ranging from  15
+to  40  years.  The excess of cost over net tangible  assets  is
+periodically  reviewed for impairment based on an assessment  of
+future operations (including cash flows) to ensure the excess of
+cost over net tangible assets is appropriately valued.
+
+                                -6-
+<PAGE>
+
+Product   Liability   -  Accruals  for  product  liability   are
+recorded, on an undiscounted basis, when it is probable  that  a
+liability has been incurred and the amount of the liability  can
+be  reasonably  estimated, based on existing information.  These
+accruals   are  adjusted  periodically  as  assessment   efforts
+progress   or  as  additional  information  becomes   available.
+Receivables   for  related  insurance  or  other   third   party
+recoveries   for  product  liabilities  are  recorded,   on   an
+undiscounted basis, when it is probable that a recovery will  be
+realized.   Insurance recoverable recorded on the balance  sheet
+has, in general, payment terms of three years or less.
+
+Revenue  Recognition - Revenue from product sales is  recognized
+upon shipment to customers.
+
+Note 3: Earnings Per Share
+- --------------------------
+
+Basic  earnings per common share are computed using the weighted
+average  number of shares outstanding during the year.   Diluted
+earnings  per  common  share  are computed  using  the  weighted
+average  number of shares outstanding during the year, plus  the
+incremental shares outstanding assuming the exercise of dilutive
+stock  options.  The computations for basic earnings per  common
+share and diluted earnings per common share are as follows:
+
+
+                                Three Months Ended      Nine Months Ended
+                                   September 30,          September 30,
+                              --------------------     ------------------
+
+                                 1999         1998        1999       1998
+                              -------      -------     -------    -------
+Earnings per Common Share  -
+   Basic:
+
+Net Earnings                   $1,097       $  966      $3,115     $2,728
+
+Average Common Shares           1,984        1,988       1,985      1,987
+   Outstanding
+
+Earnings Per Common Share -
+Basic                          $ 0.55       $ 0.49      $ 1.57     $ 1.37
+
+
+
+
+                                Three Months Ended      Nine Months Ended
+                                   September 30,          September 30,
+                              --------------------      ------------------
+
+                                 1999         1998         1999       1998
+                              -------      -------      -------    -------
+Earnings per Common Share -
+   Diluted:
+
+Net Earnings                   $1,097       $  966       $3,115    $2,728
+
+Average Common Shares           1,984        1,988        1,985     1,987
+   Outstanding
+Incremental Shares Outstanding
+   Assuming the Exercise of        44           42           42        45
+   Dilutive Stock Options
+
+Average Common Shares           2,028        2,030        2,027     2,032
+   Outstanding
+
+Earnings Per Common Share -
+   Diluted                     $ 0.54       $ 0.47       $ 1.54    $ 1.34
+
+
+                                -7-
+<PAGE>
+
+
+                  Report of Independent Accountants
+
+
+
+To the Board of Directors
+and Stockholders of
+Bristol-Myers Squibb Company
+
+We  have reviewed the accompanying consolidated balance sheet of
+Bristol-Myers  Squibb  Company  and  its  subsidiaries   as   of
+September  30, 1999, and the related consolidated  statement  of
+earnings  and  comprehensive income for each of the  three-month
+and nine-month periods ended September 30, 1999 and 1998 and the
+consolidated statement of cash flows for the nine-month  periods
+ended  September 30, 1999 and 1998.  These financial  statements
+are the responsibility of the Company's management.
+
+We conducted our review in accordance with standards established
+by  the  American Institute of Certified Public Accountants.   A
+review of interim financial information consists principally  of
+applying  analytical  procedures to financial  data  and  making
+inquiries  of  persons responsible for financial and  accounting
+matters.   It  is  substantially less in  scope  than  an  audit
+conducted   in  accordance  with  generally  accepted   auditing
+standards,  the  objective of which  is  the  expression  of  an
+opinion  regarding the financial statements taken  as  a  whole.
+Accordingly, we do not express such an opinion.
+
+Based   on  our  review,  we  are  not  aware  of  any  material
+modifications   that   should  be  made  to   the   accompanying
+consolidated  interim financial statements for  them  to  be  in
+conformity with generally accepted accounting principles.
+
+We  previously  audited  in accordance with  generally  accepted
+auditing  standards,  the  consolidated  balance  sheet  as   of
+December  31,  1998, and the related consolidated statements  of
+earnings, comprehensive income and retained earnings and of cash
+flows for the year then ended (not presented herein), and in our
+report  dated  January  20,  1999 we  expressed  an  unqualified
+opinion  on  those  consolidated financial statements.   In  our
+opinion,   the   information  set  forth  in  the   accompanying
+consolidated  balance sheet as of December 31,  1998  is  fairly
+stated  in all material respects in relation to the consolidated
+balance sheet from which it has been derived.
+
+
+
+
+PricewaterhouseCoopers LLP
+New York, New York
+November 9, 1999
+
+
+
+                                -8-
+<PAGE>
+
+
+
+Item 2.     Management's  Discussion and Analysis  of  Financial
+            Condition and Results of Operations
+
+
+Third Quarter Results of Operations
+- -----------------------------------
+
+Worldwide sales for the third quarter of 1999 increased 11% over
+the prior year to $5,040 million.  The consolidated sales growth
+resulted from a 10% increase due to volume, a 2% increase due to
+changes  in  selling  prices and a 1% decrease  due  to  foreign
+exchange  rate  fluctuations.   U.S.  sales  increased  15%  and
+international  sales increased 5% (7% excluding  the  effect  of
+foreign exchange).
+
+Sales  in  the medicines products segment, which is the  largest
+segment  at 70% of total Company sales, increased 14%  over  the
+third  quarter of 1998 to $3,548 million.  Sales growth resulted
+from  a  13% increase in volume, a 3% increase in selling prices
+and  a  2%  decrease due to foreign exchange rate  fluctuations.
+Worldwide   pharmaceutical  sales  increased   15%   with   U.S.
+pharmaceutical sales up 22% over the prior year.
+
+Sales of cardiovascular drugs increased 12% to $871 million (14%
+excluding  foreign exchange). Sales of PRAVACHOL*, the Company's
+largest selling product, decreased 1% to $386 million. Sales  of
+the anti-hypertensive MONOPRIL*, a second generation angiotensin
+converting enzyme (ACE) inhibitor, increased 9% to $94  million.
+PLAVIX(R), a platelet aggregation inhibitor for the reduction of
+stroke,  heart  attack  and  vascular death  in  atherosclerotic
+patients with recent stroke, heart attack or peripheral arterial
+disease,  had sales of $148 million compared to $45 million  for
+the same quarter last year. AVAPRO(r), an angiotensin II receptor
+blocker for the treatment of hypertension, increased 55% to  $62
+million. AVAPRO(r) and PLAVIX(r) are cardiovascular products that
+were  launched  from the Bristol-Myers Squibb  and  Sanofi  S.A.
+joint  venture.  Sales growth for these cardiovascular  products
+was  partially offset by a 23% decline in CAPOTEN* sales due  to
+the loss of patent exclusivity in international markets.
+
+Sales  of  anti-cancer drugs, the largest product group  in  the
+segment,  increased  16%  to  $898  million.   Sales  of  TAXOL*
+(paclitaxel), the Company's leading anti-cancer agent, increased
+23%  to  $375  million as the product continues to benefit  from
+increased use in ovarian, breast and non-small cell lung cancer.
+Sales  from  Oncology Therapeutics Network  (OTN),  a  specialty
+distributor  of  anti-cancer  medicines  and  related  products,
+increased 38% to $236 million.
+
+Anti-infective drug sales of $602 million increased 3% over  the
+prior year.   Sales of ZERIT* and VIDEX*, the Company's two anti-
+retroviral agents, increased 17% to $155 million and 14%
+to $49 million, respectively.  International sales of MAXIPIME*,
+a  fourth generation injectable cephalosporin, increased 35%  to
+$31 million in the quarter.
+
+Central nervous system drug sales of $314 million increased  16%
+with  sales  of BUSPAR*, an anti-anxiety agent, and SERZONE*,  a
+novel  anti-depressant, increasing 12% to $155 million, and  41%
+to $86 million, respectively.
+
+
+*    Indicates  brand names of products which are trademarks  of
+the Company.
+
+                                -9-
+<PAGE>
+
+GLUCOPHAGE(r), the leading  branded  oral  medication  for   the
+treatment  of non-insulin dependent (type 2) diabetes, continued
+its  strong  growth  rate  with sales  increasing  57%  to  $349
+million.
+
+Analgesic sales increased 11% to $180 million.  EXCEDRIN*  sales
+increased  5% to $61 million, BUFFERIN* sales increased  19%  to
+$32  million and sales of EFFERALGAN*, an effervescent analgesic
+sold  primarily  in  France, increased 3% to  $33  million.   In
+October 1999, the U.S. Food and Drug Administration expanded the
+EXCEDRIN* migraine  indication from  just  the treatment of mild
+to moderate  migraine  pain  to encompass  even the  severe pain
+and  associated  symptoms  of  the full migraine syndrome.  Also
+in October, the  Company  introduced THERAGRAN  HEART  RIGHT*, a
+complete multivitamin with a  formula  specially created to help
+support a healthy heart.
+
+Earnings  before  taxes  for  the  medicines  products   segment
+increased  20%  to $1,049 million in 1999. As  a  percentage  of
+sales, earnings before taxes for this segment improved to  29.6%
+in  1999  from 28.2% in 1998.  Advertising and promotion,  sales
+force  and  general  administrative  expenses  improved,  as   a
+percentage  of sales, partially offset by increases in  cost  of
+goods sold, as a percentage of sales.
+
+Sales  in  the  beauty care products segment  increased  5%  (4%
+excluding  the  effect  of foreign exchange)  to  $624  million.
+Sales  growth  resulted  from a 2%  increase  in  volume,  a  2%
+increase  in  selling prices and a 1% increase  due  to  foreign
+exchange rate fluctuations.  Clairol continues to be the  number
+one  hair  products company in the U.S.  The introduction  of  a
+demand  management manufacturing system slowed shipments  during
+the  quarter. HERBAL ESSENCES*, the number two brand in the U.S.
+shampoo/conditioner category and number three in the  body  wash
+category,  continued its strong growth, increasing  6%  to  $163
+million.   AUSSIE*  products contributed $32  million  to  third
+quarter  sales,  an  increase of 7%.  Sales  of  DAILY  DEFENSE*
+increased  12%  to  $29  million,  following  its  launch   into
+international  markets.  Haircolor sales increased  12%  due  to
+increases  in  NICE 'N EASY* of 24% to $56 million  and  NATURAL
+INSTINCTS* of 24% to $26 million.  Earnings before taxes for the
+beauty  care products segment decreased to $92 million  in  1999
+from $96 million in 1998, primarily due to the introduction of a
+demand management manufacturing system.
+
+Sales  in the nutritional products segment increased 6% to  $466
+million.  Sales growth resulted from an 8% increase in volume, a
+2%  decrease  in  selling prices and no effect  due  to  foreign
+exchange   rate   fluctuations.  The  Company's   Mead   Johnson
+subsidiary  continues  to  build  on  its  U.S.  and   worldwide
+leadership position in the infant formula market. ENFAMIL*,  the
+Company's largest-selling infant formula, recorded sales of $176
+million, an increase of 1% over the prior year. BOOST*, an adult
+nutritional  supplement,  also  contributed  to  sales   growth,
+increasing  38%  to  $33 million and sales of  VIACTIV*  Calcium
+Chews  reached  $10  million.  Earnings  before  taxes  for  the
+nutritional  segment increased to $96 million in 1999  from  $91
+million in 1998, and as a percentage of sales, remained at prior
+year  levels  of approximately 20.6%.  Sales force  and  general
+administrative  expenses  improved as  a  percentage  of  sales,
+offset  by  increases in cost of goods sold and advertising  and
+promotion expenses, as a percentage of sales.
+
+                                -10-
+<PAGE>
+
+Medical  device segment sales increased 4% to $402 million,  due
+to  volume  increases  of 3% and increases  due  to  changes  in
+selling  prices of 1%. Fluctuations in foreign exchange  had  no
+effect on medical devices sales.  Zimmer sales increased  8%  to
+$226  million  (5%  excluding  foreign  exchange).   Knee  joint
+replacement  sales  increased  13%  to  $88  million   and   hip
+replacement sales increased 14% to $67 million.  ConvaTec  sales
+remained  at  prior year levels at $176 million (a  1%  increase
+excluding  foreign  exchange).   Sales  of  modern  wound   care
+products  increased  5%  to $62 million while  sales  of  ostomy
+products  decreased 11% to $100 million.  Earnings before  taxes
+for  the medical device segment increased 15% to $91 million  in
+1999  from  $79 million in 1998 and, as a percentage  of  sales,
+increased to 22.6% in 1999 from 20.5% in 1998, primarily due  to
+improved manufacturing processes.
+
+
+Operating Expenses
+- ------------------
+
+Total  expenses,  as a percentage of sales, decreased  to  69.9%
+from  70.2% in 1998.  Cost of products sold, as a percentage  of
+sales,  increased  to 27.8% from 26.3% in 1998  due  to  revenue
+growth  of  Oncology  Therapeutics Network (OTN)  which  carries
+significantly  lower margins. Excluding OTN,  cost  of  products
+sold, as a percentage of sales, increased to 24.5% in 1999  from
+23.6% in 1998 due primarily to decreased sales of CAPOTEN* and a
+product  mix  shift  to  lower margin  pharmaceutical  products.
+Expenditures for advertising and promotion in support of new and
+existing  products  increased  3%  to  $573  million  from  $554
+million.
+
+Marketing,  selling  administrative and  other  expenses,  as  a
+percentage of sales, decreased to 21.7% in the third quarter  of
+1999  from 22.9% in the third quarter of 1998, primarily due  to
+sales    force   effectiveness   and   reductions   in   general
+administrative expenses as a percentage of sales.  Research  and
+development expenditures increased 14% to $452 million from $398
+million   in  1998.   Pharmaceutical  research  and  development
+spending  increased 13% over the prior year, and as a percentage
+of  pharmaceutical sales, was 12.5% in the third quarter of 1999
+and 12.6% in the third quarter of 1998.
+
+In research and development highlights this quarter, the Company
+and  Otsuka  Pharmaceutical Co., Ltd., announced a  development,
+commercialization and collaboration agreement for  aripiprazole,
+a  novel drug under study in Phase III trials as a treatment for
+schizophrenia.  This  new compound has  a  unique  mechanism  of
+action  and  has the potential to expand the options for  safely
+and  effectively  treating schizophrenia  and,  possibly,  other
+forms  of  mental illness. In October, the U.S.  Food  and  Drug
+Administration  (FDA) approved the use of TAXOL*  injection  for
+adjuvant   treatment  of  node-positive   breast   cancer.    In
+September,  the  Oncologic Drugs Advisory Committee  recommended
+that  the  FDA  approve  UFT(r) capsules  in  combination   with
+leucovorin   calcium   tablets  for  treatment   of   metastatic
+colorectal  cancer. Also in September, ZERIT*  and  VIDEX*  were
+both approved by the FDA for use as a first-line component of  a
+combination  antiretroviral  therapy  regimen  for  HIV-infected
+patients.
+
+The  Company also submitted a regulatory application to the  FDA
+in   September  to  gain  marketing  approval  for  a  new  oral
+antidiabetic combination drug.  The new drug, which is the first
+fixed  combination product of its kind to be  developed  in  the
+United  States, leverages the benefits of two widely  prescribed
+oral  antidiabetic  medications,  GLUCOPHAGE(r) (metformin)  and
+glyburide,  a  well  established  sulfonylurea  antidiabetic.  A
+regulatory  application was filed with the FDA in  September  to
+gain  marketing  approval for VANIQA*, a topical  treatment  for
+excessive facial hair in women.
+
+                             -11-
+<PAGE>
+
+The  Company  is awaiting marketing approval from  the  FDA  for
+TEQUIN*  (gatifloxacin), a broad-spectrum  quinolone  antibiotic
+for the treatment of multiple common infections, including those
+of  the  respiratory tract. The Company also plans to  file  for
+regulatory  approval with the FDA for a new  hypertension  drug,
+VANLEV*,  by  the  end  of  the year with  worldwide  regulatory
+filings to follow.  A research agreement between the Company and
+Exelixis  Pharmaceuticals  was recently  announced  to  identify
+novel, validated targets for new medicines using the genetics of
+yeast, worms and fruit flies.
+
+
+Earnings
+- --------
+
+Earnings  before  income taxes increased 13% to  $1,518  million
+from  $1,346 million in 1998. The effective tax rate on earnings
+before  income  taxes decreased to 27.7% in 1999 from  28.2%  in
+1998. The decrease in the effective tax rate is due to increased
+earnings   from  lower  tax  rate  jurisdictions.  Net  earnings
+increased 14% to $1,097 million from $966 million in 1998. Basic
+earnings  per share increased 12% to $.55 from $.49 in 1998  and
+diluted  earnings per share increased 15% to $.54 from  $.47  in
+1998.
+
+
+Nine Months Results of Operations
+- ---------------------------------
+
+Worldwide sales for the first nine months of 1999 increased  11%
+over  the prior year to $14,814 million.  The consolidated sales
+growth  resulted  from a 9% increase due  to  volume  and  a  2%
+increase due to changes in selling prices.  Foreign exchange had
+no  effect  on sales for the nine months.  U.S. sales  increased
+16%  and  international sales increased  3%  (4%  excluding  the
+effect of foreign exchange).
+
+Sales  in the medicines products segment increased 14% over  the
+prior  year to $10,413 million. Sales growth for the nine months
+resulted from a 13% increase in volume, a 2% increase in selling
+prices   and  a  1%  decrease  due  to  foreign  exchange   rate
+fluctuations.  Worldwide pharmaceutical sales increased 15% with
+U.S. pharmaceutical sales up 23% over the prior year.
+
+Cardiovascular drug sales of $2,673 million increased  15%  from
+the  prior  year. PRAVACHOL* increased 5% to $1,252 million  and
+MONOPRIL* increased 10% to $316 million. PLAVIX(r) had  sales of
+$364 million for the nine months and AVAPRO(r) had sales of $176
+million.   Sales growth for these products was partially  offset
+by  a  22% decline in CAPOTEN* sales, due to the loss of  patent
+exclusivity  in  international markets.   Sales  of  anti-cancer
+drugs  increased  21% to $2,585 million due to strong  sales  of
+TAXOL* and OTN which increased 24% to $1,067 million and 41%  to
+$656 million, respectively.  Anti-infective drug sales increased
+4%  to $1,819 million as ZERIT* and VIDEX* recorded gains of 17%
+to   $458   million  and  26%  to  $148  million,  respectively.
+International  sales of MAXIPIME* increased 26% to  $92  million
+for  the nine months and sales of CEFZIL* increased 11% to  $329
+million.  Sales of central nervous system drugs increased 13% to
+$888  million  as  BUSPAR* and SERZONE* increased  14%  to  $418
+million  and  19% to  $233 million, respectively.  GLUCOPHAGE(r)
+continued  its strong growth and increased 53% to $980  million.
+Analgesic  sales of $540 million increased 6% primarily  due  to
+increases in EFFERALGAN* of 9% to $118 million and BUFFERIN*  of
+14%  to  $97 million.  Sales of EXCEDRIN* decreased 1%  to  $173
+million,  coming off significant increases in 1998  due  to  the
+launch of EXCEDRIN MIGRAINE*.
+
+                             -12-
+<PAGE>
+
+Earnings  before  taxes  for  the  medicines  products   segment
+increased  17%  to $2,943 million in 1999.  As a  percentage  of
+sales, earnings before taxes for this segment improved to  28.3%
+in  1999  from 27.5% in 1998.  Advertising and promotion,  sales
+force  and  general  administrative  expenses  improved,  as   a
+percentage of sales, partially offset by an increase in cost  of
+goods sold, as a percentage of sales.
+
+Sales  in  the  beauty care products segment  increased  5%  (6%
+excluding  the  effect of foreign exchange) to  $1,822  million.
+Sales  growth  resulted  from a 4%  increase  in  volume,  a  2%
+increase  in  selling prices and a 1% decrease  due  to  foreign
+exchange  rate  fluctuations.  HERBAL  ESSENCES*  continued  its
+strong  growth, increasing 16% to $486 million.  HERBAL ESSENCES
+FACIAL  CARE*  contributed  $15 million  in  nine  month  sales.
+AUSSIE*  products contributed $93 million, an increase  of  15%,
+and sales of DAILY DEFENSE* increased 60% to $93 million for the
+nine  months.  Earnings before taxes for the beauty care segment
+decreased  to  $202 million in 1999 from $257 million  in  1998,
+primarily  due  to  the  introduction  of  a  demand  management
+manufacturing system.
+
+Sales in the nutritional products segment increased 3% to $1,354
+million  (4%  excluding the effect of foreign exchange).   Sales
+growth  for  the  nine months resulted from  a  4%  increase  in
+volume,  and  a  1%  decrease  due  to  foreign  exchange   rate
+fluctuations. Changes in selling prices had no effect  on  sales
+for  the nine months. Total infant formula sales of $896 million
+were  at  prior  year levels.  ENFAMIL* recorded sales  of  $525
+million,  a  4% increase over the prior year. BOOST*,  an  adult
+nutritional  supplement, increased 29%  to  $84  million.   Nine
+month sales of VIACTIV* were $19 million.  Earnings before taxes
+for  the nutritional products segment were $268 million in  1999
+compared to $260 million in 1998 and, as a percentage of  sales,
+earnings  before  taxes  were  19.8%  in  both  1999  and  1998.
+Increases,  as  a percentage of sales, in cost of products  sold
+and advertising and promotion expenses were offset by decreases,
+as  a  percentage  of  sales, in sales  force  and  general  and
+administrative expenses.
+
+Medical  device  segment sales increased 4% to  $1,225  million,
+excluding  sales  from a 1998 distribution  agreement  with  the
+acquirer  of Zimmer's divested arthroscopy and powered  surgical
+instrument  business.   On  this  basis,  medical  device  sales
+increased  3% due to volume and 1% due to foreign exchange  with
+no  effect  from price changes. Zimmer sales on the  same  basis
+increased  7%  to  $704 million.  Knee joint  replacement  sales
+increased  11%  to  $277  million  and  hip  replacement   sales
+increased  9% to $209 million. ConvaTec remained at  prior  year
+levels of $521 million as sales of ostomy products decreased  2%
+to  $324  million and wound care products increased 1%  to  $173
+million.   Earnings before taxes for the medical devices segment
+increased 11% to $253 million in 1999 from $227 million in  1998
+and,  as  a percentage of sales, improved to 20.7% in 1999  from
+18.8%  in  1998, resulting from a decrease, as a  percentage  of
+sales, in cost of products sold.
+
+                             -13-
+<PAGE>
+
+Operating Expenses
+- ------------------
+
+Total expenses for the nine months ended September 30, 1999,  as
+a  percentage of sales, decreased to 70.9% from 71.6%  in  1998.
+Cost of products sold increased to 27.5% of sales from 26.5%  in
+1998  primarily  due  to revenue growth  of  OTN  which  carries
+significantly  lower margins. Excluding OTN,  cost  of  products
+sold, as a percentage of sales, increased to 24.3% in 1999  from
+24.0%  in 1998 due to decreased sales of CAPOTEN*.  Expenditures
+for  advertising  and promotion in support of new  and  existing
+products  remained  at  prior year  levels  of  $1,768  million.
+Marketing, selling, administrative and other expenses  increased
+7%  to $3,338 million from $3,116 million in 1998. Research  and
+development  expenditures increased 14% to $1,328  million  from
+$1,165  million in 1998. Pharmaceutical research and development
+spending  increased 14% over the prior year, and as a percentage
+of pharmaceutical sales, was 12.4% compared to 12.6% in the same
+period of 1998.
+
+
+Earnings
+- --------
+
+Earnings  before income taxes for the nine months increased  13%
+to $4,312 million from $3,802 million in 1998. The effective tax
+rate  on earnings before income taxes decreased to 27.8% in 1999
+from 28.2% in 1998. Net earnings increased 14% to $3,115 million
+from  $2,728 million in 1998. Basic earnings per share increased
+15%  to $1.57 from $1.37 in 1998 and diluted earnings per  share
+increased 15% to $1.54 from $1.34 in 1998.
+
+
+Financial Position
+- ------------------
+
+The  balance  sheet at September 30, 1999 and the  statement  of
+cash  flows for the nine months then ended reflect the Company's
+strong financial position.  The Company continues to maintain  a
+high  level  of working capital, increasing to $3.6  billion  at
+September 30, 1999, from $3.0 billion at December 31, 1998.
+
+Long-Term  Debt decreased to $1,331 million from $1,364  million
+at December 1998.
+
+Internally generated funds continue to be the Company's  primary
+source  for  financing expenditures for new plant and equipment.
+Net Cash Provided by Operating Activities increased 7% to $2,852
+million in 1999.  Additions to fixed assets for the nine  months
+ended  September  30, 1999 were $455 million  compared  to  $537
+million during the same period of 1998.
+
+During  the  nine months ended September 30, 1999,  the  Company
+purchased 15.2 million shares of its common stock.
+
+The  Company  is  exposed to market risk, including  changes  in
+currency  exchange  rates. To reduce these  risks,  the  Company
+enters  into  certain  derivative  financial  instruments  where
+available  on  a  cost-effective basis to hedge  its  underlying
+economic  exposure.  These instruments also  are  managed  on  a
+consolidated  basis to efficiently net exposures and  thus  take
+advantage of any natural offsets.
+
+                             -14-
+<PAGE>
+
+It  is the Company's policy to hedge certain underlying economic
+exposures to reduce foreign exchange risk.  Derivative financial
+instruments are not used for trading purposes.  Gains and losses
+on  hedging transactions are offset by gains and losses  on  the
+underlying  exposures  being hedged.   Foreign  exchange  option
+contracts and, to a lesser extent, forward contracts are used to
+hedge anticipated transactions.
+
+During the first quarter of 1998, the Company divested its  BANr
+brand  of  anti-perspirants  and deodorants  for  $165  million,
+resulting  in a gain of $125 million before taxes.   During  the
+second  quarter,  the Company divested A/S GEA, a  Denmark-based
+generic   drug   business,  and  Hexachimie,  a  fine   chemical
+manufacturer  based in France, resulting in a combined  gain  of
+$76  million before taxes.  The Company recorded provisions  for
+restructuring  of $201 million before taxes in  the  first  nine
+months of 1998.
+
+
+Business Segments
+- -----------------
+
+                           Three Months Ended September 30,
+                      ------------------------------------------
+
+                                                  Earnings
+                            Net Sales            Before Taxes
+                      --------------------   -------------------
+
+                           1999       1998        1999      1998
+                      ---------  ---------   --------- ---------
+(in millions)
+Medicines Products       $3,548     $3,101      $1,049    $  873
+Beauty Care Products        624        597          92        96
+Nutritional Products        466        440          96        91
+Medical Devices             402        385          91        79
+Other                         -          -         190       207
+                      ---------  ---------   --------- ---------
+Total Company            $5,040     $4,523      $1,518    $1,346
+                      =========  =========   ========= =========
+
+
+
+                            Nine Months Ended September 30,
+                      ------------------------------------------
+
+                                                   Earnings
+                            Net Sales            Before Taxes
+                      --------------------   -------------------
+
+                           1999       1998        1999      1998
+                      ---------  ---------   --------- ---------
+(in millions)
+Medicines Products      $10,413    $ 9,145      $2,943    $2,519
+Beauty Care Products      1,822      1,733         202       257
+Nutritional Products      1,354      1,311         268       260
+Medical Devices           1,225      1,210         253       227
+Other                         -          -         646       539
+                       --------  ---------   --------- ---------
+
+Total Company           $14,814    $13,399      $4,312    $3,802
+                       ========  =========   ========= =========
+
+
+                             -15-
+<PAGE>
+
+Included  in earnings before taxes of each segment is a  cost  of
+capital  charge.   The offset to the cost of  capital  charge  is
+included  in  Other. In addition, Other principally  consists  of
+interest   income,   interest  expense,  certain   administrative
+expenses  and  allocations to the industry segments  for  certain
+corporate  programs.  For the first nine months  of  1998,  Other
+also includes the gain on sale of businesses of $201 million  and
+a  provision for restructuring of $201 million.  In addition, the
+segment  information  reflects  certain  internal  organizational
+changes  made  in  1999.  Prior  year  data  have  been  restated
+accordingly.
+
+
+Year 2000
+- ---------
+
+The  Company  has  reviewed its information, manufacturing,  and
+research and development systems for Year 2000 compliance.   The
+Year  2000 problem arises because many computer systems use only
+two  digits  to  represent the year.   These  programs  may  not
+process  dates  beyond 1999, which may cause miscalculations  or
+system failures.
+
+The  Company  has  completed a comprehensive compliance  program
+used  to assess the Year 2000 problem in the processing of  data
+in the Company's information technology (IT) and non-IT systems,
+including  manufacturing, and research and development  systems.
+This  program  was  executed  in  five  phases  which  included:
+Assessment, Planning, Execution, Testing and Certification,  and
+Implementation.
+
+In connection with this compliance program, the Company also has
+asked   critically  important  vendors,  customers,   suppliers,
+governmental  regulatory authorities and financial institutions,
+whose incomplete or untimely resolution of the Year 2000 problem
+could  potentially have a significant impact  on  the  Company's
+operations, to assess their Year 2000 readiness. This assessment
+has  been  completed.  The follow-up phase of this  work  (which
+includes ongoing monitoring of Year 2000 readiness of the  third
+parties and developing contingency plans relating to those third
+parties whose responses raise issues or who did not respond)  is
+being  undertaken  by  the business continuity  and  contingency
+planning committees referred to below.
+
+Contingency  plans  are  in  place to minimize  any  significant
+exposures  from the failures of third parties to  be  Year  2000
+compliant.   The  contingency plans include  backup  procedures,
+identification   of  alternate  suppliers,  and   increases   in
+inventory  levels where appropriate.  The contingency plans  are
+complete and will continue to be tested during the rest  of  the
+year.   In  addition, the Company has formed  business  steering
+committees to monitor contingency planning activities at various
+business-unit and corporate levels. These committees proactively
+monitor  critical  internal systems  as  well  as  the  external
+environment.   The  Company  has set up  procedures  to  receive
+relevant information regarding any Year 2000 related events from
+all of the markets during the year-end change.  This information
+will  be  collected by these committees, who will  initiate  the
+implementation  of  contingency plans in  a  timely  manner,  as
+necessary.
+
+                             -16-
+<PAGE>
+
+As a result of the comprehensive compliance program, information
+received from critically important third parties regarding their
+Year 2000 readiness, and  the  contingency  plans in place,  the
+Company  does not expect the Year 2000 problem, as well  as  the
+cost of the compliance program, to have a material impact on the
+Company's  results  of operations, financial condition  or  cash
+flows.   However, there can be no assurance that  third  parties
+will  convert their systems in a timely manner and in a way that
+is compatible with the Company's systems.
+
+
+Reference  is  made  to Part II, Item 1 - Legal  Proceedings  in
+which  developments are described for various  lawsuits,  claims
+and proceedings in which the Company is involved.
+
+
+
+
+                             -17-
+<PAGE>
+
+
+PART II - OTHER INFORMATION
+- ---------------------------
+
+
+Item 1.  Legal Proceedings
+- --------------------------
+
+Various  lawsuits, claims and proceedings of a nature  considered
+normal  to  its  business  are pending against  the  Company  and
+certain  of its subsidiaries.  The most significant of these  are
+reported  in  the Company's Annual Report on Form  10-K  for  the
+fiscal  year ended December 31, 1998 and any subsequent  material
+developments in such matters are described below.
+
+
+Breast Implant Litigation
+- -------------------------
+
+As previously reported in the Company's Annual Report on Form 10-
+K  for  the  fiscal  year ended December 31, 1998,  the  Company,
+together  with  its  subsidiary, Medical Engineering  Corporation
+(MEC), and certain other companies, has been named as a defendant
+in  a number of claims and lawsuits alleging damages for personal
+injuries of various types resulting from breast implants formerly
+manufactured by MEC or a related company.
+
+Of  the  more than 90,000 claims or potential claims against  the
+Company  in  direct  lawsuits  or  through  registration  in  the
+national class action Revised Settlement Program, most have  been
+dealt with through the Revised Settlement, other settlements,  or
+trial.  Since December 31, 1998, the Company has settled, reached
+agreements  to settle, or otherwise disposed of large numbers  of
+claims  of  persons  with breast implants made  by  MEC.   As  of
+November  1, 1999, the Company's contingent liability in  respect
+of  breast implant claims was limited to residual unpaid  Revised
+Settlement Program obligations and to roughly 2,200 remaining opt-
+outs who have pursued or may pursue their claims in court.
+
+As of November 1, 1999, approximately 7,400 United States and 200
+foreign  breast  implant recipients were plaintiffs  in  lawsuits
+pending in federal and state courts in the United States  and  in
+certain  courts  in Canada and Australia.  These figures  include
+the claims of plaintiffs that are in the process of being settled
+and/or dismissed.  In these lawsuits, about 4,200 U.S. plaintiffs
+and  50  foreign plaintiffs opted out of the Revised  Settlement.
+The  lawsuits of approximately 3,200 U.S. plaintiffs who did  not
+opt  out  are  expected to be dismissed as these  plaintiffs  are
+among  the estimated 74,000 women with MEC implants who chose  to
+participate  in the nationwide settlement.  Of the 4,200  opt-out
+plaintiffs, an estimated 2,000 plaintiffs have claims based  upon
+products that were not manufactured and sold by MEC or that  have
+been  or  are  in the process of being settled and/or  dismissed.
+Accordingly, the number of remaining plaintiffs who have  pursued
+or  may  pursue  their  claims in court against  the  Company  is
+roughly 2,200 as stated in the preceding paragraph.
+
+Under the terms of the Revised Settlement Program, additional opt-
+outs are expected to be minimal since the deadline for U.S. class
+members  to  opt  out  has  passed.  In addition,  the  Company's
+remaining  obligations under the Revised Settlement  Program  are
+limited because most payments to "Current Claimants" have already
+been  made,  no additional "Current Claims" may be filed  without
+court  approval,  and  because payments of  claims  to  so-called
+"Other  Registrants" and "Late Registrants" are  limited  by  the
+terms of the Revised Settlement Program.  The Company believes it
+will  be  able  to address remaining opt-out claims  as  well  as
+remaining obligations under the Revised Settlement Program within
+its  reserves as described in the Company's Annual Report on Form
+10-K for the fiscal year ended December 31, 1998.
+
+
+                             -18-
+<PAGE>
+
+Prescription Drug Litigation
+- ----------------------------
+
+The  Company  remains a defendant in several actions  challenging
+pricing  on brand name prescription drugs.  These actions include
+several  currently consolidated antitrust actions brought against
+the   Company   and   more   than  thirty  other   pharmaceutical
+manufacturers, drug wholesalers and pharmacy benefit managers  by
+certain  chain  drugstores, supermarket  chains  and  independent
+drugstores;  state  pharmaceutical actions; and  purported  class
+actions  on  behalf of consumers.  The Company will  continue  to
+defend  vigorously  its position in this ongoing  litigation  and
+believes  it will be able to address all remaining claims  within
+its  reserves as described in the Company's Annual Report on Form
+10-K for the fiscal year ended December 31, 1998.
+
+
+Infant Formula Matters
+- ----------------------
+
+As previously reported in the Company's Annual Report on Form 10-
+K  for the fiscal year ended December 31, 1998, the Company,  one
+of  its subsidiaries, and others have been defendants in a number
+of  antitrust  actions  in  various states  filed  on  behalf  of
+purported  statewide  classes of indirect  purchasers  of  infant
+formula  products  and  by the Attorneys  General  of  Louisiana,
+Minnesota and Mississippi, alleging a price fixing conspiracy and
+other  violations of state antitrust or deceptive trade  practice
+laws  and  seeking penalties and other relief.  The  Company  has
+resolved  all  of these actions except for a purported  statewide
+class  action  of indirect purchasers in Louisiana in  which  the
+plaintiffs  filed a petition for certiorari in the United  States
+Supreme  Court  on  jurisdictional grounds following  the  United
+States  Court  of  Appeals' affirmation of the  district  court's
+dismissal of such action.
+
+
+
+
+                             -19-
+<PAGE>
+
+
+Item 6.  Exhibits and Reports on Form 8-K
+- -----------------------------------------
+
+a) Exhibits (listed by number corresponding to the Exhibit Table
+of Item 601 in Regulation S-K).
+
+
+
+Exhibit Number and Description                                Page
+- -------------------------------                             --------
+
+
+
+10q.  Form  of Agreement, effective June 1, 1999,
+      entered into between the Registrant and each           E-10q-1
+      of the following officers  on the following
+      dates: Hamed M. Abdou, Ph.D., August 9, 1999;
+      Peter R. Dolan, July 29,  1999; Donald J. Hayden,
+      Jr., July 30, 1999; Richard J. Lane, August 6,
+      1999; John L. McGoldrick, August 10, 1999;
+      Michael F. Mee, July  28,  1999; Christine A.
+      Poon, July 29, 1999; Peter S. Ringrose, Ph.D.,
+      August 5, 1999;  Stephen  I. Sadove, July 29, 1999;
+      Frederick S. Schiff, July 29, 1999; John L. Skule,
+      August 5, 1999; Charles G. Tharp, Ph.D., July 28,
+      1999; and Kenneth E. Weg, July 29, 1999.
+
+15.  Independent Accountants' Awareness  Letter              E-15-1
+
+
+27.  Bristol-Myers Squibb Company Financial Data Schedule    E-27-1
+
+
+b) Reports on Form 8-K.
+
+The  Registrant did not file any reports on Form 8-K during  the
+quarter ended September 30, 1999.
+
+
+
+                             -20-
+<PAGE>
+
+
+
+                                SIGNATURES
+                             ----------------
+
+
+
+Pursuant  to  the  requirements of the Securities Exchange  Act  of
+1934,  the  Registrant has duly caused this report to be signed  on
+its behalf by the undersigned thereunto duly authorized.
+
+
+
+
+
+
+                                 BRISTOL-MYERS SQUIBB COMPANY
+                                  (Registrant)
+
+
+
+
+
+
+
+
+Date:  November 12, 1999        By:   /s/ Harrison M. Bains, Jr.
+                                      ---------------------------
+
+
+                                      Harrison M. Bains, Jr.
+                                      Vice President and Treasurer
+
+
+
+
+
+
+
+Date:  November 12, 1999        By:   /s/ Frederick S. Schiff
+                                      ---------------------------
+
+                                      Frederick S. Schiff
+                                      Vice President -
+                                      Financial Operations and Controller
+
+
+
+
+                             -21-
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<TEXT>
+
+
+
+
+
+
+
+
+
+                              THIS AGREEMENT dated as of
+               June 1, 1999, is made by and between BRISTOL-
+               MYERS SQUIBB COMPANY, a Delaware corporation
+               (the "Company"),            (the "Executive").
+
+          WHEREAS the Company considers it essential to the
+best interests of its shareholders to foster the continuous
+employment of key management personnel;
+          WHEREAS the Board of Directors of the Company (the
+"Board") recognizes that, as is the case with many publicly
+held corporations, the possibility of a Change in Control
+(as defined in the last Section hereof) exists and that such
+possibility, and the uncertainty and questions which it may
+raise among management, may result in the departure or
+distraction of management personnel to the detriment of the
+Company and its shareholders; and
+          WHEREAS the Board has determined that appropriate
+steps should be taken to reinforce and encourage the
+continued attention and dedication of members of the
+Company's management, including the Executive, to their
+assigned duties without distraction in the face of
+potentially disturbing circumstances arising from the
+possibility of a Change in Control.
+
+          NOW, THEREFORE, in consideration of the premises
+and the mutual covenants herein contained, the Company and
+the Executive hereby agree as follows:
+
+                         ARTICLE I
+                       Defined Terms
+          The definition of capitalized terms used in this
+Agreement is provided in the last Article hereof.
+
+                         ARTICLE II
+                     Term of Agreement
+          This Agreement shall commence on the date hereof
+and shall continue in effect through December 31, 2002;
+provided, however, that commencing on January 1, 2003 and
+each January 1 thereafter, the term of this Agreement shall
+automatically be extended for one additional year unless the
+Company or the Executive shall have given at least 30 days'
+prior notice not to extend this Agreement or a Change in
+Control shall have occurred prior to such January 1;
+provided, however, if a Change in Control shall have
+occurred during the term of this Agreement, this Agreement
+shall continue in effect for a period of not less than
+36 months beyond the month in which such Change in Control
+occurred.  Notwithstanding the foregoing provisions of this
+Article, this Agreement shall terminate upon the Executive's
+attaining his Retirement Date.
+
+                        ARTICLE III
+               Company's Covenants Summarized
+          In order to induce the Executive to remain in the
+employ of the Company and in consideration of the
+Executive's covenants set forth in Section 4 hereof, the
+Company agrees, under the conditions described herein, to
+pay the Executive the "Severance Payments" described in
+Section 6.01 hereof and the other payments and benefits
+described herein in the event the Executive's employment
+with the Company is terminated following a Change in Control
+and during the term of this Agreement.  No amount or benefit
+shall be payable under this Agreement unless there shall
+have been (or, under the terms hereof, there shall be deemed
+to have been) a termination of the Executive's employment
+with the Company following a Change in Control.  This
+Agreement shall not be construed as creating an express or
+implied contract of employment and, except as otherwise
+agreed in writing between the Executive and the Company, the
+Executive shall not have any right to be retained in the
+employ of the Company.
+
+
+                         E-10Q-1
+<PAGE>
+
+                         ARTICLE IV
+                 The Executive's Covenants
+          The Executive agrees that, subject to the terms
+and conditions of this Agreement, in the event of a
+Potential Change in Control during the term of this
+Agreement, the Executive will remain in the employ of the
+Company until the earliest of (i) a date which is six months
+from the date of such Potential Change of Control, (ii) the
+date of a Change in Control, (iii) the date of termination
+by the Executive of the Executive's employment for Good
+Reason (determined by treating the Potential Change in
+Control as a Change in Control in applying the definition of
+Good Reason) or by reason of death or (iv) the termination
+by the Company of the Executive's employment for any reason.
+
+                         ARTICLE V
+         Compensation other than Severance Payments
+          SECTION 5.01.  Following a Change in Control and
+during the term of this Agreement, during any period that
+the Executive fails to perform the Executive's full-time
+duties with the Company as a result of Disability, the
+Executive shall be compensated as provided pursuant to the
+terms of the Company's short- and long-term disability plans
+as in effect immediately prior to the Change in Control
+together with all other compensation and benefits payable to
+the Executive pursuant to the terms of any compensation or
+benefit plan, program or arrangement maintained by the
+Company during such period.
+          SECTION 5.02.  If the Executive's employment shall
+be terminated for any reason following a Change in Control
+and during the term of this Agreement, the Company shall pay
+the Executive's full salary to the Executive through the
+Date of Termination at the rate in effect at the time the
+Notice of Termination is given, together with all other
+compensation and benefits payable to the Executive through
+the Date of Termination (including, without limitation, all
+incentive compensation amounts owed the Executive for a
+completed calendar year to the extent not yet then paid)
+under the terms of any compensation or benefit plan, program
+or arrangement maintained by the Company during such period.
+          SECTION 5.03.  If the Executive's employment shall
+be terminated for any reason following a Change in Control
+and during the term of this Agreement, the Company shall pay
+the Executive such normal post-termination compensation and
+benefits to the Executive as may be provided by the
+Company's retirement, insurance and other compensation or
+benefit plans, programs and arrangements, as in effect
+immediately prior to a Change in Control.
+
+
+                          E-10Q-2
+<PAGE>
+
+                         ARTICLE VI
+                     Severance Payments
+          SECTION 6.01.  In lieu of any other severance
+compensation or benefits to which the Executive may
+otherwise be entitled under any plan, program, policy or
+arrangement of the Company (and which the Executive hereby
+expressly waives), the Company shall pay the Executive the
+payments described in this Section 6.01 (the "Severance
+Payments") upon the termination of the Executive's
+employment following a Change in Control and during the term
+of this Agreement in addition to the payments and benefits
+described in Article V hereof, unless such termination is
+(i) by the Company for Cause, (ii) by reason of death, or
+(iii) by the Executive without Good Reason.  The Executive's
+employment shall be deemed to have been terminated following
+a Change in Control by the Company without Cause or by the
+Executive with Good Reason if the Executive's employment is
+terminated prior to a Change in Control without Cause at the
+direction of a Person who has entered into an agreement with
+the Company the consummation of which will constitute a
+Change in Control or if the Executive terminates his
+employment with Good Reason prior to a Change in Control
+(determined by treating a Potential Change in Control as a
+Change in Control in applying the definition of Good Reason)
+if the circumstance or event which constitutes Good Reason
+occurs at the direction of such Person.
+          (a)  In lieu of any further salary payments to the
+Executive for periods subsequent to the Date of Termination
+and in lieu of any severance benefit otherwise payable to
+the Executive, the Company shall pay to the Executive a lump
+sum severance payment, in cash, equal to three or, if less,
+the number of years, including fractions, from the Date of
+Termination until the Executive reaches his Retirement Date,
+times the sum of (i) the higher of the Executive's annual
+base salary in effect immediately prior to the occurrence of
+the event or circumstance upon which the Notice of
+Termination is based or in effect immediately prior to the
+Change in Control, and (ii) the aggregate amount of the
+Executive's target annual bonus entitlement under the
+Incentive Plan (or any other bonus plan of the Company then
+in effect) as in effect immediately prior to the occurrence
+of the circumstances giving rise to the Notice of
+Termination given in respect thereof (provided that if it is
+not practicable to determine the amount that the Executive's
+aggregate target bonus would have been for the year in which
+the Notice of Termination was given, then, for purposes of
+this paragraph (a), the Executive's target annual bonus
+entitlement shall be the amount of the largest aggregate
+annual bonus paid to him with respect to the five years
+immediately prior to the year in which the Notice of
+Termination was given).
+          (b)  Notwithstanding any provision of the
+Incentive Plan or any other compensation or incentive plans
+of the Company, the Company shall pay to the Executive a
+lump sum amount, in cash, equal to the sum of (i) any
+incentive compensation which has been allocated or awarded
+to the Executive for a completed calendar year or other
+measuring period preceding the Date of Termination but has
+not yet been paid (pursuant to Section 5.02 hereof or
+otherwise), and (ii) a pro rata portion to the Date of
+Termination of the aggregate value of all contingent
+incentive compensation awards to the Executive for the
+current calendar year or other measuring period under the
+Incentive Plan, the Award Plan or any other compensation or
+incentive plans of the Company, calculated as to each such
+award on a basis which assumes that at least 100% of any
+performance target or goal was achieved, and otherwise on a
+basis on which the Executive will receive a pro rata portion
+(based on elapsed time) of the amounts he would have been
+entitled to receive if he had continued to be employed by
+the Company throughout the period contemplated with respect
+to such award and if all other conditions for receiving the
+maximum amount with respect to all such awards had been met.
+
+
+                          E-10Q-3
+<PAGE>
+
+           (c)  All outstanding Options shall become
+immediately vested and exercisable (to the extent not then
+vested and exercisable).  To the extent not otherwise
+provided under the written agreement evidencing the grant of
+any restricted Shares to the Executive, all outstanding
+Shares which have been granted to the Executive subject to
+restrictions which, as of the Date of Termination, have not
+then lapsed shall lapse automatically upon the Date of
+Termination and the Executive shall own such Shares free and
+clear of all such restrictions.
+          (d)  In addition to the retirement benefits to
+which the Executive is entitled under the Retirement Plan
+and BEP, or any successor plans thereto, the Company shall
+pay the Executive an additional amount equal to the excess
+of (x) the retirement pension (determined as a straight life
+annuity commencing at Retirement Date) which the Executive
+would have accrued under the terms of the Retirement Plan
+and BEP (without regard to any amendment to the Retirement
+Plan or BEP made subsequent to a Change in Control and on or
+prior to the Date of Termination, which amendment adversely
+affects in any manner the computation of retirement benefits
+thereunder), determined as if the Executive (i) were fully
+vested thereunder, and (ii) had accumulated (after the Date
+of Termination) 36 additional months of age and service
+credit thereunder at the Executive's highest annual rate of
+compensation during the 12 months immediately preceding the
+Date of Termination (but in no event shall the Executive be
+deemed to have accumulated additional service credit in
+excess of that provided pursuant to the Retirement Plan and
+BEP) and (y) the retirement pension (determined as a
+straight life annuity commencing at the Executive's
+Retirement Date) which the Executive had then accrued
+pursuant to the respective provisions of the Retirement Plan
+and BEP, such additional amount to be paid, except as
+provided in the last sentence of this Section 6.01(d), at
+such time or times as the relevant benefits are payable to
+the Executive under the Retirement Plan and BEP,
+respectively, or any successor plans thereto; provided,
+however, that if the transaction constituting the Change in
+Control has not been approved by the Board prior to the
+consummation thereof, the actuarial equivalent of such
+additional benefits under this Section 6.01(d) shall be paid
+in a cash lump sum.  If the Executive has not attained
+age 55 with ten years of service credit as of the Date of
+Termination, the Executive may nevertheless elect to receive
+(x) his vested benefit (after giving effect to the 36 months
+of additional age and service credit provided in the first
+sentence of this Section 6.01(d)) under the BEP
+(notwithstanding any provision of the BEP to the contrary)
+and (y) the incremental vested benefit which would be
+accrued under the Retirement Plan (after giving effect to
+the 36 months of additional age and service credit provided
+in the first sentence of this Section 6.01(d)) over the
+Executive's actual accrued benefit thereunder (without
+giving effect to such additional credit), such amounts under
+clauses (x) and (y) to be paid under the BEP either (i) in
+an annuity (in the form provided under the BEP) commencing
+
+
+                          E-10Q-4
+<PAGE>
+
+immediately following the Date of Termination, or (ii) in a
+lump sum payment, the amount of which in either case shall
+be the actuarial equivalent of the vested annual benefit
+payable to the Executive assuming that the Executive had
+attained age 55 with ten years of service credit as of the
+Date of Termination (i.e., without actuarial reduction to
+reflect the fact that the Executive has not attained age 55
+with ten years of service as of the Date of Termination).
+For purposes of this Section 6.01(d), "actuarial equivalent"
+shall be determined using the same methods and assumptions
+utilized under the Retirement Plan immediately prior to the
+Date of Termination.
+          (e)  For a 36-month period after the Date of
+Termination, the Company shall arrange to provide the
+Executive with life and health (including medical and
+dental) insurance benefits and perquisites substantially
+similar to those which the Executive is receiving
+immediately prior to the Notice of Termination (without
+giving effect to any reduction in such benefits subsequent
+to a Change in Control).  Benefits and perquisites otherwise
+receivable by the Executive pursuant to this Section 6.01(e)
+shall be reduced to the extent comparable benefits are
+actually received by or made available to the Executive
+without greater cost to him than as provided by the Company
+during the 36-month period following the Executive's
+termination of employment (and any such benefits actually
+received by the Executive shall be reported to the Company
+by the Executive).
+          (f) Following the 36-month period described in the
+first sentence of Section 6.01(e), the Executive shall be
+immediately eligible to participate (although the Executive
+may elect to defer commencement of such participation to
+such later date as the Executive shall determine) in the
+Company's retiree medical and dental plans, whether or not
+the Executive has satisfied any age and service requirements
+then applicable.  For purposes of determining the level of
+the Executive's participation thereunder, the Executive
+shall be deemed to have accumulated 36 months of additional
+age and service credit; it being understood that if the
+Executive's age and service credit (as augmented hereunder)
+do not satisfy the minimum requirements for eligibility, the
+Executive shall be eligible to participate at the level
+requiring the maximum contribution requirement by an
+eligible retiree.
+          (g)  In addition to the vested amounts, if any, to
+which the Executive is entitled under the Savings Plan as of
+the Date of Termination, the Company shall pay the Executive
+a lump sum amount equal to the value of the unvested
+portion, if any, of the employer matching contributions
+credited to the Executive under the Savings Plan.
+          (h)  The Company shall provide the Executive with
+reasonable outplacement services consistent with past
+practices of the Company prior to the Change in Control.
+          SECTION 6.02.  Subject to the immediately
+following paragraph of this Section 6.02, in the event that
+the Executive becomes entitled to the Severance Payments, if
+any of the Severance Payments or any other portion of the
+Total Payments (as defined below) will be subject to the
+Excise Tax, the Company shall pay to the Executive an
+additional amount (the "Gross-Up Payment") such that the net
+amount retained by the Executive, after deduction of any
+Excise Tax on the Severance Payments and such other Total
+Payments and any Federal, state and local income tax (taking
+into account the loss of itemized deductions) and employment
+tax and Excise Tax upon the payment provided for by this
+
+                         E-10Q-5
+<PAGE>
+
+Section 6.02, shall be equal to the present value of the
+Severance Payments and such other Total Payments.  For
+purposes of determining whether any of the Severance
+Payments or other Total Payments will be subject to the
+Excise Tax and the amount of such Excise Tax, (i) any other
+payments or benefits received or to be received by the
+Executive in connection with a Change in Control or the
+Executive's termination of employment, whether pursuant to
+the terms of this Agreement or any other plan, arrangement
+or agreement with the Company, any Person whose actions
+result in a change in control or any Person affiliated with
+the Company or such Person (together with the Severance
+Payments, the "Total Payments"), shall be treated as
+"parachute payments" within the meaning of
+Section 280G(b)(2) of the Code, and all "excess parachute
+payments" within the meaning of Section 280G(b)(l) of the
+Code shall be treated as subject to the Excise Tax, unless,
+in the opinion of tax counsel selected by the Company's
+independent auditors and reasonably acceptable to the
+Executive (the "Tax Counsel"), such other payments or
+benefits (in whole or in part) do not constitute parachute
+payments, including by reason of Section 280G(b)(4)(A) of
+the Code, or such excess parachute payments (in whole or in
+part) represent reasonable compensation for services
+actually rendered, within the meaning of
+Section 280G(b)(4)(B) of the Code, in excess of the Base
+Amount allocable to such reasonable compensation, or are
+otherwise not subject to the Excise Tax, (ii) the amount of
+the Severance Payments which shall be treated as subject to
+the Excise Tax shall be equal to the lesser of (A) the total
+amount of the Severance Payments and other Total Payments or
+(B) the amount of excess parachute payments within the
+meaning of Section 280G(b)(l) of the Code (after applying
+clause (i), above), and (iii) the value of any noncash
+benefits or any deferred payment or benefit shall be
+determined by the Company's independent auditors in
+accordance with the principles of Sections 280G(d)(3) and
+(4) of the Code.  For purposes of determining the amount of
+the Gross-Up Payment, the Executive shall be deemed to pay
+Federal income taxes at the highest marginal rate of Federal
+income taxation (taking into account the loss of itemized
+deductions) in the calendar year in which the Gross-Up
+Payment is to be made and state and local income taxes at
+the highest marginal rate of taxation in the state and
+locality of the Executive's residence on the Date of
+Termination, net of the maximum reduction in Federal income
+taxes which could be obtained from deduction of such state
+and local taxes.  In the event that the Excise Tax is
+subsequently determined to be less than the amount taken
+into account hereunder at the time of termination of the
+Executive's employment, the Executive shall repay to the
+Company, at the time that the amount of such reduction in
+Excise Tax is finally determined, the portion of the Gross-
+Up Payment attributable to such reduction (plus that portion
+of the Gross-Up Payment attributable to the Excise Tax and
+Federal, state and local income tax imposed on the Gross-Up
+Payment being repaid by the Executive to the extent that
+such repayment results in a reduction in Excise Tax and/or a
+Federal, state or local income tax deduction) plus interest
+on the amount of such repayment at the rate provided in
+Section 1274(b)(2)(B) of the Code.  In the event that the
+Excise Tax is determined to exceed the amount taken into
+account hereunder at the time of the termination of the
+Executive's employment (including by reason of any payment
+the existence or amount of which cannot be determined at the
+time of the Gross-Up Payment), the Company shall make an
+additional Gross-Up Payment in respect of such excess (plus
+any interest, penalties or additions payable by the
+Executive with respect to such excess) at the time that the
+amount of such excess is finally determined.  The Executive
+and the Company shall each reasonably cooperate with the
+other in connection with any administrative or judicial
+proceedings concerning the existence or amount of liability
+for Excise Tax with respect to the Severance Payments and
+other Total Payments.
+
+                          E-10Q-6
+<PAGE>
+
+          Notwithstanding the provisions of the first
+paragraph of this Section 6.02, (i) the Company shall have
+no obligation to make the Gross-Up Payment unless the value
+of the Total Payments for purposes of Section 280G of the
+Code (and the regulations thereunder) equals or exceeds 110%
+of the maximum amount of parachute payments which could be
+paid to the Executive without any imposition of golden
+parachute excise taxes under Sections 280G and 4999 of the
+Code (the "110% Amount"), and (ii) if (x) any portion of the
+Total Payments would be subject to the imposition of golden
+parachute excise taxes under Sections 280G and 4999 of the
+Code and (y) the value of the Total Payments is less than
+the 110% Amount, then, to the extent necessary to make such
+portion of the Total Payments not subject to such golden
+parachute excise taxes (and after taking into account any
+reduction in the Total Payments provided by reason of
+Section 280G of the Code in any other plan, arrangement or
+agreement), (A) the cash Severance Payments shall first be
+reduced (if necessary, to zero), and (B) all other non-cash
+Severance Payments shall next be reduced (if necessary, to
+zero).  For purposes of the limitation described in
+clause (ii) of the preceding sentence, (i) no portion of the
+Total Payments the receipt or enjoyment of which the
+Executive shall have effectively waived in writing prior to
+the Date of Termination shall be taken into account, (ii) no
+portion of the Total Payments shall be taken into account
+which, in the opinion of the Tax Counsel, does not
+constitute a "parachute payment" within the meaning of
+section 280G(b)(2) of the Code, including by reason of
+section 280(b)(4)(A) of the Code, (iii) the Severance
+Payments shall be reduced only to the extent necessary so
+that the Total Payments (other than those referred to in
+clauses (i) or (ii) of this sentence) in their entirety
+constitute reasonable compensation for services actually
+rendered within the meaning of section 280G(b)(4)(B) of the
+Code or are otherwise not subject to disallowance as
+deductions, in the opinion of the Tax Counsel; and (iv) the
+value of any non-cash benefit or any deferred payment or
+benefit included in the Total Payments shall be determined
+by the Company's independent auditors in accordance with the
+principles of sections 280G(d)(3) and (4) of the Code.
+          If it is established pursuant to a final
+determination of a court or an Internal Revenue Service
+proceeding that, notwithstanding the good faith of the
+Executive and the Company in applying the terms of the
+limitation described in clause (ii) of the first sentence of
+the preceding paragraph of this Section 6.02, the aggregate
+"parachute payments" paid to or for the Executive's benefit
+are in an amount that would result in any portion of such
+"parachute payments" not being deductible by reason of
+section 280G of the Code, then the Executive shall have an
+obligation to pay the Company upon demand an amount equal to
+the sum of (i) the excess of the aggregate "parachute
+payments" paid to or for the Executive's benefit over the
+aggregate "parachute payments" that could have been paid to
+or for the Executive's benefit without any portion of such
+"parachute payments" not being deductible by reason of
+section 280G of the Code; and (ii) interest on the amount
+set forth in clause (i) of this sentence at the rate
+provided in section 1274(b)(2)(B) of the Code from the date
+of the Executive's receipt of such excess until the date of
+such payment.
+
+                        E-10Q-7
+<PAGE>
+
+          SECTION 6.03.  The payments provided for in
+Section 6.01 (other than Section 6.01(e)) and 6.02 hereof
+shall be made not later than the fifth day following the
+Date of Termination; provided, however, that if the amounts
+of such payments cannot be finally determined on or before
+such day, the Company shall pay to the Executive on such day
+an estimate, as determined in good faith by the Company, of
+the minimum amount of such payments to which the Executive
+is clearly entitled and shall pay the remainder of such
+payments (together with interest at the rate provided in
+Section 1274(b)(2)(B) of the Code) as soon as the amount
+thereof can be determined but in no event later than the
+30th day after the Date of Termination.  In the event that
+the amount of the estimated payments exceeds the amount
+subsequently determined to have been due, such excess shall
+constitute a loan by the Company to the Executive, payable
+on the fifth business day after demand by the Company
+(together with interest at the rate provided in
+Section 1274(b)(2)(B) of the Code).  At the time that
+payments are made under this Section, the Company shall
+provide the Executive with a written statement setting forth
+the manner in which such payments were calculated and the
+basis for such calculations including, without limitation,
+any opinions or other advice the Company has received from
+outside counsel, auditors or consultants (and any such
+opinions or advice which are in writing shall be attached to
+the statement).
+          SECTION 6.04.  The Company also shall pay to the
+Executive all legal fees and expenses incurred by the
+Executive as a result of a termination which entitles the
+Executive to the Severance Payments (including all such fees
+and expenses, if any, incurred in disputing any such
+termination or in seeking in good faith to obtain or enforce
+any benefit or right provided by this Agreement or in
+connection with any tax audit or proceeding to the extent
+attributable to the application of Section 4999 of the Code
+to any payment or benefit provided hereunder and including,
+but not limited to, auditors' fees incurred in connection
+therewith).  Such payments shall be made within five
+business days after delivery of the Executive's written
+requests for payment accompanied with such evidence of fees
+and expenses incurred as the Company reasonably may require.
+
+
+                        ARTICLE VII
+
+                 Termination Procedures and
+                Compensation During Dispute
+
+          SECTION 7.01.  Notice of Termination.  After a
+Change in Control and during the term of this Agreement, any
+purported termination of the Executive's employment (other
+than by reason of death) shall be communicated by written
+Notice of Termination from one party hereto to the other
+party hereto in accordance with Article X hereof.  For
+purposes of this Agreement, a "Notice of Termination" shall
+mean a notice which shall indicate the specific termination
+provision in this Agreement relied upon and shall set forth
+in reasonable detail the facts and circumstances claimed to
+provide a basis for termination of the Executive's
+employment under the provision so indicated.  Further, a
+Notice of Termination for Cause is required to include a
+copy of a resolution duly adopted by the affirmative vote of
+not less than three-quarters (3/4) of the entire membership
+of the Board at a meeting of the Board which was called and
+held for the purpose of considering such termination (after
+reasonable notice to the Executive and an opportunity for
+the Executive, together with the Executive's counsel, to be
+heard before the Board) finding that, in the good faith opinion
+of the Board, the Executive was guilty of conduct set forth in
+clause (i) or (ii) of the definition of Cause herein, and
+specifying the particulars thereof in detail.
+          SECTION 7.02.  Date of Termination.  "Date of
+Termination", with respect to any purported termination of
+the Executive's employment after a Change in Control and
+during the term of this Agreement, shall mean (i) if the
+Executive's employment is terminated for Disability, thirty
+(30) days after Notice of Termination is given (provided
+that the Executive shall not have returned to the full-time
+performance of the Executive's duties during such 30 day
+period), and (ii) if the Executive's employment is
+terminated for any other reason, the date specified in the
+Notice of Termination (which, in the case of a termination
+by the Company, shall not be less than 30 days (except in
+the case of a termination for Cause) and, in the case of a
+termination by the Executive, shall not be less than 15 days
+nor more than 60 days, respectively, from the date such
+Notice of Termination is given).
+
+                         E-10Q-8
+<PAGE>
+
+          SECTION 7.03.  Dispute Concerning Termination.  If
+within 15 days after any Notice of Termination is given, or,
+if later, prior to the Date of Termination (as determined
+without regard to this Section 7.03), the party receiving
+such Notice of Termination notifies the other party that a
+dispute exists concerning the termination, the Date of
+Termination shall be the date on which the dispute
+is finally resolved, either by mutual written agreement of
+the parties or by a final judgment, order or decree of a
+court of competent jurisdiction (which is not appealable or
+with respect to which the time for appeal therefrom has
+expired and no appeal has been perfected); provided further,
+that the Date of Termination shall be extended by a notice
+of dispute only if such notice is given in good faith and
+the party giving such notice pursues the resolution of such
+dispute with reasonable diligence.
+          SECTION 7.04.  Compensation During Dispute.  If a
+purported termination occurs following a Change in Control
+and during the term of this Agreement, and such termination
+is disputed in accordance with Section 7.03 hereof, the
+Company shall continue to pay the Executive the full
+compensation in effect when the notice giving rise to the
+dispute was given (including, but not limited to, salary)
+or, if greater, the full compensation in effect immediately
+prior to the Change in Control, and continue the Executive
+as a participant (on a basis at least as favorable to the
+Executive as in effect immediately prior to the Change in
+Control) in all compensation, benefit and insurance plans in
+which the Executive was participating when the notice giving
+rise to the dispute was given, until the dispute is
+
+finally resolved in accordance with Section 7.03 hereof.
+Amounts paid under this Section 7.04 are in addition to all
+other amounts due under this Agreement (other than those due
+under Section 5.02 hereof) and shall not be offset against
+or reduce any other amounts due under this Agreement.
+
+                        ARTICLE VIII
+                       No Mitigation
+          The Company agrees that, if the Executive's
+employment by the Company is terminated during the term of
+this Agreement, the Executive is not required to seek other
+employment or to attempt in any way to reduce any amounts
+payable to the Executive by the Company pursuant to Section
+6 or Section 7.04.  Further, the amount of any payment or
+benefit provided for in Article VI (other than
+Section 6.01(e)) or Section 7.04 shall not be reduced by any
+compensation earned by the Executive as the result of
+employment by another employer, by retirement benefits, by
+offset against any amount claimed to be owed by the
+Executive to the Company, or otherwise.
+
+                         ARTICLE IX
+                       Noncompetition
+          In consideration for the payments and benefits
+provided by the Company under this Agreement, the Executive
+shall execute, concurrent with the execution of this
+Agreement, a noncompetition agreement in the form attached
+hereto as Exhibit A, which agreement provides that, for a
+one-year period following the Executive termination of
+employment with the Company or any of its subsidiaries or
+affiliates, the Executive shall not engage in any
+competitive activity with the Company or any of its
+subsidiaries or affiliates.
+
+                        E-10Q-9
+<PAGE>
+
+                         ARTICLE X
+               Successors; Binding Agreement
+          SECTION 10.01.  In addition to any obligations
+imposed by law upon any successor to the Company, the
+Company will require any successor (whether direct or
+indirect, by purchase, merger, consolidation or otherwise)
+to all or substantially all of the business and/or assets of
+the Company to expressly assume and agree to perform this
+Agreement in the same manner and to the same extent that the
+Company would be required to perform it if no such
+succession had taken place.  Failure of the Company to
+obtain such assumption and agreement prior to the
+effectiveness of any such succession shall be a breach of
+this Agreement and shall entitle the Executive to
+compensation from the Company in the same amount and on the
+same terms as the Executive would be entitled to hereunder
+if the Executive were to terminate the Executive's
+employment for Good Reason after a Change in Control, except
+that, for purposes of implementing the foregoing, the date
+on which any such succession becomes effective shall be
+deemed the Date of Termination.
+          SECTION 10.02.  This Agreement shall inure to the
+benefit of and be enforceable by the Executive's personal or
+legal representatives, executors, administrators,
+successors, heirs, distributees, devisees and legatees.  If
+the Executive shall die while any amount would still be
+payable to the Executive hereunder (other than amounts
+which, by their terms, terminate upon the death of the
+Executive) if the Executive had continued to live, all such
+amounts, unless otherwise provided herein, shall be paid in
+accordance with the terms of this Agreement to the
+executors, personal representatives or administrators of the
+Executive's estate.
+
+                         ARTICLE XI
+                          Notices
+          For the purpose of this Agreement, notices and all
+other communications provided for in the Agreement shall be
+in writing and shall be deemed to have been duly given when
+delivered or mailed by United States registered mail, return
+receipt requested, postage prepaid, addressed to the
+respective addresses set forth below, or to such other
+address as either party may have furnished to the other in
+writing in accordance herewith, except that notice of change
+of address shall be effective only upon actual receipt:
+
+               To the Company:
+
+               Bristol-Myers Squibb Company
+               345 Park Avenue
+               New York, NY 10154
+               Attention:  Senior Vice President,
+                           Human Resources
+
+               To the Executive:
+
+               [name]
+               [address]
+
+
+
+                         E-10Q-10
+<PAGE>
+
+                        ARTICLE XII
+                       Miscellaneous
+          No provision of this Agreement may be modified,
+waived or discharged unless such waiver, modification or
+discharge is agreed to in writing and signed by the
+Executive and such officer as may be specifically designated
+by the Board.  No waiver by either party hereto at any time
+of any breach by the other party hereto of, or compliance
+with, any condition or provision of this Agreement to be
+performed by such other party shall be deemed a waiver of
+similar or dissimilar provisions or conditions at the same
+or at any prior or subsequent time.  No agreements or
+representations, oral or otherwise, express or implied, with
+respect to the subject matter hereof have been made by
+either party which are not expressly set forth in this
+Agreement.  The validity, interpretation, construction and
+performance of this Agreement shall be governed by the laws
+of the State of New York.  All references to sections of the
+Exchange Act or the Code shall be deemed also to refer to
+any successor provisions to such sections.  Any payments
+provided for hereunder shall be paid net of any applicable
+withholding required under Federal, state or local law and
+any additional withholding to which the Executive has
+agreed.  The obligations of the Company and the Executive
+under Articles VI and VII shall survive the expiration of
+the term of this Agreement.
+
+                        ARTICLE XIII
+                      Validity/Pooling
+          The invalidity or unenforceability or any
+provision of this Agreement shall not affect the validity or
+enforceability of any other provision of this Agreement,
+which shall remain in full force and effect.  If (i) the
+Board approves a merger or consolidation of the Company
+which is intended by the Board to satisfy the accounting
+rules related to the pooling of interest method of
+accounting (the "Pooling Rules") and (ii) any provision of
+this Agreement would violate the Pooling Rules, then such
+provision shall be null and void ab initio.  In such event,
+the Company and Executive shall negotiate, in good faith, a
+replacement provision of equivalent value which does not
+cause such a violation, provided, and to the extent, that
+the Company's outside auditors determine that any such
+replacement provision is permissible without violating the
+Pooling Rules.
+
+                        ARTICLE XIV
+                        Counterparts
+          This Agreement may be executed in several
+counterparts, each of which shall be deemed to be an
+original but all of which together will constitute one and
+the same instrument.
+
+                         ARTICLE XV
+            Settlement of Disputes; Arbitration
+          All claims by the Executive for benefits under
+this Agreement shall be directed to and determined by the
+Board and shall be in writing.  Any denial by the Board of a
+claim for benefits under this Agreement shall be delivered
+to the Executive in writing and shall set forth the specific
+reasons for the denial and the specific provisions of this
+Agreement relied upon.  The Board shall afford a reasonable
+opportunity to the Executive for a review of the decision
+denying a claim and shall further allow the Executive to
+appeal to the Board a decision of the Board within 60 days
+after notification by the Board that the Executive's claim
+has been denied.  Any further dispute or controversy arising
+under or in connection with this Agreement shall be settled
+exclusively by arbitration in New York, New York in
+accordance with the rules of the American Arbitration
+Association then in effect.  Judgment may be entered on the
+arbitrator's award in any court having jurisdiction;
+provided, however, that the Executive shall be entitled to
+seek specific performance of the Executive's right to be
+paid until the Date of Termination during the pendency of
+any dispute or controversy arising under or in connection
+with this Agreement.
+
+                        E-10Q-11
+<PAGE>
+
+                        ARTICLE XVI
+                        Definitions
+          For purposes of this Agreement, the following
+terms shall have the meanings indicated below:
+          (a)  "Award Plan" shall mean the 1983
+Bristol-Myers Squibb Stock Option Plan and the 1997 Stock
+Incentive Plan.
+          (b)  "Base Amount" shall have the meaning defined
+in Section 280G(b)(3) of the Code.
+          (c)  "Beneficial Owner" shall have the meaning
+defined in Rule 13d-3 under the Exchange Act.
+          (d)  "BEP" shall mean the Bristol-Myers Squibb
+Company Benefit Equalization Plan for the Retirement Income
+Plan.
+          (e)  "Board" shall mean the Board of Directors of
+the Company.
+          (f)  "Cause" for termination by the Company of the
+Executive's employment, after any Change in Control, shall
+mean (i) the wilful and continued failure by the Executive
+to substantially perform the Executive's duties with the
+Company (other than any such failure resulting from the
+Executive's incapacity due to physical or mental illness or
+any such actual or anticipated failure after the issuance of
+a Notice of Termination for Good Reason by the Executive
+pursuant to Section 7.01) for a period of at least
+30 consecutive days after a written demand for substantial
+performance is delivered to the Executive by the Board,
+which demand specifically identifies the manner in which the
+Board believes that the Executive has not substantially
+performed the Executive's duties, (ii) the wilful engaging
+by the Executive in conduct which is demonstrably and
+materially injurious to the Company or its subsidiaries,
+monetarily or otherwise, or (iii) the Executive is convicted
+of, or has entered a plea of no lo contendere to, a felony.
+For purposes of clauses (i) and (ii) of this definition, no
+act, or failure to act, on the Executive's part shall be
+deemed "wilful" unless done, or omitted to be done, by the
+Executive not in good faith and without reasonable belief
+that the Executive's act, or failure to act, was in the best
+interest of the Company.
+          (g)  A "Change in Control" shall be deemed to have
+occurred if the conditions set forth in any one of the
+following paragraphs shall have been satisfied:
+          (i) any Person is or becomes the Beneficial Owner,
+     directly or indirectly, of securities of the Company
+     (not including in the securities beneficially owned by
+     such Person any securities acquired directly from the
+     Company or its affiliates) representing 20% or more of
+     the combined voting power of the Company's then
+     outstanding securities; or
+          (ii) during any period of two consecutive years
+     (not including any period prior to the execution of
+     this Agreement), individuals who at the beginning of
+     such period constitute the Board and any new director
+     (other than a director designated by a Person who has
+     entered into an agreement with the Company to effect a
+     transaction described in clause (i), (iii) or (iv) of
+     this paragraph whose election by the Board or
+     nomination for election by the Company's stockholders
+     was approved by a vote of at least two-thirds (2/3) of
+     the directors then still in office who either were
+     directors at the beginning of the period or whose
+     election or nomination for election was previously so
+     approved, cease for any reason to constitute a majority
+     thereof; or
+          (iii) the shareholders of the Company approve a
+     merger or consolidation of the Company with any other
+     corporation, other than (A) a merger or consolidation
+     which would result in the voting securities of the
+     Company outstanding immediately prior thereto
+     continuing to represent (either by remaining
+     outstanding or by being converted into voting
+     securities of the surviving entity), in combination
+     with the ownership of any trustee or other fiduciary
+     holding securities under an employee benefit plan of
+     the Company, at least 75% of the combined voting power
+     of the voting securities of the Company or such
+     surviving entity outstanding immediately after such
+     merger or consolidation, or (B) a merger or
+     consolidation effected to implement a recapitalization
+     of the Company (or similar transaction) in which no
+     Person acquires more than 50% of the combined voting
+     power of the Company's then outstanding securities; or
+          (iv) the shareholders of the Company approve a
+     plan of complete liquidation of the Company or an
+     agreement for the sale or disposition by the Company of
+     all or substantially all the Company's assets.
+
+                            E-10Q-12
+<PAGE>
+
+
+Notwithstanding the foregoing, a Change in Control shall not
+include any event, circumstance or transaction occurring
+during the six-month period following a Potential Change in
+Control which results from the action of any entity or group
+which includes, is affiliated with or is wholly or partly
+controlled by the Executive; provided, further, that such
+action shall not be taken into account for this purpose if
+it occurs within a six-month period following a Potential
+Change in Control resulting from the action of any entity or
+group which does not include the Executive.
+          (h)  "Code" shall mean the Internal Revenue Code
+of 1986, as amended from time to time.
+          (i)  "Company" shall mean Bristol-Myers Squibb
+Company, a Delaware corporation, and any successor to its
+business and/or assets which assumes and agrees to perform
+this Agreement by operation of law, or otherwise (except in
+determining, under Article XVI(e) hereof, whether or not any
+Change in Control of the Company has occurred in connection
+with such succession).
+          (j)  "Company Shares" shall mean shares of common
+stock of the Company or any equity securities into which
+such shares have been converted.
+          (k)  "Date of Termination" shall have the meaning
+stated in Section 7.02 hereof.
+          (l)  "Disability" shall have the meaning stated in
+the Company's short- and long-term disability plans as in
+effect immediately prior to a Change in Control.
+          (m)  "Exchange Act" shall mean the Securities
+Exchange Act of 1934, as amended from time to time.
+          (n)  "Excise Tax" shall mean any excise tax
+imposed under Section 4999 of the Code.
+          (o)  "Executive" shall mean the individual named
+in the first paragraph of this Agreement.
+          (p)  "Good Reason" for termination by the
+Executive of the Executive's employment shall mean the
+occurrence (without the Executive's express written consent)
+of any one of the following acts by the Company, or failures
+by the Company to act, unless, in the case of any act or
+failure to act described in paragraph (i), (v), (vi), (vii),
+or (viii) below, such act or failure to act is corrected
+prior to the Date of Termination specified in the Notice of
+Termination given in respect thereof:
+          (i) the assignment to the Executive of any duties
+     inconsistent with the Executive's status as an
+     executive officer of the Company or a substantial
+     adverse alteration in the nature or status of the
+     Executive's responsibilities from those in effect
+     immediately prior to the Change in Control;
+          (ii) a reduction by the Company in the Executive's
+     annual base salary as in effect on the date hereof or
+     as the same may be increased from time to time and/or
+     the level of the Executive's entitlement under the
+     Incentive Plan as in effect on the date hereof or as
+     the same may be increased from time to time;
+          (iii) the Company's requiring the Executive to be
+     based more than 50 miles from the Company's offices at
+     which the Executive is based immediately prior to a
+     Change in Control except for required travel on the
+     Company's business to an extent substantially
+     consistent with the Executive's business travel
+     obligations immediately prior to a Change in Control,
+     or, in the event the Executive consents to any such
+     relocation of his offices, the failure by the Company
+     to provide the Executive with all of the benefits of
+     the Company's relocation policy as in operation
+     immediately prior to a Change in Control;
+          (iv) the failure by the Company, without the
+     Executive's consent, to pay to the Executive any
+     portion of the Executive's current compensation (for
+     purposes of this paragraph (d), "current compensation"
+     shall mean the Executive's annual base salary as in
+     effect on the date hereof or as the same may be
+     increased from time to time and the awards earned
+     pursuant to the Incentive Plan) or to pay to the
+     Executive any portion of an installment of deferred
+     compensation under any deferred compensation program of
+     the Company, within seven days of the date such
+     compensation is due;
+
+
+                         E-10Q-13
+<PAGE>
+
+          (v) the failure by the Company to continue in
+     effect any compensation plan in which the Executive
+     participates immediately prior to the Change in Control
+     which is material to the Executive's total
+     compensation, including, but not limited to, the
+     Incentive Plan, the Award Plan and the Bristol-Myers
+     Squibb Restricted Stock Plan (the "Stock Option Plans")
+     or any substitute plans adopted prior to the Change in
+     Control, unless an equitable arrangement (embodied in
+     an ongoing substitute or alternative plan) has been
+     made with respect to such plan, or the failure by the
+     Company to continue the Executive's participation
+     therein (or in such substitute or alternative plan) on
+     a basis not materially less favorable, both in terms of
+     the amount of benefits provided and the level of the
+     Executive's participation relative to other
+     participants as existed at the time of the Change in
+     Control;
+          (vi) the failure by the Company to continue to
+     provide the Executive with benefits substantially
+     similar to those enjoyed by the Executive under any of
+     the Company's pension (including, without limitation,
+     the Company's Retirement Plan, BEP and the Company's
+     Savings and Investment Program, including the Company's
+     Benefit Equalization Plan for the Savings and
+     Investment Program), life insurance, medical, health
+     and accident, or disability plans in which the
+     Executive was participating at the time of the Change
+     in Control, the taking of any action by the Company
+     which would directly or indirectly materially reduce
+     any of such benefits or deprive the Executive of any
+     material fringe benefit enjoyed by the Executive at the
+     time of the Change in Control, or the failure by the
+     Company to provide the Executive with the number of
+     paid vacation days to which the Executive is entitled
+     on the basis of years of service with the Company in
+     accordance with the Company's normal vacation policy in
+     effect at the time of the Change in Control; or
+          (vii) any purported termination of the Executive's
+     employment which is not effected pursuant to a Notice
+     of Termination satisfying the requirements of
+     Section 7.01; for purposes of this Agreement, no such
+     purported termination shall be effective.
+          The Executive's right to terminate the Executive's
+employment for Good Reason shall not be affected by the
+Executive's incapacity due to physical or mental illness.
+The Executive's continued employment shall not constitute
+consent to, or a waiver of rights with respect to, any act
+or failure to act constituting Good Reason hereunder.
+          Notwithstanding the foregoing, the occurrence of
+an event that would otherwise constitute Good Reason
+hereunder shall cease to be an event constituting Good
+Reason if Notice of Termination is not timely provided to
+the Company by the Executive within 120 days of the date
+that the Executive first becomes aware (or reasonably should
+have become aware) of the occurrence of such event.
+          (q)  "Gross-Up Payment" shall have the meaning
+given in Section 6.02 hereof.
+          (r)  "Incentive Plan" shall mean the Company's
+Executive Performance Incentive Plan.
+          (s)  "Notice of Termination" shall have the
+meaning stated in Section 7.01 hereof.
+          (t)  "Options" shall mean options for Company
+Shares granted to the Executive under the Company's Stock
+Option Plans.
+          (u)  "Person" shall have the meaning given in
+Section 3(a)(9) of the Exchange Act, as modified and used in
+Sections 13(d) and 14(d) thereof; however, a Person shall
+not include (i) the Company or any of its subsidiaries,
+(ii) a trustee or other fiduciary holding securities under
+an employee benefit plan of the Company or any of its
+subsidiaries, (iii) an underwriter temporarily holding
+securities pursuant to an offering of such securities, or
+(iv) a corporation owned, directly or indirectly, by the
+stockholders of the Company in substantially the same
+proportions as their ownership of stock of the Company.
+
+
+                         E-10Q-14
+<PAGE>
+
+          (v)  "Potential Change in Control" shall be deemed
+to have occurred if the conditions set forth in any one of
+the following paragraphs shall have been satisfied:
+               (i)  the Company enters into an agreement,
+          the consummation of which would result in the
+          occurrence of a Change in Control;
+               (ii)  the Company or any Person publicly
+          announces an intention to take or to consider
+          taking actions which, if consummated, would
+          constitute a Change in Control;
+               (iii)  any Person who is or becomes the
+          Beneficial Owner, directly or indirectly, of
+          securities of the Company representing 10% or more
+          of the combined voting power of the Company's then
+          outstanding securities, increases such Person's
+          beneficial ownership of such securities by 5% or
+          more over the percentage so owned by such Person
+          on the date hereof; or
+          (iv) the Board adopts a resolution to the effect
+          that, for purposes of this Agreement, a Potential
+          Change in Control has occurred.
+          (w)  "Retirement Date" shall mean the later of
+(i) the Executive's normal retirement date under the
+Retirement Plan and (ii) such other date for retirement by
+the Executive which has been approved by the Board at any
+time prior to a Change in Control.
+          (x)  "Retirement Plan" shall mean the Bristol-
+Myers Squibb Company Retirement Income Plan.
+          (y)  "Savings Plan" shall mean the Bristol-Myers
+Squibb Company Savings and Investment Program and which, for
+purposes of this Agreement, shall include the Company's
+Benefit Equalization Plan for the Savings and Investment
+Program.
+          (z)  "Severance Payments" shall mean those
+payments described in Section 6.01 hereof.
+          (aa)  "Shares" shall mean shares of the common
+stock, $0.10 par value, of the Company.
+          (bb)  "Total Payments" shall mean those payments
+described in Section 6.02 hereof.
+
+                              BRISTOL-MYERS SQUIBB COMPANY,
+
+                                by
+
+                                  [Name]
+                                  [Title]
+
+
+                                  [Name of Executive]
+
+
+
+
+                          E-10Q-15
+<PAGE>
+
+
+                                                 Schedule A
+
+
+ Non-Compete/Non Solicitation Agreement and General Release
+
+
+Bristol-Myers  Squibb Company has offered  me  an  Executive
+Severance Agreement.
+
+In consideration of the above-referenced Executive Severance
+Agreement, I agree as follows:
+
+1.   For a one-year period commencing upon my termination, I
+     will not in any way, directly or indirectly, own, manage,
+     operate, control, accept employment or a consulting position
+     with or otherwise advise or assist or be actively connected
+     with,  or  have any financial interest in, directly  or
+     indirectly, any enterprise which engages in, or otherwise
+     carries on, any business activity in competition with the
+     businesses  of  Bristol-Myers Squibb  Company  and  its
+     subsidiaries and affiliates (referred to collectively as the
+     "Company"), in any geographic area in which it engages in
+     such business (including,  without limitation, the United
+     States and each county in the State of California in which
+     the Company from time to time sells or offers its products
+     for sale), without the prior written consent of the Company.
+     I recognize that the Company's business is worldwide in
+     scope in that it directly advertises and solicits business
+     from customers wherever they may be found.  It is understood
+     that ownership of not more than one percent (1%) of the
+     equity securities of a public company shall in no way be
+     prohibited pursuant to the foregoing provisions.  I further
+     agree that I shall not take any action which might divert
+     from the Company or any of its successors or assigns any
+     opportunity which would be within the scope of its or their
+     respective present or future operations or business.  I
+     understand  that  this paragraph  supersedes  the  Non-
+     competition provision set forth in my Restricted Stock Award
+     Agreement, however in no way modifies the other provisions
+     of that agreement which remain in full force and effect.
+
+2.   For a one-year period commencing upon my termination, I
+     will not in any way, directly or indirectly, employ, solicit
+     for employment, or advise or recommend to any other person
+     that  they employ or solicit for employment, any person
+     employed at the time by the Company.
+
+3.   I  hereby  waive any and all rights to sue the  Company
+     and  its  past, present and future officers, directors,
+     employees and agents (referred to collectively  as  the
+     "Released Parties") based upon any act or event occurring
+     prior to my signing this Agreement.  Without limitation, I
+     specifically release the Released Parties from any and all
+     claims arising out of my employment and separation from the
+     Company, including claims based on discrimination under
+     federal anti-discrimination laws such as Title VII of the
+     Civil Rights Act, Age Discrimination in Employment Act, The
+     Americans with Disabilities Act, claims for interference
+
+
+
+                            E-10Q-16
+<PAGE>
+
+Agreement and Release
+
+
+     with  my  rights to benefits under section 510  of  the
+     Employee Retirement Income Security Act and any and all
+     federal, state and local laws.
+
+     However, I am not giving up my right to appeal a denial
+     of  a claim for benefits submitted under my medical  or
+     dental  coverage,  life insurance or disability  income
+     program maintained by the Company.  Further, I  am  not
+     giving  up  my right to file for unemployment insurance
+     benefits at the appropriate time if I so choose, and my
+     signing  of this release will not affect my rights,  if
+     any,  to  coverage by Workers' Compensation  insurance.
+     Nothing herein shall affect any benefits to which I  am
+     entitled  under  the  terms of the Executive  Severance
+     Agreement  or any claim arising out of the  enforcement
+     of the Executive Severance Agreement.
+
+4.   I  acknowledge that I have been given at least  twenty-
+     one (21) days to consider and sign this release.  I further
+     acknowledge that it will not be effective for a period of
+     seven (7) days, during which time I can change my mind and
+     revoke my signature.  To revoke my signature, I must notify
+     the Company in writing, within seven days of the date I
+     signed  this  release.  In the event that I  revoke  my
+     signature  I  will not be entitled to the consideration
+     described above.
+
+Finally,   I  acknowledge  the  continuing  nature   of   my
+obligation to maintain in confidence and not to make use  of
+confidential  information concerning the Company's  business
+or  affairs of any nature that is not otherwise a matter  of
+public   record.   This  obligation  continues   after   the
+termination of my employment.
+
+MY  SIGNATURE BELOW ACKNOWLEDGES THAT I HAVE READ THE ABOVE,
+UNDERSTAND WHAT I AM SIGNING, AND AM ACTING OF MY  OWN  FREE
+WILL.   I UNDERSTAND THAT IF ANY PROVISION OF THIS AGREEMENT
+IS  FOUND TO BE INVALID OR UNENFORCEABLE, IT WILL NOT AFFECT
+THE  VALIDITY  OR ENFORCEABILITY OF ANY OTHER PROVISION.   I
+FURTHER  AGREE THAT THIS AGREEMENT WILL BE GOVERNED  BY  THE
+LAWS  OF THE STATE OF NEW YORK.  THE COMPANY HAS ADVISED  ME
+TO  CONSULT WITH AN ATTORNEY, AND I HAVE DONE SO,  PRIOR  TO
+SIGNING THIS DOCUMENT.
+
+
+
+
+
+SIGNATURE_____________________________
+DATE__________________
+
+
+
+                           E-10Q-17
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-15
+<SEQUENCE>3
+<TEXT>
+
+
+
+
+
+
+
+                                                        Exhibit No. 15
+
+
+
+ November 9, 1999
+
+
+
+ Securities and Exchange Commission
+ 450 Fifth Street, N.W.
+ Washington, D.C. 20549
+
+ Commissioners:
+
+ We  are aware that our report dated November 9, 1999 on our review of
+ interim  financial  information of Bristol-Myers Squibb  Company  for
+ the  period  ended September 30, 1999 and included in  the  Company's
+ quarterly  report  on  Form  10-Q  for  the  quarter  then  ended  is
+ incorporated by reference in the Registration Statements on Form  S-8
+ (Nos.  33-30856,  33-38411, 33-38587, 33-44788, 333-47403,  33-52691,
+ 33-58187,  333-02873 and 33-30756-02), Form S-4 (No. 333-09519),  and
+ Form S-3 (Nos. 33-33682, 333-49227 and 33-62496).
+
+ Such  report is not a "report" or "part" of a registration  statement
+ prepared  or  certified  by  PricewaterhouseCoopers  LLP  within  the
+ meaning  of Sections 7 and 11 of the Securities Act of 1933  and  the
+ independent accountants' liability under Section 11 does  not  extend
+ to such report.
+
+
+
+
+
+ Yours very truly,
+
+
+
+
+
+
+
+ PricewaterhouseCoopers LLP
+
+
+
+
+                             E-15-1
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+Exhibit 27 for Bristol-Myers Squibb Company for the period ended 9/30/99
+</LEGEND>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          DEC-31-1999<F1>
+<PERIOD-END>                               SEP-30-1999
+<CASH>                                            2455
+<SECURITIES>                                       235
+<RECEIVABLES>                                     3306<F2>
+<ALLOWANCES>                                         0
+<INVENTORY>                                       2052
+<CURRENT-ASSETS>                                  8957
+<PP&E>                                            7723
+<DEPRECIATION>                                    3234
+<TOTAL-ASSETS>                                   16612
+<CURRENT-LIABILITIES>                             5401
+<BONDS>                                           1331
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           219
+<OTHER-SE>                                        8222
+<TOTAL-LIABILITY-AND-EQUITY>                     16612
+<SALES>                                          14814
+<TOTAL-REVENUES>                                 14814
+<CGS>                                             4068
+<TOTAL-COSTS>                                     4068
+<OTHER-EXPENSES>                                  3096
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                  95
+<INCOME-PRETAX>                                   4312
+<INCOME-TAX>                                      1197
+<INCOME-CONTINUING>                               3115
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                      3115
+<EPS-BASIC>                                     1.57
+<EPS-DILUTED>                                     1.54
+<FN>
+<F1>Items reported as "zero" are not applicable or are immaterial to the
+consolidated financial position of the Company.
+<F2>Receivables are reported net of allowances for doubtful accounts.
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

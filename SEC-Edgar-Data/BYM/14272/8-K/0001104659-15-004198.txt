@@ -1,0 +1,398 @@
+<SEC-DOCUMENT>0001104659-15-004198.txt : 20150123
+<SEC-HEADER>0001104659-15-004198.hdr.sgml : 20150123
+<ACCEPTANCE-DATETIME>20150123163356
+ACCESSION NUMBER:		0001104659-15-004198
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20150120
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20150123
+DATE AS OF CHANGE:		20150123
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		15545942
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a15-3014_18k.htm
+<DESCRIPTION>8-K
+<TEXT>
+
+
+<html>
+<head>
+
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM&nbsp;8-K</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">CURRENT REPORT</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">Pursuant to Section&nbsp;13 OR 15(d)&nbsp;of The Securities Exchange Act Of 1934</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date of Report (Date of earliest event reported): <b>January&nbsp;20, 2015</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">BRISTOL-MYERS SQUIBB COMPANY</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact Name of Registrant as Specified in its Charter)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade color="black" align="center"></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Delaware</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1-1136</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">22-0790350</font></b></p>    </td>   </tr>
+<tr>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or   Other<br>   Jurisdiction of<br>   Incorporation)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Commission   File<br>   Number)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="32%" valign="top" style="padding:0in 0in 0in 0in;width:32.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(IRS   Employer<br>   Identification<br>   Number)</font></p>    </td>   </tr>  </table>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">345 Park Avenue</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">New York, NY, 10154</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of Principal Executive Office)</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Registrant&#146;s telephone number, including area code:<b> (212)&nbsp;546-4000</b></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:24.5pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Check the appropriate box below if the Form&nbsp;8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<i>see </i>General Instruction A.2. below):</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425) </font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12) </font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b)&nbsp;under the Exchange Act (17 CFR 240.14d-2(b)) </font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c)&nbsp;under the Exchange Act (17 CFR 240.13e-4(c)) </font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\106406\15-3014-1\task7157308\3014-1-ba.htm',USER='106406',CD='Jan 24 02:14 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 5.02</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(b)&nbsp;(c)</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">On January&nbsp;20, 2015, James M. Cornelius notified Bristol-Myers Squibb Company (the &#147;Company&#148;) that he will not stand for re-election to the Board of Directors at the 2015 Annual Meeting of Stockholders, which is expected to be held on May&nbsp;5,&nbsp;2015.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Additionally, o</font><font size="2" style="font-size:10.0pt;">n January&nbsp;20, 2015, the Company announced the retirement of Lamberto Andreotti as Chief Executive Officer, effective May&nbsp;5, 2015.&#160; Mr.&nbsp;Andreotti will remain an officer of the Company for a transition period through August&nbsp;3, 2015 during which he will be working closely with the new Chief Executive Officer.&#160; Mr.&nbsp;Andreotti will continue to be a member of the Company&#146;s Board and the Board of Directors has elected him to become Executive Chairman of the Board effective May&nbsp;5, 2015 and Non-Executive Chairman of the Board effective August&nbsp;3, 2015 following his retirement as an officer of the Company.&#160; </font><font size="2" style="font-size:10.0pt;">The Board will determine Mr.&nbsp;Andreotti&#146;s new compensation arrangements at a later time.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On January&nbsp;20, 2015, the Company also announced that Giovanni Caforio, M.D., Chief Operating Officer of the Company, has been designated as the Company&#146;s Chief Executive Officer, effective May&nbsp;5, 2015.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dr.&nbsp;Caforio is 50 years old and has served as the Company&#146;s Chief Operating Officer since June&nbsp;2014.&#160; He served as Executive Vice President and Chief Commercial Officer from November&nbsp;2013 to June&nbsp;2014.&#160; From October&nbsp;2011 to November&nbsp;2013, he served as President, U.S.&#160; He held the position of Senior Vice President, Global Commercialization and Immunology from May&nbsp;2010 to October&nbsp;2011.&#160; Prior to that, he served as Senior Vice President, Oncology, U.S. and Global Commercialization from March&nbsp;2009 to May&nbsp;2010.&#160; From January&nbsp;2007 to March&nbsp;2009 he served as Senior Vice President, U.S. Oncology and from May&nbsp;2004 to January&nbsp;2007, he served as Senior Vice President, European Marketing and Brand Commercialization.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Board will determine Dr.&nbsp;Caforio&#146;s new compensation arrangement at a later time.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">There are no arrangements or understandings between Dr.&nbsp;Caforio and any other persons pursuant to which he was selected as Chief Executive Officer.&#160; There are no related party transactions between the Company and Dr.&nbsp;Caforio and there are no family relationships between Dr.&nbsp;Caforio and any director or executive officer of the Company.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">A copy of the press release announcing the retirement of James M. Cornelius from the Board, the retirement of Lamberto Andreotti as Chief Executive Officer and his election as Chairman of the Board, the designation of Giovanni Caforio, M.D. as Chief Executive Officer and the election of Togo D. West,&nbsp;Jr. as Lead Independent Director is attached to this report as Exhibit&nbsp;99.1.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 8.01</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Other Events.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">On January&nbsp;20, 2015, the Board of Directors elected Togo D. West,&nbsp;Jr. to serve as Lead Independent Director effective upon Mr.&nbsp;Andreotti assuming the role of Chairman of the Board in May.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item 9.01</font></b><b><font size="1" style="font-size:3.0pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" style="font-size:10.0pt;font-weight:bold;">Financial Statements and Exhibits.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:24.5pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(d)&nbsp;Exhibits.</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:24.5pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Press release dated January&nbsp;20, 2015.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_005046_7056"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\106406\15-3014-1\task7157308\3014-1-ba.htm',USER='106406',CD='Jan 24 02:14 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:24.5pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:24.5pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:24.5pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.6%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.4%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">BRISTOL-MYERS   SQUIBB COMPANY</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.6%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.4%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.6%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.4%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.6%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Dated:   January&nbsp;23, 2015</font></p>    </td>
+<td width="49%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:49.4%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By: /s/ Sandra   Leung</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.6%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:49.4%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name: Sandra   Leung</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.6%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.4%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title: General   Counsel and Corporate Secretary</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_005155_5335"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\106406\15-3014-1\task7157308\3014-1-ba.htm',USER='106406',CD='Jan 24 02:14 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EXHIBIT&nbsp;INDEX</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+<tr>
+<td width="10%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:10.0%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Exhibit&nbsp;No.</font></b></p>    </td>
+<td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.96%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="85%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:85.04%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Description</font></b></p>    </td>   </tr>
+<tr>
+<td width="10%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:10.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">99.1</font></p>    </td>
+<td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.96%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="85%" valign="top" style="border:none;padding:0in 0in 0in 0in;width:85.04%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Press release   dated January&nbsp;20, 2015.</font></p>    </td>   </tr>  </table>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_005323_5796"></a></font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\106406\15-3014-1\task7157308\3014-1-ba.htm',USER='106406',CD='Jan 24 02:14 2015' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a15-3014_1ex99d1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+
+
+<html>
+<head>
+
+  </head>
+<body lang="EN-US">
+<div style="font-family:Times New Roman;">
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Exhibit&nbsp;99.1</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman"><img width="218" height="36" src="g30141mmi001.jpg"></font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Bristol-Myers Squibb Appoints Giovanni Caforio, M.D., Chief Executive Officer Effective May&nbsp;5; Lamberto Andreotti to Become Chairman</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:39.0pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(NEW YORK, January&nbsp;20, 2015) &#151; Bristol-Myers Squibb Company (NYSE: BMY) today announced a number of leadership changes approved by its board of directors and effective at the close of the annual Shareholders&#146; Meeting on May&nbsp;5.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Giovanni Caforio, M.D., 50, will become chief executive officer of the company.</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Lamberto Andreotti, 64, will become executive chairman of the board of directors on May&nbsp;5 and will continue to serve as chairman after his retirement on August&nbsp;3.</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">James M. Cornelius, 71, has chosen not to stand for re-election as non-executive chairman and will retire from the board.</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Togo D. West,&nbsp;Jr., 72, will become the lead independent director on the company&#146;s board.</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;I want to thank Jim Cornelius for his many years at BMS,&#148; Andreotti said. &#147;Through his leadership and strategic vision, Jim oversaw the successful transformation of our company. As CEO of Bristol-Myers Squibb,&nbsp;I am grateful to have had his guidance as a mentor and a friend.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;I also want to express my excitement that Giovanni has been appointed to succeed me as CEO,&#148; Andreotti said.&#160; &#147;I have a high level of confidence in Giovanni that is shared by everyone who has seen him consistently and successfully drive performance. He has an unmatched breadth and depth of experience. From his start in a medical role to his experience as a general manager to his roles as chief commercial officer and chief operating officer, Giovanni has demonstrated a unique ability to work across the organization to bring innovative medicines to patients.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;I am honored to have the privilege to lead this great company,&#148; Caforio said. &#147;Lamberto has led the successful transformation of BMS from a broad-based health care company to a Diversified Specialty BioPharma leader with his passion for our business, our people and, most</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108704\15-3014-1\task7156207\3014-1-mm.htm',USER='108704',CD='Jan 23 11:39 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">importantly, our patients. I look forward to working with our very talented team of people at BMS to build on what we&#146;ve accomplished, to deliver on the promise of our innovative portfolio and to continue to make a real difference for our patients.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;This is an extraordinary company of talented people with incomparable passion and dedication to helping patients,&#148; Cornelius said. &#147;With Giovanni&#146;s appointment as CEO and Lamberto&#146;s appointment as chairman, we ensure the continuation of both the leadership and strategy that have made BMS successful.&#148;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Caforio brings a broad range of experience to his role as CEO. Through ever-expanding roles, Caforio has made significant contributions to improving the company&#146;s strategic focus and operational performance. He helped build the company&#146;s leadership in immuno-oncology through his roles in U.S. and Global Oncology.&#160; As chief commercial officer and chief operating officer he led the transformation of the company&#146;s global commercial organization into one uniquely designed to be able to differentially invest in the most important opportunities.&#160; As a member of the company&#146;s Senior Management Team since 2011 and the company&#146;s board of directors since 2014, Caforio has been integral in shaping the company&#146;s successful transformation to a Diversified Specialty BioPharma company.&#160; A trained physician, Caforio began his career in Medical Affairs at Abbott Laboratories. He joined Bristol-Myers Squibb in 2000 as vice president and general manager,&nbsp;Italy. Caforio earned his M.D. from the University of Rome prior to joining the pharmaceutical industry.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Andreotti joined Bristol-Myers Squibb in 1998 as vice president and general manager,&nbsp;Italy and European Oncology. He held a number of roles of increasing responsibility and was elected to the board of directors in March&nbsp;2009. He became CEO in May&nbsp;2010. He also sits on the board of directors of E. I. du Pont de Nemours and Company.</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Cornelius has been non-executive chairman since May&nbsp;2010. He served as chairman and chief executive officer from February&nbsp;2008 to May&nbsp;2010 and served as our chief executive officer from September&nbsp;2006 to February&nbsp;2008. Cornelius is the non-executive chairman of the board of directors of Mead Johnson Nutrition Company.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108704\15-3014-1\task7156207\3014-1-mm.htm',USER='108704',CD='Jan 23 11:39 2015' -->
+
+<br clear="all" style="page-break-before:always;">
+<div>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">About Bristol-Myers Squibb</font></b></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Bristol-Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. For more information, please visit www.bms.com or follow us on Twitter at http://twitter.com/bmsnews.</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Contact:</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Bristol-Myers Squibb</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Media: Jennifer Fron Mauer, 609-252-6579, jennifer.mauer@bms.com; or Ken Dominski, 609-252-5251, ken.dominski@bms.com.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">or</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Investors: John Elicker, 609-252-4611,&#160; john.elicker@bms.com; or Ranya Dajani, 609-252-5330, ranya.dajani@bms.com.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\108704\15-3014-1\task7156207\3014-1-mm.htm',USER='108704',CD='Jan 23 11:39 2015' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g30141mmi001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g30141mmi001.jpg
+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
+=HHH`****`"C`]***`#%%%%`!BBBB@!:***`/_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

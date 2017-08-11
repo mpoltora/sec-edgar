@@ -1,0 +1,1515 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ P0vlWQoF2TJFNwo4ChuSa90dQyiCpTUaHHVlV/06Nq0GRbfQsA2Auwu+lgNbrr4w
+ ZGrbEGVtTZYXSHdfNFt9rw==
+
+<SEC-DOCUMENT>0000014272-97-000017.txt : 19971117
+<SEC-HEADER>0000014272-97-000017.hdr.sgml : 19971117
+ACCESSION NUMBER:		0000014272-97-000017
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19970930
+FILED AS OF DATE:		19971114
+SROS:			NYSE
+SROS:			PSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		97718423
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 1997
+<TEXT>
+
+
+
+
+
+
+
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                          WASHINGTON, D.C.  20549
+
+
+                                FORM 10-Q
+
+
+           QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                       SECURITIES EXCHANGE ACT OF 1934
+
+
+              FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 1997
+
+
+                       Commission File Number 1-1136
+
+
+                       BRISTOL-MYERS SQUIBB COMPANY
+            (Exact name of registrant as specified in its charter)
+
+
+
+       Delaware                                    22-079-0350
+ (State or other jurisdiction of          (IRS Employer Identification No.)
+  incorporation or organization)
+
+
+
+                 345 Park Avenue, New York, N.Y.  10154
+                (Address of principal executive offices)
+                        Telephone: (212) 546-4000
+
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.
+
+Yes  [ X ]            No  [   ]
+
+
+
+At September 30, 1997, there were 994,278,231 shares outstanding of the
+Registrant's $.10 par value Common Stock.
+
+<PAGE>
+
+
+
+                      BRISTOL-MYERS SQUIBB COMPANY
+
+
+                           INDEX TO FORM 10-Q
+
+
+                           September 30, 1997
+
+
+
+
+
+
+                                                            Page No.
+                                                         -----------
+Part I - Financial Information:
+
+  Condensed Financial Statements (Unaudited):
+
+  Consolidated Balance Sheet - September 30, 1997
+    and December 31, 1996                                      2 - 3
+
+  Consolidated Statement of Earnings for the three and
+    nine months ended September 30, 1997 and 1996                  4
+
+  Consolidated Statement of Cash Flows for the nine
+    months ended September 30, 1997 and 1996                       5
+
+  Management's Discussion and Analysis of Financial
+    Condition and Results of Operations                       6 - 13
+
+
+Part II - Other Information                                  14 - 16
+
+Signatures                                                        17
+
+
+
+
+
+
+
+
+
+                               -1-
+
+ <PAGE>
+
+                   BRISTOL-MYERS SQUIBB COMPANY
+          CONDENSED CONSOLIDATED BALANCE SHEET - ASSETS
+          (Unaudited, in millions except share amounts)
+
+
+
+                                          September 30,      December 31,
+                                              1997               1996
+                                         --------------     -------------
+
+Current Assets:
+  Cash and cash equivalents                     $ 1,664           $ 1,681
+  Time deposits and marketable
+    securities                                      304               504
+  Receivables, net of allowances                  2,806             2,651
+
+  Finished goods                                  1,104               994
+  Work in process                                   224               223
+  Raw and packaging materials                       491               452
+                                             ----------        ----------
+  Inventories                                     1,819             1,669
+
+  Prepaid expenses                                1,064             1,023
+                                             ----------        ----------
+    Total Current Assets                          7,657             7,528
+                                             ----------        ----------
+
+Property, Plant and Equipment                     6,785             6,646
+
+Less: Accumulated depreciation                    2,791             2,682
+                                             ----------        ----------
+                                                  3,994             3,964
+                                             ----------        ----------
+
+Insurance Recoverable                               630               853
+
+Excess of cost over net tangible assets
+  received in business acquisitions               1,623             1,508
+
+Other Assets                                        814               832
+                                             ----------        ----------
+
+  Total Assets                                  $14,718           $14,685
+                                             ==========        ==========
+
+
+
+
+                                 -2-
+
+ <PAGE>
+
+                    BRISTOL-MYERS SQUIBB COMPANY
+                CONDENSED CONSOLIDATED BALANCE SHEET -
+                  LIABILITIES AND STOCKHOLDERS' EQUITY
+             (Unaudited, in millions except share amounts)
+
+                                             September 30,    December 31,
+                                                 1997            1996
+                                           --------------   -------------
+Current Liabilities:
+  Short-term borrowings                          $    540        $    513
+  Accounts payable                                    980           1,064
+  Accrued expenses                                  1,826           1,962
+  Product liability                                   750             800
+  U.S. and foreign income taxes payable               612             711
+                                               ----------      ----------
+    Total Current Liabilities                       4,708           5,050
+
+Product Liability                                     660           1,031
+
+Other Liabilities                                   1,158           1,068
+
+Long-Term Debt                                      1,265             966
+                                               ----------      ----------
+    Total Liabilities                               7,791           8,115
+                                               ----------      ----------
+Stockholders' Equity:
+  Preferred stock, $2 convertible series:
+    Authorized 10 million shares; issued and
+    and outstanding 13,981 in 1997 and 15,245
+    in 1996, liquidation value of $50 per share         -               -
+
+  Common stock, par value of $.10 per share:
+    Authorized 2.25 billion shares; issued
+    1,083,087,153 in 1997 and                         108             108
+    1,082,496,016 in 1996
+
+  Capital in excess of par value of stock             465             382
+
+  Cumulative translation adjustments                 (524)           (361)
+
+  Retained earnings                                10,525           9,260
+                                               ----------      ----------
+                                                   10,574           9,389
+  Less cost of treasury stock - 88,808,922
+    common shares in 1997 and 81,806,550
+    in 1996                                         3,647           2,819
+                                               ----------      ----------
+       Total Stockholders' Equity                   6,927           6,570
+                                               ----------      ----------
+  Total Liabilities and Stockholders' Equity      $14,718         $14,685
+                                               ==========      ==========
+
+
+                                  -3-
+
+<PAGE>
+                           BRISTOL-MYERS SQUIBB COMPANY
+                   CONDENSED CONSOLIDATED STATEMENT OF EARNINGS
+                (Unaudited, in millions except per share amounts)
+
+
+                                      Three Months Ended    Nine Months Ended
+                                          September 30,       September 30,
+                                      ------------------    ------------------
+                                        1997      1996        1997      1996
+                                      --------  --------    --------  --------
+
+Net Sales                               $4,151    $3,745     $12,260   $11,110
+                                      --------  --------    --------  --------
+
+
+   Cost of products sold                 1,110     1,003       3,285     2,899
+   Marketing, selling, administrative
+      and other                            949       858       3,017     2,857
+   Advertising and product promotion       550       488       1,604     1,401
+   Research and development                346       336         993       948
+                                      --------  --------    --------  --------
+                                         2,955     2,685       8,899     8,105
+                                      --------  --------    --------  --------
+
+Earnings Before Income Taxes             1,196     1,060       3,361     3,005
+
+Provision for income taxes                 341       307         958       871
+                                      --------  --------    --------  --------
+
+Net Earnings                           $   855   $   753      $2,403    $2,134
+                                      ========  ========    ========  ========
+
+
+Earnings Per Common Share                 $.86      $.75       $2.41     $2.12
+                                      ========  ========    ========  ========
+
+Average Common Shares
+  Outstanding                              995     1,003         997     1,004
+                                      ========  ========    ========  ========
+
+
+Dividends Per Common Share                $.38     $.375       $1.14    $1.125
+                                      ========  ========    ========  ========
+
+
+
+
+
+                                   -4-
+
+
+<PAGE>
+
+                  BRISTOL-MYERS SQUIBB COMPANY
+         CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+                    (Unaudited, in millions)
+
+                                                          Nine Months Ended
+                                                            September 30,
+                                                       ---------------------
+                                                           1997        1996
+                                                       ---------    --------
+Cash Flows From Operating Activities:
+          Net earnings                                    $2,403     $ 2,134
+          Depreciation and amortization                      409         380
+          Other operating items                              (10)        (22)
+          Receivables                                       (290)       (126)
+          Inventories                                       (265)       (104)
+          Accounts payable                                   (41)        (52)
+          Accrued expenses                                   (79)        126
+          Product liability                                 (421)       (394)
+          Insurance recoverable                              223          86
+          Income taxes                                        50         124
+          Other assets and liabilities                       (96)       (169)
+                                                       ---------    --------
+          Net Cash Provided by Operating Activities        1,883       1,983
+                                                       ---------    ---------
+Cash Flows From Investing Activities:
+          Proceeds from sales of time deposits and
+             marketable securities                           465         334
+          Purchases of time deposits and marketable
+             securities                                     (266)       (309)
+          Additions to fixed assets                         (438)       (388)
+          Acquisition of businesses                         (170)       (298)
+          Other, net                                          26          10
+                                                       ---------    --------
+          Net Cash Used in Investing Activities             (383)       (651)
+                                                       ---------    --------
+Cash Flows From Financing Activities:
+          Short-term borrowings                               80         (28)
+          Long-term debt                                     305           4
+          Issuances of common stock under stock plans        226         134
+          Purchases of treasury stock                       (971)       (586)
+          Dividends paid                                  (1,138)     (1,132)
+                                                       ---------    --------
+          Net Cash Used in Financing Activities           (1,498)     (1,608)
+                                                       ---------    --------
+
+Effect of Exchange Rates on Cash                             (19)         (1)
+                                                       ---------    --------
+
+Decrease in Cash and Cash Equivalents                        (17)       (277)
+Cash and Cash Equivalents at Beginning of Period           1,681       1,645
+                                                       ---------    --------
+Cash and Cash Equivalents at End of Period                $1,664      $1,368
+                                                       =========    ========
+                                   -5-
+
+
+<PAGE>
+                       BRISTOL-MYERS SQUIBB COMPANY
+                   MANAGEMENT'S DISCUSSION AND ANALYSIS
+             OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+                 (in millions, except per share amounts)
+
+
+Basis of Presentation
+- ---------------------
+
+In the opinion of management, the accompanying unaudited condensed
+consolidated financial statements include all adjustments (consisting only
+of normal adjustments) necessary for a fair presentation of the financial
+position of Bristol-Myers Squibb Company (the "Company") at September 30,
+1997 and December 31, 1996, the results of operations for the three and nine
+months ended September 30, 1997 and 1996, and cash flows for the nine months
+ended September 30, 1997 and 1996.  These condensed consolidated financial
+statements should be read in conjunction with the consolidated financial
+statements and the related notes included in the Company's 1996 Annual Report
+on Form 10-K.
+
+
+Third Quarter Results of Operations
+- -----------------------------------
+
+Sales
+- ------
+
+Worldwide sales for the third quarter of 1997 increased 11% (15% excluding the
+effect of foreign exchange) over the prior year to $4,151.   The consolidated
+sales growth resulted from a 15% increase due to volume and a 4% decrease due
+to the effect of foreign exchange.  Changes in selling prices had no effect
+on total sales growth.  Domestic sales increased 15% and international sales
+increased 5% (14% excluding the effect of foreign exchange).  Worldwide sales
+for the third quarter of 1996 increased 10% compared to the third quarter of
+1995.
+
+Industry Segments
+- -----------------                         Three Months Ended September 30,
+                                  -------------------------------------------
+                                         Net Sales              % Change
+                                  ---------------------    ------------------
+                                     1997         1996       1997       1996
+                                  ---------    --------    -------    -------
+Pharmaceutical Products             $2,457       $2,152       14 %       11 %
+Nonprescription Health Products        712          661        8 %        6 %
+Toiletries and Beauty Aids             538          476       13 %       19 %
+Medical Devices                        444          456       (3)%        -
+                                  --------     --------
+Total Company                       $4,151       $3,745       11 %       10 %
+                                  ========     ========
+
+
+
+
+                                  -6-
+
+<PAGE>
+
+                  BRISTOL-MYERS SQUIBB COMPANY
+              MANAGEMENT'S DISCUSSION AND ANALYSIS
+        OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+            (in millions, except per share amounts)
+
+
+Sales in the pharmaceutical products segment, which is the largest segment
+at 59% of total company sales, increased 14% (19% excluding foreign exchange)
+over the third quarter of 1996 to $2,457.  Sales growth resulted from a 19%
+increase in volume and a 5% decrease due to the effect of foreign exchange.
+Selling prices had no effect on sales.  Domestic pharmaceutical sales
+increased 25% and international sales increased 11% excluding foreign
+exchange.
+
+Sales of cardiovascular drugs, the largest product group in the segment,
+increased 4% to $703.  Sales of PRAVACHOL*, the Company's largest selling
+product, increased 34% to $350.  Domestic sales of PRAVACHOL* increased 36%
+to $214.  Sales of the anti-hypertensive MONOPRIL*, a second generation
+angiotensin converting enzyme (ACE) inhibitor with once-a-day dosage,
+increased 17% to $76.  Sales growth for these products was offset by a 28%
+decline in CAPOTEN* sales.
+
+In October, 1997, the Company and Sanofi S.A. received U.S. marketing
+clearance from the United States Food and Drug Administration (FDA) for
+irbesartan, which will be sold in the United States under the brand name
+AVAPRO, an angiotensin II receptor blocker for the treatment of hypertension.
+AVAPRO was co-developed and will be jointly marketed with Sanofi.  In
+September, irbesartan was launched in the United Kingdom and Germany.  Also
+in October, an FDA advisory committee voted to recommend approval of the use
+of PLAVIX to prevent strokes and heart attacks.
+
+Sales of anti-cancer drugs increased 25% to $638.  Sales of TAXOL* (R)
+(paclitaxel), the Company's leading anti-cancer agent, increased 18% to $242.
+In August 1997, the FDA cleared TAXOL* for use in second-line treatment of
+AIDS-related Kaposi's sarcoma, a rare form of cancer primarily affecting
+HIV-infected individuals.  TAXOL's* five year Hatch-Waxman exclusivity period
+in the U.S. will expire in December 1997.  Sales of PARAPLATIN*, an anti-
+cancer agent, increased 25% to $118.  Sales of the Oncology Therapeutics
+Network (OTN), a company acquired in September 1996, contributed $125 to
+anti-cancer drug sales.
+
+Anti-infective drug sales of $517 increased 15% over the prior year.   ZERIT*,
+an antiretroviral agent, recorded strong gains increasing 181% to $109.  In
+August, ZERIT* received approval by the European Union for use in combination
+therapy in the first-line treatment of HIV.  Sales of CEFZIL*, used in the
+treatment of respiratory infections, increased 22% to $52.  Sales of
+MAXIPIME*, a fourth generation injectable cephalosporin, were $23, an increase
+of 26% over the prior year.  Central nervous system drug sales increased 22%
+over the prior year, primarily as a result of BUSPAR*, an anti-anxiety agent,
+and SERZONE*, an anti-depressant, which recorded strong growth of 21% to $112
+and 38% to $40, respectively.  GLUCOPHAGE, an oral medication for treatment
+of non-insulin dependent diabetes, continued its strong growth rate with sales
+increasing 82% to $167.  The Company has sponsored a public awareness program
+that offers information to physicians and their patients on the proper
+
+
+
+
+* Indicates brand names of products which are registered trademarks owned by
+  the Company.
+
+                              -7-
+
+
+<PAGE>
+                  BRISTOL-MYERS SQUIBB COMPANY
+               MANAGEMENT'S DISCUSSION AND ANALYSIS
+         OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+             (in millions, except per share amounts)
+
+
+management of type 2 diabetes, a serious, under treated medical condition
+that afflicts more than 15 million Americans.  GLUCOPHAGE is the leading
+product in the United States for this indication.
+
+For the third quarter of 1996, sales of the pharmaceutical products segment
+increased 11% over the third quarter of 1995 to $2,152 as a result of
+increases in sales of PRAVACHOL*, TAXOL*, MONOPRIL*, SERZONE*, ZERIT*,
+VIDEX*, MAXIPIME*, and GLUCOPHAGE.  Sales growth resulted from a 13% increase
+in volume offset by a 2% decrease due to exchange rate fluctuations.  Changes
+in selling prices had no effect on sales growth.
+
+Sales of the nonprescription health products segment increased 8% over the
+third quarter of 1996 to $712, reflecting a 12% increase due to volume and
+a 4% decrease due to the effect of foreign exchange.  Selling prices had no
+effect on sales.  The Company's Mead Johnson subsidiary is the number one
+infant formula company in the world.  Total infant formula sales were $299 for
+the third quarter of 1997, a 2% increase over the prior year.  LACTOFREE*,
+NUTRAMIGEN* and ENFAPRO* infant formulas performed well, increasing 31%, 18%
+and 12%, respectively.  BOOST* and SUSTACAL* nutritional supplements also
+contributed to sales growth increasing 31% and 11%, respectively.  In July
+1997, the Company acquired CHOCO MILK*, Mexico's leading milk-based
+nutritional supplement.  Sales of EXCEDRIN* increased 10% to $55.  In July,
+an FDA advisory committee recommended the approval of EXCEDRIN* as an
+effective and appropriate over-the-counter treatment for the relief of
+migraine headache pain.  Analgesic product sales were further strengthened
+by EFFERALGAN* and ASPIRINE UPSA*, with increases of 24% to $32 and 23% to $9,
+respectively, excluding foreign exchange.  In March 1997, the Company acquired
+Sal de Uvas PICOT, a leading effervescent antacid product in Mexico.  KERI*
+skin care products contributed to growth, increasing 36% to $22.  VAGISTAT-1*,
+the first and only one-dose over-the-counter (OTC) medication for vaginal
+yeast infections, was launched in April and contributed sales of $6.  For the
+third quarter of 1996, the nonprescription health products segment sales
+increased 6% to $661, compared to the third quarter of 1995,  primarily due
+to increased sales of infant formulas.  The increase reflected a 10% increase
+due to volume, a 2% decrease due to exchange rate fluctuations and a 2%
+decrease due to changes in selling prices.
+
+Sales of the toiletries and beauty aids segment increased 13% over the third
+quarter of 1996, to $538, reflecting a 13% increase due to volume, a 1%
+increase due to changes in selling prices and a 1% decrease due to the effect
+of foreign exchange.  HERBAL ESSENCES* and INFUSIUM 23* complete lines of
+shampoos and conditioners experienced strong volume growth, increasing 198%
+to $107 and 15% to $23, respectively.  Sales of Clairol's NATURAL INSTINCTS*
+haircolor increased by 8% to $23.  CLAIROL HYDRIENCE*, a unique water-based
+permanent haircolor, launched in June 1996, grew 43% during the quarter to
+$27.  In September 1997, Clairol launched DAILY DEFENSE*, a complete line of
+shampoos and conditioners designed to purify and fortify hair to protect it
+from environmental and styling stresses.  Combining its success in hair care
+and haircolor, Clairol is the number one hair products company in the U.S.
+For the third quarter of 1996, sales of the toiletries and beauty aids segment
+were $476, an increase of 19% over the prior year, reflecting a 20% increase
+
+
+
+                              -8-
+
+
+<PAGE>
+                  BRISTOL-MYERS SQUIBB COMPANY
+              MANAGEMENT'S DISCUSSION AND ANALYSIS
+        OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+            (in millions, except per share amounts)
+
+due to volume, a 2% increase due to changes in selling prices and a 3%
+decrease due to foreign exchange.  This increase was primarily due to
+volume growth of haircoloring and hair care products.
+
+In the medical devices segment, sales of $444 were 3% below prior year
+levels (an increase of 5% excluding the effect of foreign exchange and a 1996
+disposition), reflecting an increase of 5% due to volume, a 5% decrease due to
+the effect of foreign exchange, and a 3% decrease due to changes in selling
+prices.  The Company's ConvaTec ostomy and modern wound care products, and
+Zimmer's knee and hip prosthetic joint replacements, continue to be world
+market share leaders.  ConvaTec's growth of 9%, excluding foreign exchange
+and the 1996 disposition, leads the medical devices segment as sales of wound
+care and ostomy products increased 18% and 5%, respectively, both excluding
+foreign exchange.  Zimmer sales decreased 1% from prior year levels.
+Excluding the effect of foreign exchange rate fluctuations, sales increased
+3%.  Total prosthetic implant sales increased 2% excluding foreign exchange,
+as knee prosthetic joint replacement sales increased 5% and hip replacement
+sales decreased 1%, both excluding foreign exchange.  Zimmer is restructuring
+to focus on its core businesses of orthopaedic implants and fracture fixation
+devices.  Accordingly, in July 1997, Zimmer announced the intention to divest
+its arthroscopy and surgical powered instruments businesses.  In September
+1997, Zimmer announced as part of its restructuring, a reduction of
+approximately 250 in its work force, which represents 10% of its domestic
+employment, as well as a restructuring of its European business.  For the
+third quarter of 1996, medical devices segment sales of $456 were at prior
+year levels.  Volume gains of 6% were offset by a 2% decrease due to exchange
+rate fluctuations and a 4% decrease due to changes in selling prices.
+
+Cost of Products Sold and Operating Expenses
+- --------------------------------------------
+
+Total costs and expenses for the quarter ended September 30, 1997, as a
+percentage of sales, decreased to 71.2% from 71.7%.  Cost of products sold
+decreased to 26.7% of sales from 26.8% in 1996 due to changes in product
+sales mix.  Expenditures for advertising and promotion in support of new and
+existing products increased 13% to $550 from $488 in 1996 and, as a percentage
+of sales, increased to 13.2% from 13.0% in 1996.  This increase is primarily
+due to increased spending on direct-to-consumer campaigns for several
+pharmaceutical products as well as incremental support of toiletries and
+beauty aids.  Marketing, selling, administrative and other expenses
+increased 11% to $949 on increased sales force spending to support high growth
+products and, as a percentage of sales, remained at 22.9%.  Research and
+development expenditures increased 3% to $346 from $336 in 1996.
+Pharmaceutical research and development spending increased 7% over the prior
+year, and as a percentage of pharmaceutical sales, was 12.3% compared to
+13.1% in the third quarter of 1996.
+
+Earnings
+- --------
+
+Earnings before income taxes for the third quarter increased 13% to $1,196
+from $1,060 in 1996.  The effective tax rate on earnings before income taxes
+decreased to 28.5% in 1997 from 29.0% in 1996, reflecting the benefit of
+
+
+                             - 9 -
+
+
+<PAGE>
+                  BRISTOL-MYERS SQUIBB COMPANY
+              MANAGEMENT'S DISCUSSION AND ANALYSIS
+        OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+            (in millions, except per share amounts)
+
+
+increased earnings in lower tax jurisdictions.  Net earnings increased 14%
+to $855 from $753 and earnings per share increased 15% to $.86 from $.75 in
+1996.  The growth in earnings per share exceeded the growth in net earnings
+by 1% as a result of the Company's share repurchase program.  (In accordance
+with Statement of Financial Accounting Standards No. 128, Earnings Per Share,
+diluted earnings per share for the quarter was $.84 in 1997 and $.74 in 1996.)
+
+
+Year-To-Date Results of Operations
+- ----------------------------------
+
+Sales
+- -----
+
+Worldwide sales for the first nine months of 1997 increased 10% (13% excluding
+the effect of foreign exchange) over the prior year to $12,260.  The
+consolidated sales growth resulted from a 13% increase due to volume and a 3%
+decrease due to the effect of foreign exchange.  Changes in selling prices had
+no effect on total sales growth.  Domestic sales increased 14% and
+international sales increased 6% (13% excluding the effect of foreign
+exchange).  Worldwide sales for the first nine months of 1996 increased 9%
+compared to the nine months of 1995.
+
+Industry Segments
+- -----------------                           Nine Months Ended September 30,
+                                      ---------------------------------------
+                                           Net Sales             % Change
+                                      --------------------   ----------------
+                                          1997        1996     1997      1996
+                                      --------    --------   ------    ------
+Pharmaceutical Products                 $7,253      $6,399     13 %      11 %
+Nonprescription Health Products          2,138       2,003      7 %      11 %
+Toiletries and Beauty Aids               1,535       1,348     14 %      13 %
+Medical Devices                          1,334       1,360     (2)%      (2)%
+                                      --------    --------
+Total Company                          $12,260     $11,110     10 %       9 %
+                                      ========    ========
+
+
+Pharmaceutical products segment sales were $7,253, an increase of 13% over the
+prior year, reflecting a 17% increase due to volume, a 4% decrease due to the
+effect of foreign exchange and no effect due to overall changes in selling
+prices.
+
+Domestic and international sales increased 22% and 4%, respectively.
+Excluding the unfavorable effect of foreign exchange, international sales
+increased 11% for the nine months.  Cardiovascular drug sales of $2,122
+increased 1% from the prior year (excluding the effect of foreign exchange,
+
+                                 -10-
+
+
+<PAGE>
+                  BRISTOL-MYERS SQUIBB COMPANY
+               MANAGEMENT'S DISCUSSION AND ANALYSIS
+         OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+             (in millions, except per share amounts)
+
+sales increased 5%).  Excluding the sales of CAPOTEN*, cardiovascular sales
+increased 20%.   PRAVACHOL* and MONOPRIL* sales grew 34% and 24%, respectively.
+Sales growth for these products was offset by a 28% decline in CAPOTEN* sales,
+due to the loss of its patent exclusivity in certain countries in Europe
+during the first quarter of 1997 and in the U.S. in February 1996.  Sales of
+anti-cancer drugs increased 27% to $1,789 due to strong sales of TAXOL* and
+PARAPLATIN*, up 13% and 17%, respectively, as well as OTN sales.  Anti-
+infective drug sales increased 20% to $1,598.  Strong gains were recorded for
+ZERIT* and VIDEX*, increasing 241% and 24%, respectively.  Sales of CEFZIL*
+and MAXIPIME* also had strong growth increasing 48% and 80%, respectively.
+Sales of central nervous system drugs continued to experience very good
+growth, increasing 22% to $686.  Sales of SERZONE* and BUSPAR* increased 62%
+and 15%, respectively. GLUCOPHAGE continued to have exceptionally strong
+growth, increasing 90% to $438.  For the first nine months of 1996, sales of
+the pharmaceutical products segment increased 11% over the prior year
+primarily as a result of increases in sales of PRAVACHOL*, MONOPRIL*,
+GLUCOPHAGE, anti-cancer and central nervous system drugs, offset by the
+decline in CAPOTEN* sales.
+
+In the nonprescription health products segment, sales increased 7% to $2,138,
+reflecting a 10% increase due to volume, a 3% decrease due to the effect of
+foreign exchange and no changes in selling prices.  Domestic sales increased
+4% and international sales increased 10% (16% excluding the effect of foreign
+exchange).  Nutritional product sales increased 6% for the nine months.
+Total infant formula sales increased 2% due to increased sales of  LACTOFREE*
+and ENFAPRO*, up 25% and 9%, respectively.   BOOST*, ALACTA NF* and SUSTACAL*
+also contributed to nutritional growth, increasing 42%, 29% and 13%,
+respectively. Sales of analgesics increased primarily due to the strong
+performance of the UPSA Group, driven by sales of EFFERALGAN* and ASPIRINE
+UPSA*, with increases of 24% and 31% excluding foreign exchange, respectively.
+KERI* skin care products increased 24% with strong growth domestically, and in
+Japan.  For the first nine months of 1996, nonprescription health products
+segment sales increased 11% over the prior year, primarily due to increased
+sales of infant formulas and analgesics.
+
+Sales of the toiletries and beauty aids segment increased 14% over the prior
+year, to $1,535 reflecting a 14% increase due to volume, a 1% increase in
+selling prices, and a 1% decrease due to the effect of foreign exchange.
+Domestic sales increased 10% while international sales increased 21%
+reflecting the launch of HERBAL ESSENCES* in several international markets.
+Sales of hair care products increased 32% due to strong market growth of the
+HERBAL ESSENCES* and INFUSIUM 23* complete lines of shampoos and conditioners,
+up 155% and 19%, respectively.  Haircoloring product sales increased 5%
+primarily due to sales of CLAIROL HYDRIENCE* and NATURAL INSTINCTS* with
+increases of 96% and 12%, respectively.  Sales of skin care products increased
+18% primarily due to strong volume growth in the Japanese marketplace of SEA
+BREEZE*, which increased 17% excluding foreign exchange.  For the first nine
+months of 1996, sales in the toiletries and beauty aids segment increased 13%
+over the prior year primarily due to increased sales of haircoloring and hair
+care products.
+
+
+
+                              -11-
+
+
+<PAGE>
+                  BRISTOL-MYERS SQUIBB COMPANY
+               MANAGEMENT'S DISCUSSION AND ANALYSIS
+         OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+             (in millions, except per share amounts)
+
+
+Sales of the medical devices segment decreased 2% from prior year levels, to
+$1,334 (an increase of 5% excluding the effect of foreign exchange and a 1996
+disposition), reflecting a 3% increase due to volume, a 1% decrease in
+selling prices, and a 4% decrease due to the effect of foreign exchange.
+Domestic sales decreased 5% and international sales increased 1% (9% excluding
+the effect of foreign exchange).  Sales of ostomy and wound care products from
+the Company's ConvaTec subsidiary increased 8% and 16% respectively,
+excluding foreign exchange.  Zimmer sales decreased 1% from prior year levels.
+Excluding the effect of foreign exchange rate fluctuations sales increased 2%.
+Knee prosthetic joint replacement sales increased 3% and hip replacement
+sales decreased 3%, both excluding foreign exchange.  For the first nine
+months of 1996, medical devices segment sales decreased 2% from the prior year
+as a result of sales declines in prosthetic implants and ostomy and wound care
+products.
+
+
+Cost of Products Sold and Other Operating Expenses
+- --------------------------------------------------
+
+Total costs and expenses for the nine months ended September 30, 1997 as a
+percentage of sales decreased to 72.6% from 73.0% for the same period of 1996.
+Cost of products sold increased to 26.8% of sales from 26.1% in 1996
+principally due to incremental OTN sales, which carry lower margins, partially
+offset by increased sales of higher margin promoted pharmaceutical products.
+Expenditures for advertising and promotion in support of new and existing
+products increased 14% to $1,604 compared to $1,401 in the prior year.  This
+increase is primarily due to increased spending on direct-to-consumer
+campaigns for several pharmaceutical products as well as incremental support
+of toiletries and beauty aids.  Marketing, selling, administrative and other
+expenses, as a percentage of sales, were 24.6% compared to 25.7% in 1996.
+Research and development expenditures increased 5% to $993 compared to $948
+in the prior year.  Pharmaceutical research and development spending increased
+9% over prior year levels, and as a percentage of pharmaceutical sales, was
+11.9% compared to 12.4% in 1996.
+
+Earnings
+- --------
+
+Earnings before income taxes for the nine months increased 12% to $3,361 from
+$3,005 in 1996.  The effective tax rate on earnings before income taxes
+decreased to 28.5% in 1997 from 29.0% in 1996 reflecting the benefit of
+increased earnings in lower tax jurisdictions.  Net earnings increased 13% to
+$2,403 from $2,134 in 1996.   Earnings per share increased 14% to $2.41 from
+$2.12 in 1996.  The growth in earnings per share exceeded the growth in net
+earnings by 1% as a result of the Company's share repurchase program. (In
+accordance with Statement of Financial Accounting Standards No. 128,
+Earnings Per Share, diluted earnings per share for the nine months was $2.36
+in 1997 and $2.10 in 1996).
+
+
+
+
+
+                              -12-
+
+
+<PAGE>
+                  BRISTOL-MYERS SQUIBB COMPANY
+               MANAGEMENT'S DISCUSSION AND ANALYSIS
+         OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+             (in millions, except per share amounts)
+
+
+Financial Position
+- ------------------
+
+The balance sheet at September 30, 1997 and the statement of cash flows for
+the nine months then ended reflect the Company's strong financial position.
+The Company continues to maintain a high level of working capital totaling
+$2.9 billion at September 30, 1997.
+
+Internally generated funds continue to be the Company's primary source for
+financing expenditures for new plant and equipment.  Additions to fixed assets
+for the nine months ended September 30, 1997 were $438 compared to $388 during
+the same period of 1996.
+
+During the nine months ended September 30, 1997, the Company purchased 14.6
+million shares of its common stock at a total cost of $971.
+
+During August 1997, the Company issued $300 million principal amount of
+6.875% Debentures due August 1, 2097.
+
+Reference is made to Part II, Item 1 - Legal Proceedings in which developments
+are described for various lawsuits, claims and proceedings in which the
+Company is involved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             - 13 -
+
+
+
+<PAGE>
+                  BRISTOL-MYERS SQUIBB COMPANY
+                   PART II - OTHER INFORMATION
+                 -------------------------------
+
+Item 1.  Legal Proceedings
+- --------------------------
+
+Various lawsuits, claims and proceedings of a nature considered normal to its
+business are pending against the Company and certain of its subsidiaries.  The
+most significant of these are reported in the Company's Annual Report on Form
+10-K for the fiscal year ended December 31, 1996, and material developments in
+such matters are described in the Company's Quarterly Reports on Form 10-Q for
+the quarters ended March 30, 1997 and June 30, 1997, and below.
+
+Breast Implant Litigation
+- -------------------------
+
+As previously reported in the Company's Form 10-K and its Forms 10-Q referred
+to above, the Company, together with its subsidiary, Medical Engineering
+Corporation (MEC) and certain other companies, has been named as a defendant
+in a number of claims and lawsuits alleging damages for personal injuries of
+various types resulting from smooth walled breast implants and polyurethane
+covered breast implants formerly manufactured by MEC or its predecessors.  As
+of September 30, 1997, approximately 22,000 persons were plaintiffs in pending
+lawsuits filed in federal and state courts in the United States and in certain
+courts in Canada and Australia.  Other manufacturers of breast implants, as
+well as suppliers of component parts and other parties, are also defendants in
+the majority of these cases.  A significant number of these plaintiffs have
+accepted the Revised Settlement, approved by the Honorable Sam C. Pointer,
+Jr., Chief Judge of the United States District Court for the Northern District
+of Alabama (discussed below), and their claims are expected to be dismissed.
+Only those suits filed by plaintiffs who have opted out of the Revised
+Settlement may proceed.  Appeals related to the Revised Settlement are
+pending.
+
+In early 1996, notices describing the Revised Settlement were mailed to breast
+implant recipients, including the approximately 380,000 domestic class members
+(with implants of all manufacturers, not just MEC, Baxter and 3M) who
+originally registered with the settlement.  The claims office has reported
+that by early July 1997, substantially all domestic registrants had been sent
+Notification of Status letters advising them of their status in the
+settlement.  About 102,000 of these registrants had submitted proof of
+manufacturer documentation, which has enabled the claims office to determine
+whether they have a breast implant of MEC, Baxter, 3M or McGhan Medical
+Corporation.  As of September 23, 1997, over 76,000 of the registrants who
+submitted proof of manufacturer documentation established to the satisfaction
+of the claims office that they have an implant of MEC, Baxter or 3M and have
+chosen to participate in the settlement.  Over 40,000 of these women have at
+least one implant manufactured by MEC or a related company.
+
+The claims office reports that the opt-out period has ended for over
+ninety-nine percent of the 380,000 persons who registered with the settlement.
+As of August 29, 1997, approximately 44,700 of the original 380,000 domestic
+registrants (with implants of all manufacturers) had opted out.  Because the
+opt-out period is essentially over, the number of opt-outs is not expected to
+increase materially.
+
+
+
+                             - 14 -
+
+
+<PAGE>
+                   BRISTOL-MYERS SQUIBB COMPANY
+                   PART II - OTHER INFORMATION
+               -----------------------------------
+
+
+The claims office reports that about 6,300 of the 44,700 opt-outs have proved
+to the satisfaction of the claims office that they have or had a breast
+implant manufactured by MEC or a related company, and another approximately
+8,000 opt-outs have indicated their belief (but have not proved) that they
+have or had an MEC breast implant.  The Company has identified approximately
+10,500 of the 44,700 opt-outs as plaintiffs in pending lawsuits against it.
+An as yet undetermined number of these 10,500 plaintiffs do not have MEC
+implants and their claims against the Company are expected to be dismissed.
+An additional 1,925 claims based upon MEC implants remain from among the
+domestic class members who previously opted out of the settlement originally
+approved in 1994.  Because of continuing uncertainties, it is still not
+possible to predict on any precise basis the total number of women with MEC
+implants who will pursue lawsuits against the Company.  However, based on the
+information set forth above and on related estimates, the Company continues
+to believe that previously established reserves should be adequate to address
+this litigation.
+
+
+Infant Formula Matters
+- ----------------------
+
+As previously reported in the Company's Form 10-K and its Forms 10-Q referred
+to above, the Company, one of its subsidiaries, and others are or have been
+defendants in a number of antitrust actions in various states filed on behalf
+of purported statewide classes of indirect purchasers of infant formula
+products and by the Attorneys General of Louisiana, Minnesota and Mississippi,
+alleging a price fixing conspiracy and other violations of state antitrust or
+deceptive trade practice laws and seeking penalties and other relief.  The
+Company has previously reported reaching settlements and receiving final court
+approval in the majority of these cases.  The only open cases are in
+Massachusetts (final approval pending), and Missouri (motion to dismiss
+pending).  On November 6, 1997, the court in Louisiana dismissed the
+plaintiffs' case.  An appeal is possible.
+
+
+Pharmaceutical Pricing Litigation
+- ---------------------------------
+
+As previously reported in the Company's Form 10-K and its Forms 10-Q referred
+to above, the Company is a defendant in numerous antitrust actions brought by
+retailers and purported consumer classes against the Company and other
+pharmaceutical manufacturers, drug wholesalers and pharmacy benefit managers.
+Most of the retailer cases have been coordinated for pretrial purposes in the
+United States District Court for the Northern District of Illinois.
+
+On August 15, 1997, the United States Court of Appeals for the Seventh Circuit
+reversed a ruling of the District Court that had denied a motion made by the
+manufacturer defendants, including the Company, for summary judgment
+dismissing the overcharge damage claims of the retailer plaintiffs based on
+purchases of drugs from wholesalers.   Because the Court of Appeals reversed
+
+
+
+                             - 15 -
+
+<PAGE>
+
+                   BRISTOL-MYERS SQUIBB COMPANY
+                   PART II - OTHER INFORMATION
+                 -------------------------------
+
+
+summary judgments that had been granted in the class action to the wholesaler
+defendants, it stated further that the retailers might be able  to recover
+such overcharge damages based on indirect purchases if, among other things,
+they could demonstrate that the wholesaler defendants participated in the
+alleged price fixing conspiracy.  The retailer plaintiffs who opted out of
+the class action have subsequently sought leave from the District Court to
+add the wholesalers as defendants in their actions.  The Court of Appeals
+also reversed the District Court denial of plaintiff's motion to remand to
+Alabama state court in Huggins, a purported multi-state consumer class action.
+The manufacturer defendants have filed a petition for certiorari with respect
+to this ruling in the United States Supreme Court.  The Court of Appeals also
+denied the petitions for en banc review of the ruling dismissing the appeals
+of certain retail pharmacy class members that had challenged the District
+Court's approval of the amended class settlement.  The settlements of the
+retailer cases pending in Wisconsin and Minnesota state courts are being
+documented.  In the Mississippi retailer case, the defendants' motion to
+dismiss has been granted in part.  The Company has received and responded to
+an additional subpoena and civil investigative demand from the Federal Trade
+Commission in its investigation concerning practices of U.S. pharmaceutical
+manufacturers.  The Court in the California retailer and consumer cases has
+set a November 16, 1998 trial date.  Class certification has been denied in
+the Michigan and Maine consumer cases.  In the Wisconsin consumer case, the
+court has denied the defendants' motion to dismiss, but has required the
+plaintiffs to replead.
+
+
+Item 6.  Exhibits and Reports on Form 8-K
+- ------------------------------------------
+
+(a) Exhibits (listed by number corresponding to the Exhibit Table of Item 601
+    in Regulation S-K).
+
+Exhibit Number and Description
+- -------------------------------
+
+4f.  Form of 6.875% Debenture Due 2097 of Bristol-Myers Squibb Company.
+
+27.  Bristol-Myers Squibb Company Financial Data Schedule.
+
+(b)   Reports on Form 8-K.
+
+The Registrant did not file any reports on Form 8-K during the quarter ended
+September 30, 1997.
+
+
+
+
+
+
+
+
+                             - 16 -
+
+
+<PAGE>
+
+                   BRISTOL-MYERS SQUIBB COMPANY
+
+
+                            SIGNATURES
+                       -------------------
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+
+
+                                       BRISTOL-MYERS SQUIBB COMPANY
+                                       -------------------------------
+                                                          (Registrant)
+
+
+
+
+
+Date:     November 14, 1997       /s/ Harrison M. Bains, Jr.
+                                  -----------------------------
+                                  Harrison M. Bains, Jr.
+                                  Vice President and Treasurer
+
+
+
+
+
+
+Date:     November 14, 1997       /s/ Frederick S. Schiff
+                                  -----------------------------
+                                  Frederick S. Schiff
+                                  Vice President and Controller
+
+
+
+
+                             - 17 -<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4
+<SEQUENCE>2
+<DESCRIPTION>FORM OF 6.875% DEBENTURE DUE 2097 OF BRISTOL-MYERS SQUIBB
+                 COMPANY.
+<TEXT>
+
+
+
+
+
+
+                                                          FORM
+Unless this certificate is presented by an authorized representative of The
+Depository Trust Company, a New York corporation ("DTC"), to the issuer or
+its agent for registration of transfer, exchange, or payment, and any
+certificate issued is registered in the name of Cede & Co. or in such other
+name as is requested by an authorized representative of DTC (and any
+payment is made to Cede & Co. or to such other entity as is requested by an
+authorized representative of DTC), ANY TRANSFER, PLEDGE, OR OTHER USE HEREOF
+FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL inasmuch as the
+registered owner hereof, Cede & Co., has an interest herein.
+
+
+                  BRISTOL-MYERS SQUIBB COMPANY
+              6.875% Debenture due August 1, 2097
+
+REGISTERED                                  CUSIP
+
+No.
+
+
+BRISTOL-MYERS SQUIBB COMPANY, a corporation duly organized and existing under
+the laws of the State of Delaware (herein called the "Company", which term
+includes any successor under the Indenture hereinafter referred to), for value
+received, hereby promises to pay to CEDE & CO., or registered assigns, the
+principal sum of $300,000,000 at the office or agency of the Company in New
+York, New York designated for such purpose by the Company (on the date hereof,
+the principal corporate Trust Office of the Trustee mentioned below, located
+at 450 West 33rd Street, 15th Floor, New York, New York 10001), in such coin
+or currency of the United States of America as at the time of payment shall
+be legal tender for the payment of public and private debts, and to pay
+interest on said principal sum semiannually on February 1 and August 1 of each
+year, commencing February 1, 1998, at said office or agency (except as
+provided below), in like coin or currency, at the rate per annum specified in
+the title hereof, such interest to accrue from August 1, 1997, until payment
+of said principal sum has been made or duly provided for.  The interest so
+payable, and punctually paid or duly provided for, on any February 1 or August
+1 will, except as provided in the Indenture dated as of June 1, 1993 (herein
+called the "Indenture"; capitalized terms used and not defined herein shall
+have the meaning ascribed to such terms in the Indenture), duly executed and
+delivered by the Company to The Chase Manhattan Bank, as trustee (herein
+called the "Trustee"), be paid to the Person in whose name this Debenture
+(or one or more Predecessor Securities) is registered at the close of business
+on the next preceding January 15 or July 15, respectively (herein called the
+"Regular Record Date"), whether or not a Business Day, and may, at the option
+of the Company, be paid by check mailed to the registered address of such
+Person.  Any such interest which is payable, but is not so punctually paid or
+duly provided for, shall forthwith cease to be payable to the registered
+Holder on such Regular Record Date and may be paid either to the Person in
+whose name this Debenture (or one or more Predecessor Securities) is
+registered at the close of business on a Special Record Date for the payment
+of such Defaulted Interest to be fixed by the Trustee, notice whereof shall
+
+                                 E-4-1
+<PAGE>
+
+be given to Holders Debentures not less than 10 days prior to such Special
+Record Date, or may be paid at any time in any other lawful manner not
+inconsistent with the requirements of any securities exchange on which the
+Debentures may be listed and upon such notice as may be required by such
+exchange, such manner of payment shall be deemed practical by the Trustee,
+all as more fully provided in the Indenture.
+
+Initially, the Trustee will be the Paying Agent and the Security Registrar
+with respect to this Debenture.  The Company reserves the right at any time
+to vary or terminate the appointment of any Paying Agent or Security
+Registrar, to appoint additional or other Paying Agents and other Security
+Registrars and to approve any change in the office through which any Paying
+Agent or Security Registrar acts; provided that there will at all times be a
+Paying Agent in The City of New York.
+
+This Debenture is one of the duly authorized issue of debt securities
+(hereinafter called the "Securities") of the Company, of the series
+hereinafter specified, all issued or to be issued under and pursuant to the
+Indenture, to which Indenture and all other indentures supplemental thereto
+reference is hereby made for a statement of the rights and limitations of
+rights, obligations, duties and immunities thereunder of the Trustee and any
+agent of the Trustee, any Paying Agent, the Company and the Holders of the
+Securities and the terms upon which the Securities are issued and are to be
+authenticated and delivered.
+
+The Securities may be issued in one or more series, which different series
+may be issued in various aggregate principal amounts, may mature at different
+times, may bear interest (if any) at different rates, may be subject to
+different redemption provisions (if any), may be subject to different sinking,
+purchase or analogous funds (if any), may be subject to different covenants
+and Events of Default and may otherwise vary as provided or permitted in the
+Indenture.  This Debenture is one of the series of Securities of the Company
+issued pursuant to the Indenture designated as the 6.875% Debentures due
+August 1, 2097 (herein called the "Debentures"), limited in aggregate
+principal amount to $300,000,000.
+
+The Debentures will be redeemable as a whole or in part, at the option of the
+Company at any time, at a redemption price equal to the greater of (i) 100%
+of the principal amount of such Debentures and (ii) the sum of the present
+values of the remaining scheduled payments of principal and interest thereon
+discounted to the redemption date on a semiannual basis (assuming a 360-day
+year consisting of twelve 30-day months) at the Treasury Rate (as defined
+below) plus 15 basis points, plus in each case, accrued interest thereon to
+the date of redemption.
+
+"Treasury Rate" means, with respect to any redemption date, the rate per annum
+equal to the semiannual equivalent yield to maturity of the Comparable
+Treasury Issue, assuming a price for the Comparable Treasury Issue (expressed
+as a percentage of its principal amount) equal to the Comparable Treasury
+Price for such redemption date.
+
+"Comparable Treasury Issue" means the United States Treasury security
+selected by a Quotation Agent as having a maturity comparable to the remaining
+term of the Debentures to be redeemed that would be utilized, at the time of
+selection and in accordance with customary financial practice, in pricing new
+issues of corporate debt securities of comparable maturity to the remaining
+term of such Debentures. "Quotation Agent" means one of the Reference Treasury
+Dealers appointed by the Trustee after consultation with the Company.
+
+"Comparable Treasury Price" means, with respect to any redemption date, (i)
+the average of the bid and asked prices for the Comparable Treasury Issue
+
+
+
+                                 E-4-2
+<PAGE>
+
+(expressed in each case as a percentage of its principal amount) on the third
+business day preceding such redemption date, as set forth in the daily
+statistical release (or any successor release) published by the Federal
+Reserve Bank of New York and designated "Composite 3:30 p.m. Quotations
+for U.S. Government Securities" or (ii) if such release (or any successor
+release) is not published or does not contain such prices on such business
+day, (A) the average of the Reference Treasury Dealer Quotations for such
+redemption date, after excluding the highest and lowest such Reference
+Treasury Dealer Quotations, or (B) if the Trustee obtains fewer than three
+such Reference Treasury Dealer Quotations, the average of all such Quotations.
+"Reference Treasury Dealer Quotations" means, with respect to each Reference
+Treasury Dealer and any redemption date, the average, as determined by the
+Trustee, of the bid and asked prices for the Comparable Treasury Issue
+(expressed in each case as a percentage of its principal amount) quoted in
+writing to the Trustee by such Treasury Reference Dealer at 5:00 p.m. on the
+third business day preceding such redemption date.
+
+"Reference Treasury Dealer" means (i) Goldman, Sachs & Co. and their
+successors; provided, however, that if any of the foregoing shall cease to be
+a primary U.S. Government securities dealer in New York City (a "Primary
+Treasury Dealer"), the Company shall substitute therefor another Primary
+Treasury Dealer; and (ii) any other Primary Treasury Dealer selected by the
+Trustee after consultation with the Company.
+
+Notice of any redemption will be mailed at least 30 days but not more than 60
+days before the redemption date to each holder of the Debentures to be
+redeemed.
+
+Unless the Company defaults in payment of the redemption price, on and after
+the redemption date interest will cease to accrue on the Debentures or
+portions thereof called for redemption.
+
+Upon the occurrence of a Tax Event (as defined below), the Company, without
+the consent of the holders of the Debentures, will have the right, but not
+the obligation, to shorten the maturity of the Debentures to the minimum
+extent required, in the opinion of nationally recognized independent tax
+counsel, so that, after the shortening of the maturity, interest paid on the
+Debentures will be deductible by the Company for United States federal income
+tax purposes or, if such counsel is unable to opine definitively as to such
+a minimum period, the minimum extent so required as determined in good faith
+by the Board of Directors of the Company after receipt of an opinion of such
+counsel regarding the applicable legal standards.
+
+In the event that the Company elects to exercise its right to shorten the
+maturity of the Debentures on the occurrence of a Tax Event, the Company
+will mail a notice of shortened maturity to each Holder of the Debentures by
+first-class mail not more than 60 days after the occurrence of such Tax Event,
+ stating the new maturity date of the Debentures. Such notice shall be
+effective immediately upon mailing.
+
+"Tax Event" means that the Company shall have received an opinion of
+nationally recognized independent tax counsel to the effect that, as a result
+of (a) any amendment to, clarification of, or change (including any announced
+prospective amendment, clarification or change) in any law, or any regulation
+thereunder, of the United States, (b) any judicial decision, official
+administrative pronouncement, ruling, regulatory procedure, regulation, notice
+or announcement, including any notice or announcement of intent to adopt or
+promulgate any ruling, regulatory procedure or regulation (any of the
+foregoing, an "Administrative or Judicial Action"), or (c) any amendment to,
+clarification of or change in any official position with respect to, or any
+
+                                 E-4-3
+<PAGE>
+
+interpretation of, any Administrative or Judicial Action or a law or
+regulation of the United States that differs from the theretofore generally
+accepted position or interpretation, in each case, occurring on or after
+August 12, 1997, there is more than insubstantial risk that interest paid by
+the Company on the Debentures is not, or will not be, deductible, in whole or
+in part, by the Company for United States federal income tax purposes.
+
+The Debentures will not be entitled to the benefit of a sinking fund.
+
+If an Event of Default with respect to the Debentures shall occur and be
+continuing, the principal of all of the Debentures may be declared due and
+payable in the manner, with the effect and subject to the conditions provided
+in the Indenture.
+
+The Indenture permits, with certain exceptions as therein provided, the
+Company and the Trustee to enter into supplemental indentures to the
+Indenture for the purpose of adding any provisions to or changing in any
+manner or eliminating any of the provisions of the Indenture or of modifying
+in any manner the rights of the Holders of the Securities of each series
+under the Indenture with the consent of the Holders of not less than a
+majority in principal amount of the Securities at the time Outstanding of
+each series to be affected thereby on behalf of the Holders of all
+Securities of such series.  The Indenture also permits the Holders of a
+majority in principal amount of the Securities at the time Outstanding of
+each series on behalf of the Holders of all Securities of such series, to
+waive compliance by the Company with certain provisions of the Indenture and
+certain past defaults and their consequences with respect to such series under
+the Indenture.  Any such consent or waiver by the Holder of this Debenture
+shall be conclusive and binding upon such Holder and upon all future Holders
+of this Debenture and of any Debenture issued upon the registration of
+transfer hereof or in exchange hereof or in lieu hereof, whether or not
+notation of such consent or waiver is made upon this Debenture or such other
+Debentures.
+
+No reference herein to the Indenture and no provision of this Debenture or of
+the Indenture shall alter or impair the obligation of the Company, which is
+absolute and unconditional, to pay the principal of, and any premium and any
+interest on this Debenture at the place, rate and respective times and in the
+coin or currency herein and in the Indenture prescribed.
+
+As provided in the Indenture and subject to the satisfaction of certain
+conditions therein set forth, including the deposit of certain trust funds in
+trust, at the Company's option, either the Company shall be deemed to have
+paid and discharged the entire indebtedness represented by, and the
+obligations under, the Securities of any series and to have satisfied all the
+obligations (with certain exceptions) under the Indenture relating to the
+Securities of such series or the Company shall cease to be under any
+obligation to comply with any term, provision or condition of certain
+restrictive covenants or provisions with respect to the Securities of such
+series.
+
+The Debentures are issuable in registered form without coupons in
+denominations of $1,000 and any integral multiple of $1,000.  Debentures may
+be exchanged for a like aggregate principal amount and Stated Maturity of
+Debentures of other authorized denominations at the office or agency of the
+Company in New York, New York, designated for such purpose by the Company (on
+the date hereof, the principal Corporate Trust Office of the Trustee, located
+at 450 West 33rd Street, 15th Floor, New York, New York 10001), and in the
+manner and subject to the limitations provided in the Indenture.
+
+Upon due presentment for registration of transfer of this Debenture at the
+office or agency of the Company in New York, New  York, designated for such
+purpose by the Company (on the date hereof, the principal Corporate Trust
+
+                                 E-4-4
+<PAGE>
+
+Office of the Trustee, located at 450 West 33rd Street, 15th Floor, New York,
+New York 10001), duly endorsed or accompanied by a written instrument of
+transfer in form satisfactory to the Company, the Trustee and the Security
+Registrar duly executed by the Holder thereof or his attorney duly authorized
+in writing, a new Debenture or Debentures of authorized denominations for a
+like aggregate principal amount and Stated Maturity will be issued to the
+transferee in exchange therefor, subject to the limitations provided in the
+Indenture.
+
+No charge shall be made for any such transfer or exchange, but the Company
+may require payment of a sum sufficient to cover any tax or other governmental
+charge imposed in connection therewith.
+
+Prior to due presentment for registration of transfer of this Debenture, the
+Company, the Trustee and any agency Of the Company or the Trustee may treat
+the Person in whose name this Debenture is registered as the owner hereof for
+all purposes, whether or not this Debenture is overdue, and neither the
+Company, the Trustee nor any such agent shall be affected by notice to the
+contrary.
+
+This Debenture shall be construed in accordance with and governed by the laws
+of the State of New York.
+
+Unless the certificate of authentication hereon has been manually executed by
+or on behalf of the Trustee under the Indenture, this Debenture shall not be
+entitled any benefits under the Indenture, or be valid or obligatory for any
+purpose.
+
+
+IN WITNESS WHEREOF, BRISTOL-MYERS SQUIBB COMPANY has caused this Debenture
+to be duly executed under its corporate seal.
+
+
+Dated:                                       BRISTOL-MYERS SQUIBB COMPANY,
+
+                                       by
+                                       --------------------------------------
+                                       Name:
+                                       Title:
+
+
+
+[Seal]
+
+Attest:
+
+
+- --------------------------------
+Name:
+Title:
+
+
+                                  E-4-5
+
+<PAGE>
+
+                 TRUSTEE'S CERTIFICATE OF AUTHENTICATION
+
+This is one of the Securities of the series designated herein referred to in
+the within-mentioned Indenture.
+
+
+
+                                  THE CHASE MANHATTAN BANK,
+                                  as Trustee,
+
+
+                                  by
+
+                                  ----------------------------------------
+                                  Authorized Officer
+
+
+
+
+
+                                  E-4-6
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 27 (FDS) FILED WITH FORM 10-Q - 9/30/97
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>                                                 5
+<LEGEND>
+Exhibit 27 for Bristol-Myers Squibb Company for the period ended 9/30/97
+</LEGEND>
+<MULTIPLIER>                                            1000000
+       
+<S>                                                  <C>
+<PERIOD-TYPE>                                        9-Mos
+<FISCAL-YEAR-END>                                    Dec-31-1997<F1>
+<PERIOD-END>                                         Sep-30-1997
+<CASH>                                                      1664
+<SECURITIES>                                                 304
+<RECEIVABLES>                                               2806<F2>
+<ALLOWANCES>                                                   0
+<INVENTORY>                                                 1819
+<CURRENT-ASSETS>                                            7657
+<PP&E>                                                      6785
+<DEPRECIATION>                                              2791
+<TOTAL-ASSETS>                                             14718
+<CURRENT-LIABILITIES>                                       4708
+<BONDS>                                                     1265
+<PREFERRED-MANDATORY>                                          0
+<PREFERRED>                                                    0
+<COMMON>                                                     108
+<OTHER-SE>                                                  6819
+<TOTAL-LIABILITY-AND-EQUITY>                               14718
+<SALES>                                                    12260
+<TOTAL-REVENUES>                                           12260
+<CGS>                                                       3285
+<TOTAL-COSTS>                                               3285
+<OTHER-EXPENSES>                                            2597
+<LOSS-PROVISION>                                               0
+<INTEREST-EXPENSE>                                            78
+<INCOME-PRETAX>                                             3361
+<INCOME-TAX>                                                 958
+<INCOME-CONTINUING>                                         2403
+<DISCONTINUED>                                                 0
+<EXTRAORDINARY>                                                0
+<CHANGES>                                                      0
+<NET-INCOME>                                                2403
+<EPS-PRIMARY>                                               2.41
+<EPS-DILUTED>                                                  0
+<FN>
+<F1>Items reported as "zero" are not applicable or are immaterial to the
+    consolidated financial position of the Company.
+<F2>Receivables are reported net of allowances for doubtful accounts.
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

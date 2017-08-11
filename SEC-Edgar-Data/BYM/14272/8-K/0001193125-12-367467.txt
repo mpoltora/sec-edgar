@@ -1,0 +1,607 @@
+<SEC-DOCUMENT>0001193125-12-367467.txt : 20120824
+<SEC-HEADER>0001193125-12-367467.hdr.sgml : 20120824
+<ACCEPTANCE-DATETIME>20120824074024
+ACCESSION NUMBER:		0001193125-12-367467
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20120823
+ITEM INFORMATION:		Material Impairments
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20120824
+DATE AS OF CHANGE:		20120824
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		121053172
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d402287d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:4px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM 8-K
+</B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="4"><B>CURRENT REPORT </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>Pursuant to Section&nbsp;13 OR 15(d) of </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>The Securities Exchange Act Of
+1934 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Date of Report (Date of earliest event reported): August&nbsp;23, 2012 </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>BRISTOL-MYERS SQUIBB COMPANY </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>(Exact Name of Registrant as Specified in its Charter) </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>1-1136</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>22-079-0350</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(State or Other Jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>of Incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Commission</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>File Number)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>Identification Number)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>345 Park Avenue </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>New York, NY, 10154 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Address of Principal Executive Office)
+</B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Registrant&#146;s telephone number, including area code: (212)&nbsp;546-4000 </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (<I>see </I>General Instruction A.2. below): </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;2.06. Material Impairments. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">On August&nbsp;23, 2012 Bristol-Myers Squibb Company (the &#147;Company&#148;) issued a press release announcing that it has discontinued development of BMS-986094 (formerly known as INX-189), a
+nucleotide polymerase (NS5B) inhibitor that was in Phase II development for the treatment of hepatitis C. The decision was made in the interest of patient safety, based on a rapid, thorough and ongoing assessment of patients in a Phase II study that
+the Company voluntarily suspended on August&nbsp;1, 2012. The Company acquired BMS-986094 when it completed its acquisition of Inhibitex, Inc. in February 2012. As a result of the termination of this development program, the Company has concluded
+that a non-cash, pre-tax impairment charge of $1.8 billion related to the in-process research and development intangible asset is required. This charge will be recognized in the third quarter of 2012. The Company does not expect that the impairment
+charge will result in future cash expenditures. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">A copy of the press release is filed as Exhibit 99.1 to this report. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;9.01. Financial Statements and Exhibits. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>(d) Exhibits. </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="96%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Press release of Bristol-Myers Squibb Company dated August&nbsp;23, 2012.</FONT></TD></TR>
+</TABLE></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="45%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">BRISTOL-MYERS SQUIBB COMPANY</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dated: August 24, 2012</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Sandra Leung</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sandra Leung</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">General Counsel and Corporate Secretary</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000;width:25pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>No.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:39pt"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+
+
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Press release of Bristol-Myers Squibb Company dated August 23, 2012.</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d402287dex991.htm
+<DESCRIPTION>PRESS RELEASE OF BRISTOL-MYERS SQUIBB COMPANY DATED AUGUST 23, 2012
+<TEXT>
+<HTML><HEAD>
+<TITLE>Press release of Bristol-Myers Squibb Company dated August 23, 2012</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px">
+
+
+<IMG SRC="g402287g05s24.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Bristol-Myers Squibb Discontinues Development of BMS-986094, an Investigational NS5B Nucleotide for
+the Treatment of Hepatitis C </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><I>Company will share BMS-986094 data with other companies developing similar hepatitis C
+drugs to inform patient safety measures </I></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(Princeton, NJ, August&nbsp;23, 2012) - <U>Bristol-Myers Squibb Company</U>
+(NYSE: BMY) announced today that the Company has discontinued development of BMS-986094 (formerly known as INX-189), a nucleotide polymerase (NS5B) inhibitor that was in Phase II development for the treatment of hepatitis C. This decision was made
+in the interest of patient safety, based on a rapid, thorough and ongoing assessment of patients in a Phase II study that the Company voluntarily suspended on August&nbsp;1, 2012. The U.S. Food and Drug Administration (FDA) subsequently placed the
+compound on clinical hold. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The initial case of heart failure, which was the basis for halting the study, subsequently
+resulted in death. The Company is working in close collaboration with the FDA and clinical study investigators to conduct ongoing, comprehensive assessments and close follow-up of all BMS-986094 study patients. To date, nine patients have been
+hospitalized, including the initial patient; two patients remain hospitalized. While the cause of these unexpected events, which involve heart and kidney toxicity, has not been definitively established, the Company has determined that it is in the
+best interest of patients to halt development of BMS-986094. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;The decision to halt development of BMS-986094 has been
+guided by our overriding interest in protecting patients,&#148; said <U>Elliott Sigal, M.D., Ph.D.</U>, Executive Vice President and Chief Scientific Officer, Bristol-Myers Squibb. &#147;In&nbsp;the interest of all patients participating in
+hepatitis C clinical studies, and in cooperation with the FDA, we will make relevant information on BMS-986094 available to inform the development of other investigational compounds to treat hepatitis C. We will also work expeditiously to share the
+results of our further investigations more broadly in the medical and scientific community.&#148; </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bristol-Myers Squibb is committed to investigating this safety issue further, including
+studies to evaluate the potential mechanism of this toxicity. The Company will continue close monitoring and follow-up of patients who have received BMS-986094 across all studies. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>About Bristol-Myers Squibb </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bristol-Myers Squibb is a global
+biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail over serious diseases. For more information about Bristol-Myers Squibb, visit <U>www.bms.com</U> or follow us on Twitter at
+<U>http://twitter.com/bmsnews</U>. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"># # # </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Media:</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sonia Choi, 609-252-5132, <U>sonia.choi@bms.com</U> or Cristi Barnett, 609-252-6028, <U>cristi.barnett@bms.com</U></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Investors:</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">John Elicker, 609-252-4611, <U>john.elicker@bms.com</U> or Timothy Power, 609-252-7509, <U>timothy.power@bms.com</U></FONT></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g402287g05s24.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g402287g05s24.jpg
+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
+7@Z]/?K37+7FO-+1HTM&C2T:-+1HU_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

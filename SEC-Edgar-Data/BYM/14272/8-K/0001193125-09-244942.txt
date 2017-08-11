@@ -1,0 +1,619 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GdJsk/lS6F+jk0qBMDjc2lSqKKpoSfN2UUKIxQQE0iL/VxaKk7yBw2lCkhXu5e3d
+ 9dUGpoAYv60Pbm1mxGXuiA==
+
+<SEC-DOCUMENT>0001193125-09-244942.txt : 20091201
+<SEC-HEADER>0001193125-09-244942.hdr.sgml : 20091201
+<ACCEPTANCE-DATETIME>20091201150226
+ACCESSION NUMBER:		0001193125-09-244942
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20091125
+ITEM INFORMATION:		Temporary Suspension of Trading Under Registrant's Employee Benefit Plans
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20091201
+DATE AS OF CHANGE:		20091201
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		091214644
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P
+STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P
+STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM 8-K </B>
+</FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P
+STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman"
+SIZE="3"><B>Pursuant to Section&nbsp;13 or 15(d) of The Securities Exchange Act of 1934 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Date of Report (Date of
+earliest event reported): November&nbsp;25, 2009 </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P
+STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="6"><B>BRISTOL-MYERS
+SQUIBB COMPANY </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Exact Name of Registrant as Specified in its Charter) </B></FONT></P> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>1-1136</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>22-079-0350</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(State or Other&nbsp;Jurisdiction</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"
+ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>of Incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="1"><B>Identification Number)</B></FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>345 Park Avenue </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>New York, NY, 10154 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Address of Principal Executive
+Office) </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Registrant&#146;s telephone number, including area code: (212)&nbsp;546-4000 </B></FONT></P> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (<I> see</I> General Instruction A.2. below): </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:3px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P
+STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;5.04.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Temporary Suspension of Trading Under Registrant&#146;s Employee Benefit Plans. </B></FONT></TD></TR></TABLE> <P
+STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">On November&nbsp;30, 2009, Bristol-Myers Squibb Company (&#147;BMS&#148;) sent a notice (the &#147;Blackout Notice&#148;) to its directors
+and executive officers informing them that, in connection with BMS&#146;s anticipated offer to exchange 170.0&nbsp;million shares of class A common stock of Mead Johnson Nutrition Company that it owns for shares of BMS common stock (&#147;BMS
+Shares&#148;), pursuant to the Prospectus, dated November&nbsp;16, 2009, a blackout period may be imposed, during which they will be subject to certain trading restrictions with respect to BMS Shares. Such a blackout period will be imposed in the
+event that 50% or more of the participants in the Bristol-Myers Squibb Company Savings and Investment Program, the Bristol-Myers Squibb Puerto Rico, Inc. Savings and Investment Program, the Bristol-Myers Squibb Company Employee Incentive Thrift
+Plan, the Mead Johnson&nbsp;&amp; Company Retirement Savings Plan and the Mead Johnson Nutrition (Puerto Rico) Inc. Retirement Savings Plan (collectively, the &#147;Plans&#148;) tender some or all of the BMS Shares, which are held in the
+Bristol-Myers Squibb Company Stock Fund (the &#147;BMS Stock Fund&#148;), attributable to their Plan accounts. The reason for the potential blackout period is that participants in the Plans who tender their BMS Shares in the exchange offer will be
+unable, during a short period of time, to exchange their account balances out of the BMS Stock Fund, obtain any distributions, obtain withdrawals of account balances invested in the BMS Stock Fund or obtain loans from the BMS Stock Fund. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">On November&nbsp;25, 2009, the plan administrator of each Plan delivered to BMS a notice pursuant to Section&nbsp;101(i)(2)(E) of the
+Employee Retirement Income Security Act of 1974, as amended, regarding restrictions on the BMS Shares held by the Plans. Section&nbsp;306(a) of the Sarbanes-Oxley Act and Regulation BTR (<I>i.e.</I>, the Blackout Trading Restriction), promulgated by
+the Securities and Exchange Commission, generally impose certain restrictions on trading by directors and executive officers in the event that 50% or more of an issuer&#146;s plan participants are so restricted. During the blackout period (if it
+occurs), directors and executive officers will be prohibited from directly or indirectly purchasing, selling, acquiring or transferring any BMS Share or derivative security with respect to BMS Shares acquired in connection with their service or
+employment as a director or executive officer of BMS, subject to certain limited exemptions. In the event of a blackout period, BMS anticipates the blackout period will begin on December&nbsp;9, 2009 and end during the week of December&nbsp;28,
+2009. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">During the blackout period and for a period of two years after the ending date of the blackout period, a BMS security
+holder or other interested party may obtain, without charge, the actual beginning and ending date of the blackout period from, and may direct other inquiries about the blackout period to: </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sonia Vora </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior
+Counsel&nbsp;&amp; Assistant Corporate Secretary </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">345 Park Avenue </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman" SIZE="2">New York, NY 10154 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:8%"><FONT STYLE="font-family:Times New Roman"
+SIZE="2">(212) 546-4111 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">A copy of the Blackout Notice is attached to this Current Report on Form 8-K and is incorporated
+herein by reference. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;8.01.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Other Events. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The
+information under Item 5.04 is incorporated by reference into this Item 8.01. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;9.01.</B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Financial Statements and Exhibits. </B></FONT></TD></TR></TABLE> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2"><B>(d) Exhibits.</B> </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="3%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Blackout Notice, dated November&nbsp;30, 2009, provided to directors and executive officers of BMS.</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="45%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">BRISTOL-MYERS SQUIBB COMPANY</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dated: December&nbsp;1, 2009</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">/<SMALL>S</SMALL>/&nbsp;&nbsp;&nbsp;&nbsp;S<SMALL>ANDRA</SMALL>
+L<SMALL>EUNG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SMALL></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Name:</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Sandra Leung</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Title:</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Senior Vice President, General Counsel and Secretary</B></FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:39pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1px solid #000000;width:39pt" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Blackout Notice, dated November 30, 2009, provided to directors and executive officers of BMS.</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>BLACKOUT NOTICE
+<TEXT>
+<HTML><HEAD>
+<TITLE>Blackout Notice</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center">
+
+<IMG SRC="g46228g32p89.jpg" ALT="LOGO"> </P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">To:</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Directors and Executive Officers of Bristol-Myers Squibb Company </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Date:</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">November&nbsp;30, 2009 </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Subject:</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Notice of Possible Blackout Period and Regulation BTR Trading Restrictions </FONT></TD></TR></TABLE> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:1px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">This blackout notice (&#147;Blackout Notice&#148;) is being provided in order to notify you that directors and executive officers of Bristol-Myers Squibb Company (&#147;BMS&#148;) may be prevented from
+buying or selling shares of BMS common stock (&#147;BMS Shares&#148;) from <B><U>December&nbsp;9, 2009</U></B> at 4 p.m. Eastern Time through the week of December&nbsp;28, 2009. This is due to a potential &#147;blackout period&#148; with respect to
+the Bristol-Myers Squibb Company Savings and Investment Program, the Bristol-Myers Squibb Puerto Rico, Inc. Savings and Investment Program, the Bristol-Myers Squibb Company Employee Incentive Thrift Plan, the Mead Johnson&nbsp;&amp; Company
+Retirement Savings Plan and the Mead Johnson Nutrition (Puerto Rico) Inc. Retirement Savings Plan (collectively, the &#147;Plans&#148;) that will apply if 50% or more of the participants in the Plans direct the trustee for the relevant Plan (or its
+designated agent) to tender some or all of the BMS Shares held in the Bristol-Myers Squibb Company Stock Fund (the &#147;BMS Stock Fund&#148;) and attributable to their Plan accounts, in connection with BMS&#146;s anticipated offer to exchange
+170.0&nbsp;million shares of class A common stock of Mead Johnson Nutrition Company that it owns for BMS Shares (the &#147;Offer&#148;), pursuant to the Prospectus, dated November&nbsp;16, 2009. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">The blackout period may occur because, in connection with administering the tender of Plan shares, the trustee of the relevant Plan (or its designated
+agent) will impose restrictions on certain transactions involving the tendering participants&#146; accounts and the BMS Stock Fund for a short period of time. During this time, tendering participants will be unable to exchange their account balances
+out of the BMS Stock Fund, obtain any distributions, obtain withdrawals of account balances invested in the BMS Stock Fund or obtain loans from the BMS Stock Fund. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Section&nbsp;306(a) of the Sarbanes-Oxley Act and Regulation BTR (<I>i.e.</I>, the Blackout Trading Restriction), promulgated by the Securities and Exchange Commission (&#147;SEC&#148;), generally require
+a blackout period to be imposed during which directors and executive officers are subject to trading restrictions if 50% or more of the participants in all individual account plans of an issuer are prohibited from engaging in transactions with
+respect to the issuer&#146;s equity securities in their plan accounts for more than three consecutive business days, and also generally require that we provide you and the SEC with advance notice of such a blackout period. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Consequently, although we are unable to gauge at this time whether 50% or more of the Plan participants will actually participate in the Offer (and thus
+whether a blackout period will actually occur), we are required nevertheless to plan for the institution of a blackout period under the terms and conditions set forth in this Blackout Notice. If we determine that fewer than 50% of the Plan
+participants actually direct the trustee for the relevant Plan (or its designated agent) to exchange some or all of the BMS Shares attributable to their Plan accounts, we will notify you promptly, and in such a case, no blackout period will actually
+be implemented and the trading restrictions described herein will not apply. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">If a blackout period occurs and we are required to implement
+trading restrictions, whether or not you participate in the Plans, your ability to exercise and/or receive BMS stock options or other BMS equity awards or otherwise trade in BMS Shares held <B><I>outside</I></B> of the Plans will be restricted
+during the blackout period. Specifically, you will be prohibited from directly or indirectly purchasing, selling, acquiring or transferring any BMS Share or derivative security with respect to BMS Shares that you acquired in connection with your
+service or employment as a director or executive officer of BMS (or any successor or subsidiary corporation). </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">The trading restrictions will
+not apply to BMS Shares that were not acquired in connection with your service as a director or executive officer. You should note, however, that there is a rebuttable presumption that any BMS Shares sold during a blackout period are not exempt from
+the rule (<I>i.e.</I>, you will bear the burden of proving that the securities were not &#147;acquired in connection with service or employment&#148;). In addition, the SEC&#146;s rules provide a limited number of exemptions from the trading
+restriction; most notably these include bona fide gift transactions and purchases or sales under qualified &#147;10b5-1 plans&#148;. We strongly recommend that you consult with us before entering into any transaction in BMS Shares during the
+blackout period. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Please note that trading restrictions implemented because of a blackout period are <B><I>in addition to</I></B> any trading
+restrictions under BMS&#146;s Insider Trading Policy (the &#147;Insider Trading Policy&#148;). </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">As noted above, the blackout period (if it occurs), and therefore any period of trading restrictions for
+directors and executive officers of BMS, is expected to begin on December&nbsp;9, 2009 at 4 p.m. Eastern Time and is expected to end during the week of December&nbsp;28, 2009. You will be notified directly in the event that there are changes to
+these dates. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">If the blackout period is implemented, then after such period ends, you will be permitted to resume transactions in BMS Shares,
+subject to the requirements of the Insider Trading Policy. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Questions regarding this Blackout Notice or the possible blackout period
+(including questions regarding when the blackout period has ended) may be directed to: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; margin-left:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sonia Vora </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Senior Counsel&nbsp;&amp; Assistant Corporate Secretary </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:13%"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">345 Park Avenue </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">New York, NY 10154 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px; margin-left:13%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(212) 546-4111 </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Important
+Legal Information </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">No statement in this document is an offer to purchase or a solicitation of an offer to sell securities. The solicitation
+and the offer to buy BMS Shares are made only pursuant to the Offer described in the Prospectus, dated November&nbsp;16, 2009. The Prospectus contains important information that should be read carefully before any decision is made with respect to
+the Offer. Such materials have been made available to BMS&#146;s stockholders at no expense to them. In addition, such materials (and all other offer documents filed with the SEC) are available at no charge on the SEC&#146;s Web site: www.sec.gov.
+</FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g46228g32p89.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g46228g32p89.jpg
+M_]C_X``02D9)1@`!`@``9`!D``#_[``11'5C:WD``0`$````9```_^$-;FAT
+M='`Z+R]N<RYA9&]B92YC;VTO>&%P+S$N,"\`/#]X<&%C:V5T(&)E9VEN/2+O
+MN[\B(&ED/2)7-4TP37!#96AI2'IR95-Z3E1C>FMC.60B/SX*/'@Z>&UP;65T
+M82!X;6QN<SIX/2)A9&]B93IN<SIM971A+R(@>#IX;7!T:STB061O8F4@6$U0
+M($-O<F4@-"XR+C(M8S`V,R`U,RXS-3(V,C0L(#(P,#@O,#<O,S`M,3@Z,3(Z
+M,3@@("`@("`@("(^"B`\<F1F.E)$1B!X;6QN<SIR9&8](FAT='`Z+R]W=W<N
+M=S,N;W)G+S$Y.3DO,#(O,C(M<F1F+7-Y;G1A>"UN<R,B/@H@(#QR9&8Z1&5S
+M8W)I<'1I;VX@<F1F.F%B;W5T/2(B"B`@("!X;6QN<SID8STB:'1T<#HO+W!U
+M<FPN;W)G+V1C+V5L96UE;G1S+S$N,2\B"B`@("!X;6QN<SIX;7!2:6=H=',]
+M(FAT='`Z+R]N<RYA9&]B92YC;VTO>&%P+S$N,"]R:6=H=',O(@H@("`@>&UL
+M;G,Z<&AO=&]S:&]P/2)H='1P.B\O;G,N861O8F4N8V]M+W!H;W1O<VAO<"\Q
+M+C`O(@H@("`@>&UL;G,Z27!T8S1X;7!#;W)E/2)H='1P.B\O:7!T8RYO<F<O
+M<W1D+TEP=&,T>&UP0V]R92\Q+C`O>&UL;G,O(@H@("!X;7!2:6=H=',Z5V5B
+M4W1A=&5M96YT/2(B"B`@('!H;W1O<VAO<#I!=71H;W)S4&]S:71I;VX](B(^
+M"B`@(#QD8SIR:6=H=',^"B`@("`\<F1F.D%L=#X*("`@("`\<F1F.FQI('AM
+M;#IL86YG/2)X+61E9F%U;'0B+SX*("`@(#PO<F1F.D%L=#X*("`@/"]D8SIR
+M:6=H=',^"B`@(#QD8SIC<F5A=&]R/@H@("`@/')D9CI397$^"B`@("`@/')D
+M9CIL:3YV:VMA=&AI<F%S86X\+W)D9CIL:3X*("`@(#PO<F1F.E-E<3X*("`@
+M/"]D8SIC<F5A=&]R/@H@("`\9&,Z=&ET;&4^"B`@("`\<F1F.D%L=#X*("`@
+M("`\<F1F.FQI('AM;#IL86YG/2)X+61E9F%U;'0B/DUI8W)O<V]F="!7;W)D
+M("T@3EE#;W)P7S,Q.#(P,#9?-RYD;V,\+W)D9CIL:3X*("`@(#PO<F1F.D%L
+M=#X*("`@/"]D8SIT:71L93X*("`@/'AM<%)I9VAT<SI5<V%G951E<FUS/@H@
+M("`@/')D9CI!;'0^"B`@("`@/')D9CIL:2!X;6PZ;&%N9STB>"UD969A=6QT
+M(B\^"B`@("`\+W)D9CI!;'0^"B`@(#PO>&UP4FEG:'1S.E5S86=E5&5R;7,^
+M"B`@(#Q)<'1C-'AM<$-O<F4Z0W)E871O<D-O;G1A8W1);F9O"B`@("!)<'1C
+M-'AM<$-O<F4Z0VE!9')%>'1A9'(](B(*("`@($EP=&,T>&UP0V]R93I#:4%D
+M<D-I='D](B(*("`@($EP=&,T>&UP0V]R93I#:4%D<E)E9VEO;CTB(@H@("`@
+M27!T8S1X;7!#;W)E.D-I061R4&-O9&4](B(*("`@($EP=&,T>&UP0V]R93I#
+M:4%D<D-T<GD](B(*("`@($EP=&,T>&UP0V]R93I#:51E;%=O<FL](B(*("`@
+M($EP=&,T>&UP0V]R93I#:45M86EL5V]R:STB(@H@("`@27!T8S1X;7!#;W)E
+M.D-I57)L5V]R:STB(B\^"B`@/"]R9&8Z1&5S8W)I<'1I;VX^"B`\+W)D9CI2
+M1$8^"CPO>#IX;7!M971A/@H@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@"CP_>'!A
+M8VME="!E;F0](G<B/S[_[@`.061O8F4`9,`````!_]L`A``!`0$!`0$!`0$!
+M`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`@("`@("`@("`@(#
+M`P,#`P,#`P,#`0$!`0$!`0(!`0("`@$"`@,#`P,#`P,#`P,#`P,#`P,#`P,#
+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
+(*"@$P]!__]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

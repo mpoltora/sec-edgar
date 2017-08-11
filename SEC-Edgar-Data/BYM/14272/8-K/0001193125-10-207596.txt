@@ -1,0 +1,645 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HqCjGEvKA57i2C4XbwkQrlqarhKNdSH/prZkvB3d1D4EmEW8FTOeXid5dGDFAZBQ
+ fKTMeHQMb05HrFkk+i3qDQ==
+
+<SEC-DOCUMENT>0001193125-10-207596.txt : 20100910
+<SEC-HEADER>0001193125-10-207596.hdr.sgml : 20100910
+<ACCEPTANCE-DATETIME>20100909201422
+ACCESSION NUMBER:		0001193125-10-207596
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20100907
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20100910
+DATE AS OF CHANGE:		20100909
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		101065312
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:2px;margin-top:0px;margin-bottom:0px;border-bottom:2pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="4"><B>UNITED STATES </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="4"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center>
+<P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="4"><B>FORM 8-K </B>
+</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>CURRENT REPORT </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>Pursuant to Section&nbsp;13 OR 15(d) of The Securities Exchange Act Of 1934 </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Date of Report (Date of earliest event reported): September&nbsp;9, 2010 (September 7, 2010) </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>BRISTOL-MYERS SQUIBB COMPANY </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(Exact Name of Registrant as Specified in its Charter) </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="35%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="31%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>1-1136</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>22-079-0350</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(State or Other Jurisdiction</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>of Incorporation)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Commission File Number)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(IRS Employer</B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Identification Number)</B></FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>345 Park Avenue </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>New York, NY, 10154 </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>(Address of Principal Executive Office) </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Registrant&#146;s telephone number, including area code: (212)&nbsp;546-4000 </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions (<I>see </I>General Instruction A.2. below): </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </FONT></TD></TR></TABLE>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:4px;margin-top:0px;margin-bottom:2px;border-bottom:2pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;8.01. Other Events. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">On September&nbsp;7, 2010, Bristol-Myers Squibb Company and ZymoGenetics, Inc. issued a press release announcing that the companies have
+signed a definitive merger agreement that provides for the acquisition of ZymoGenetics, Inc. by the Company, for $9.75 per share in cash. A copy of the press release announcing the planned acquisition is filed as Exhibit 99.1 to this report and is
+incorporated herein by reference. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Item&nbsp;9.01. Financial Statements and Exhibits. </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; margin-left:2%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>(d) Exhibits. </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="96%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Joint Press Release of Bristol-Myers Squibb Company and ZymoGenetics, Inc., dated September&nbsp;7, 2010.</FONT></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned hereunto duly authorized. </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="31%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="31%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="31%"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" COLSPAN="3"><FONT STYLE="font-family:Times New Roman" SIZE="2">BRISTOL-MYERS SQUIBB COMPANY</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Dated: September&nbsp;9, 2010</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT SIZE="">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ Sandra Leung</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Sandra Leung</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">General Counsel and Secretary</FONT></TD></TR></TABLE> <P STYLE="font-size:24px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="96%" BORDER="0">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="93%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:39pt"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT STYLE="font-family:Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">Joint Press Release of Bristol-Myers Squibb Company and ZymoGenetics, Inc., dated September 7, 2010.</FONT></TD></TR></TABLE>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2">3 </FONT></P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>JOINT PRESS RELEASE OF BRISTOL-MYERS SQUIBB COMPANY AND ZYMOGENETICS, INC
+<TEXT>
+<HTML><HEAD>
+<TITLE>Joint Press Release of Bristol-Myers Squibb Company and ZymoGenetics, Inc</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="49%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="49%"></TD></TR>
+<TR>
+<TD VALIGN="top">
+
+
+<IMG SRC="g34386g55z44.jpg" ALT="LOGO">
+</TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="right">
+
+
+<IMG SRC="g34386g96b96.jpg" ALT="LOGO">
+</TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Bristol-Myers Squibb to Acquire ZymoGenetics </B></FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>&#149;</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Builds on Long-standing Commitment to Virology </B></FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>&#149;</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Gains Full Rights to Promising Phase II Hepatitis C Biologic, Pegylated-Interferon Lambda </B></FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>&#149;</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Obtains FDA-Approved Specialty Surgical Biologic,
+RECOTHROM<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> </B></FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>&#149;</B></FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Attains Early Clinical and Pre-clinical Programs in Oncology and Immunoscience </B></FONT></P></TD></TR></TABLE>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">(NEW YORK, NY and SEATTLE, WA, September&nbsp;7, 2010) &#151; Bristol-Myers Squibb Company (NYSE:BMY) and ZymoGenetics, Inc. (NASDAQ:
+ZGEN) announced today that the companies have signed a definitive agreement providing for the acquisition of ZymoGenetics by Bristol-Myers Squibb, for $9.75 per share in cash. The transaction, with an aggregate purchase price of approximately $885
+million, or approximately $735 million net of cash acquired, has been unanimously approved by the boards of directors of both companies. The board of directors of ZymoGenetics intends to recommend that ZymoGenetics&#146; shareholders tender their
+shares in the tender offer. In addition, shareholders holding approximately 37% of the outstanding shares of ZymoGenetics&#146; common stock have entered into agreements with Bristol-Myers Squibb to support the transaction and to tender their shares
+in the offer. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;The acquisition of ZymoGenetics brings us full ownership of a promising investigational biologic that
+strengthens our very diversified Hepatitis C portfolio. Building on our leadership in virology, we are developing a strong portfolio to help patients with&nbsp;Hepatitis C,&#148; said Lamberto Andreotti, chief executive officer, Bristol-Myers
+Squibb. &#147;In addition, ZymoGenetics brings proven capabilities with therapeutic proteins and revenue from a marketed specialty surgical biologic. This acquisition is another example of our strategic, targeted approach to business
+development.&#148; </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;By joining forces with Bristol-Myers Squibb, we believe we will enhance the long-term
+potential of ZymoGenetics&#146; portfolio of assets, while providing a compelling valuation for our shareholders,&#148; said Douglas E. Williams, Ph.D., chief executive officer of ZymoGenetics.&nbsp;&#147;Our collaboration with Bristol-Myers Squibb
+in the development of PEG-Interferon lambda has been extremely positive and it has given us an opportunity to fully appreciate their capabilities.&nbsp;We believe that this transaction will maximize the potential for our products and product
+candidates to make a meaningful difference for patients in need.&#148; </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bristol-Myers Squibb gains the following as a result
+of the acquisition: </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Full ownership of pegylated-interferon lambda, a novel interferon in Phase IIb development for the treatment of Hepatitis C infection, which, if
+approved, could be an important contributor to Bristol-Myers Squibb&#146;s future growth. The companies have collaborated on the development of pegylated-interferon lambda since January 2009. Four-week and 12-week results from a Phase IIa study will
+be presented at the American Association for the Study of Liver Diseases meeting later this year. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">RECOTHROM<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT>, a
+recombinant thrombin approved by the U.S. Food and Drug Administration for use as a topical hemostat to control non-arterial bleeding during surgical procedures. </FONT></P></TD></TR></TABLE>
+<P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">IL-21 protein, a cytokine currently being tested in an open-label, Phase II clinical study as a potential immunotherapy treatment for metastatic
+melanoma. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">An earlier-stage pipeline of six biologic drug candidates, including an anti-IL-31 antibody, currently in pre-clinical development for atopic
+dermatitis. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT STYLE="font-family:Times New Roman" SIZE="2">Potential milestone and royalty payments from six partnered programs in various stages of clinical development by EMD Serono, Inc., an affiliate of
+Merck KGaA, and Novo Nordisk. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">&#147;ZymoGenetics is a leader in advancing novel biologics, particularly
+genomics-based therapies,&#148; said Elliott Sigal, M.D., Ph.D., executive vice president and chief scientific officer, Bristol-Myers Squibb. &#147;We expect ZymoGenetics&#146; pipeline and biologics capabilities to complement and enhance our
+existing efforts in Hepatitis C, oncology and immunoscience.&#148; </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Initially, the transaction is expected to be modestly dilutive to earnings per share (EPS)
+for Bristol-Myers Squibb. In 2010, the transaction is expected to be dilutive to EPS by approximately $0.03. In 2011, the transaction is expected to be dilutive to EPS by approximately $0.07. </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Under the terms of the definitive agreement, Bristol-Myers Squibb will commence a cash tender offer on or about September&nbsp;9, 2010,
+to purchase all of the outstanding shares of ZymoGenetics&#146; common stock for $9.75 per share. The closing of the tender offer is subject to customary terms and conditions, including the tender of a number of shares which is equal to or greater
+than 48,282,192 shares (which represents approximately 56% of the outstanding shares as of August&nbsp;31, 2010, which represents a majority of the shares on a fully-diluted basis, excluding certain shares underlying derivative securities that are
+significantly out-of-the-money), and the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act. The agreement also provides for the parties to effect, subject to customary conditions, a merger to be
+completed following the completion of the tender offer which would result in all shares not tendered in the tender offer being converted into the right to receive $9.75 per share in cash. The merger agreement contains a provision under which
+ZymoGenetics has agreed not to solicit any competing offers for the company. Bristol-Myers Squibb will finance the acquisition from its existing cash resources. The companies expect the tender offer to close approximately thirty days after
+commencement of the tender offer. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B></B>Morgan Stanley&nbsp;&amp; Co. Incorporated is serving as financial advisor to
+Bristol-Myers Squibb in connection with the acquisition, and Bristol-Myers Squibb is represented by Kirkland&nbsp;&amp; Ellis LLP. Goldman, Sachs&nbsp;&amp; Co. is serving as financial advisor to ZymoGenetics in connection with the acquisition, and
+ZymoGenetics is represented by Latham&nbsp;&amp; Watkins LLP and Fenwick&nbsp;&amp; West LLP. <B> </B></FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>About Bristol-Myers Squibb
+</B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bristol-Myers Squibb is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative
+medicines that help patients prevail over serious diseases. For more information, please visit <U>www.bms.com</U> or follow us on Twitter at <U>http://twitter.com/bmsnews</U>. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Bristol-Myers Squibb Forward-Looking Statement </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">This press release contains &#147;forward-looking statements&#148; relating to the acquisition of ZymoGenetics by Bristol-Myers Squibb and
+the discovery, development and commercialization of certain biological compounds. Such forward-looking statements are based on current expectations and involve inherent risks and uncertainties, including factors that could delay, divert or change
+any of them, and could cause </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+actual outcomes and results to differ materially from current expectations. No forward-looking statement can be guaranteed. Among other risks, there can be no guarantee that the acquisition will
+be completed, or if it is completed, that it will close within the anticipated time period or that the expected benefits of the acquisition will be realized. In addition, the compounds described in this release are subject to all the risks inherent
+in the drug development process, and there can be no assurance that the development of these compounds will be commercially successful. Forward-looking statements in the press release should be evaluated together with the many uncertainties that
+affect Bristol-Myers Squibb&#146;s business, particularly those identified in the cautionary factors discussion in Bristol-Myers Squibb&#146;s Annual Report on Form 10-K for the year ended December&nbsp;31, 2009, its Quarterly Reports on Form 10-Q,
+and Current Reports on Form 8-K. Bristol-Myers Squibb undertakes no obligation to publicly update any forward-looking statement, whether as a result of new information, future events, or otherwise. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>About ZymoGenetics </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%;padding-bottom:0px;"><FONT STYLE="font-family:Times New Roman" SIZE="2">ZymoGenetics is a biopharmaceutical company focused on the development and commercialization of therapeutic proteins
+for the treatment of human diseases. The company developed and is marketing RECOTHROM<FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">&reg;</SUP></FONT> Thrombin, topical
+(Recombinant) in the United States. ZymoGenetics has two product candidates in Phase 2 clinical development: PEG-Interferon lambda, being studied in collaboration with Bristol-Myers Squibb for treatment of hepatitis C virus infection, and IL-21,
+being tested as a potential treatment for metastatic melanoma. In addition, ZymoGenetics has an anti-IL-31 monoclonal antibody in preclinical development, which it expects to test initially as a treatment for atopic dermatitis. Several of the
+product candidates previously identified through ZymoGenetics&#146; discovery research efforts have been licensed to and are being developed by third parties, including Merck Serono and Novo Nordisk. ZymoGenetics is eligible to receive milestone
+payments and royalties related to these assets. For further information, visit <U>www.zymogenetics.com</U>. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>ZymoGenetics Forward-Looking
+Statement </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Certain statements either contained in or incorporated by reference into this document, other than purely
+historical information, including estimates, projections and statements relating to ZymoGenetics&#146; business plans, objectives and expected operating results, and the assumptions upon which those statements are based, are &#147;forward-looking
+statements.&#148;&nbsp;These forward-looking statements generally include statements that are predictive in nature and depend upon or refer to future events or conditions, and include words such as &#147;believes,&#148; &#147;plans,&#148;
+&#147;anticipates,&#148; &#147;projects,&#148; &#147;estimates,&#148; &#147;expects,&#148; &#147;intends,&#148; &#147;strategy,&#148; &#147;future,&#148; &#147;opportunity,&#148; &#147;may,&#148; &#147;will,&#148; &#147;should,&#148;
+&#147;could,&#148; &#147;potential,&#148; or similar expressions.&nbsp;Such forward-looking statements include the ability of ZymoGenetics, Bristol-Myers Squibb and Zeus Acquisition Corporation to complete the transactions contemplated by the
+Agreement and Plan of Merger dated as of September&nbsp;7, 2010 by and among ZymoGenetics, Bristol-Myers Squibb and Zeus Acquisition Corporation (the &#147;<U>Merger Agreement</U>&#148;), including the parties&#146; ability to satisfy the conditions
+to the consummation of the tender offer and the other conditions set forth in the Merger Agreement and the possibility of any termination of the Merger Agreement.&nbsp;The forward-looking statements contained in this document are based on current
+expectations and assumptions that are subject to risks and uncertainties which may cause actual results to differ materially from the forward-looking statements.&nbsp;Actual results may differ materially from current expectations because of risks
+associated with uncertainties as to the timing of the tender offer and the subsequent merger; uncertainties as to how many of ZymoGenetics&#146; shareholders will tender their shares of common stock in the tender offer; the risk that competing
+offers or acquisition proposals will be made; the possibility that various conditions to the consummation of the offer or the merger may not be satisfied or waived, including that a governmental entity may prohibit, delay or refuse to grant approval
+for the consummation of the offer or the merger; the effects of disruption from the transactions on ZymoGenetics&#146; business and the fact that the announcement and pendency of the transactions may make
+</FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">
+it more difficult to establish or maintain relationships with employees, suppliers and other business partners; the risk that shareholder litigation in connection with the tender offer or the
+merger may result in significant costs of defense, indemnification and liability; other uncertainties pertaining to the business of ZymoGenetics, including ZymoGenetics&#146; unproven product sales and marketing, manufacturing and commercialization
+capabilities; strategic partnering activities; product safety; clinical trials and results; legislative and regulatory activity and oversight; intellectual property claims and litigation; the continuing global economic uncertainty and other risks
+detailed in ZymoGenetics&#146; public filings with the Securities and Exchange Commission from time to time, including ZymoGenetics&#146; most recent Annual Report on Form 10-K for the year ended December&nbsp;31, 2009 and Quarterly Reports on Form
+10-Q.&nbsp;The reader is cautioned not to unduly rely on these forward-looking statements.&nbsp;ZymoGenetics expressly disclaims any intent or obligation to update or revise publicly these forward-looking statements except as required by law.
+</FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Additional Information </B></FONT></P>
+<P STYLE="margin-top:6px;margin-bottom:0px; text-indent:4%"><FONT STYLE="font-family:Times New Roman" SIZE="2">The tender offer described in this release has not yet commenced, and this release is neither an offer to purchase nor a solicitation of
+an offer to sell securities. At the time the tender offer is commenced, Bristol-Myers Squibb will cause a new wholly owned subsidiary, Zeus Acquisition Corporation, to file a tender offer statement on Schedule TO with the U.S. Securities and
+Exchange Commission (SEC). Investors and ZymoGenetics shareholders are strongly advised to read the tender offer statement (including an offer to purchase, letter of transmittal and related tender offer documents) and the related
+solicitation/recommendation statement on Schedule 14D-9 that will be filed by ZymoGenetics with the SEC, because they will contain important information. These documents will be available at no charge on the SEC&#146;s website at <U>www.sec.gov</U>.
+In addition, a copy of the offer to purchase, letter of transmittal and certain other related tender offer documents (once they become available) may be obtained free of charge by directing a request to Bristol-Myers Squibb at <U>www.bms.com</U> or
+Office of the Corporate Secretary, 345 Park Avenue, New York, New York 10154-0037. A copy of the tender offer statement and the solicitation/recommendation statement will be made available to all shareholders of ZymoGenetics, Inc. free of charge at
+<U>www.zymogenetics.com</U> or by contacting ZymoGenetics, Inc. at 1201 Eastlake Avenue East, Seattle, Washington 98102-3702, Telephone Number (206)&nbsp;442-6600 or (800)&nbsp;775-6686. </FONT></P>
+<P STYLE="margin-top:18px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B><U>Contacts:</U></B> </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD WIDTH="38%"> <P STYLE="margin-bottom:1px; margin-left:2%; text-indent:-2%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Bristol-Myers Squibb Company </FONT></P></TD>
+<TD><FONT STYLE="font-family:Times New Roman" SIZE="2">ZymoGenetics </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD WIDTH="38%"> <P STYLE="margin-bottom:1px; margin-left:2%; text-indent:-2%"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Media </B></FONT></P></TD>
+<TD><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Media and Investors </B></FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD WIDTH="38%"> <P STYLE="margin-bottom:1px; margin-left:2%; text-indent:-2%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Jennifer Fron Mauer, 609-252-6579 </FONT></P></TD>
+<TD><FONT STYLE="font-family:Times New Roman" SIZE="2">Susan W. Specht, 206-442-6592 </FONT></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD WIDTH="38%"> <P STYLE="margin-bottom:1px; margin-left:2%; text-indent:-2%"><FONT STYLE="font-family:Times New Roman" SIZE="2">jennifer.mauer@bms.com </FONT></P></TD>
+<TD><FONT STYLE="font-family:Times New Roman" SIZE="2">susan.specht@zgi.com </FONT></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">or </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2"><B>Investors </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Teri Loxam, 609-252-3368
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">teri.loxam@bms.com </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">or </FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Suketu Desai, 609-252-5796 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">suketu.desai@bms.com
+</FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g34386g55z44.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g34386g55z44.jpg
+M_]C_X``02D9)1@`!`0$`>`!X``#_X0":17AI9@``24DJ``@````#``!1!``!
+M``````````)1`0!@````,@````-1`0`!`````#_#````````4(T06Y0@9ILP
+M<:)`?*I0A[%@DKAPG;]_I\:/LLV?O=2OR-N_T^+/WNK?Z?'O]/C___\`````
+M``````````````````````````````````````````````````````#_VP!#
+M``8$!08%!`8&!08'!P8("A`*"@D)"A0.#PP0%Q08&!<4%A8:'24?&ALC'!86
+M("P@(R8G*2HI&1\M,"TH,"4H*2C_VP!#`0<'!PH("A,*"A,H&A8:*"@H*"@H
+M*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"@H*"C_
+MP``1"``:`1T#`2(``A$!`Q$!_\0`'P```04!`0$!`0$```````````$"`P0%
+M!@<("0H+_\0`M1```@$#`P($`P4%!`0```%]`0(#``01!1(A,4$&$U%A!R)Q
+M%#*!D:$((T*QP152T?`D,V)R@@D*%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(
+M24I35%565UA96F-D969G:&EJ<W1U=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*C
+MI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ
+M\O/T]?;W^/GZ_\0`'P$``P$!`0$!`0$!`0````````$"`P0%!@<("0H+_\0`
+MM1$``@$"!`0#!`<%!`0``0)W``$"`Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!
+M"2,S4O`58G+1"A8D-.$E\1<8&1HF)R@I*C4V-S@Y.D-$149'2$E*4U155E=8
+M65IC9&5F9VAI:G-T=79W>'EZ@H.$A8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJ
+MLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ
+M_]H`#`,!``(1`Q$`/P#W7XC2RW^F7FD6DKQ((//O98FVLD9.%0'L7(/_``%6
+M]17&:#IJ^'&UG33':&^T\M.D-U;AXKN$D89>Z$9'W3M^;!!()J/P]?ZQK<^H
+M"^T$ZM(]S))+9O?QVZ9#;/GB8;G"[0@+$K\G`SDUA>-KR[35[:.]\S1DA1T:
+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
+L-=]X.T./PYX8T[28L'[-$%=A_&YY=OQ8D_C6S11.M*<;/O<<*,82NNUC_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g34386g96b96.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g34386g96b96.jpg
+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
+FX4]5/<?@<BBG:-I5OHFCVNF6N?*MHPBD]3ZD_4\T5SNU]#1'_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

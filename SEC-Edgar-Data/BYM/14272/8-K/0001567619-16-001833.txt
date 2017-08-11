@@ -1,0 +1,354 @@
+<SEC-DOCUMENT>0001567619-16-001833.txt : 20160216
+<SEC-HEADER>0001567619-16-001833.hdr.sgml : 20160215
+<ACCEPTANCE-DATETIME>20160216163020
+ACCESSION NUMBER:		0001567619-16-001833
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160211
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+FILED AS OF DATE:		20160216
+DATE AS OF CHANGE:		20160216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		161429052
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>s001197x2_8k.htm
+<DESCRIPTION>8K
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Summit Financial Printing
+    Document created using EDGARfilings PROfile 4.0.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" bgcolor="#ffffff" text="#000000">
+<div>
+<hr style="TEXT-ALIGN: center; BACKGROUND-COLOR: #000000; HEIGHT: 2px; COLOR: #000000; MARGIN-LEFT: auto; MARGIN-RIGHT: auto" noshade="noshade">
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">UNITED STATES</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Washington, D.C. 20549</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: center">
+<hr style="TEXT-ALIGN: center; BACKGROUND-COLOR: #000000; HEIGHT: 2px; COLOR: #000000; MARGIN-LEFT: auto; MARGIN-RIGHT: auto" noshade="noshade">
+<br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 18pt; FONT-WEIGHT: bold">FORM 8-K</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">
+<hr style="TEXT-ALIGN: center; BACKGROUND-COLOR: #000000; HEIGHT: 2px; COLOR: #000000; MARGIN-LEFT: auto; MARGIN-RIGHT: auto" noshade="noshade">
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CURRENT REPORT</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Pursuant to Section&#160;13 OR 15(d) of The Securities Exchange Act Of 1934</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Date of Report (Date of earliest event reported): February 11, 2016</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">
+<hr style="TEXT-ALIGN: center; BACKGROUND-COLOR: #000000; HEIGHT: 2px; COLOR: #000000; MARGIN-LEFT: auto; MARGIN-RIGHT: auto" noshade="noshade">
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 24pt; FONT-WEIGHT: bold">BRISTOL-MYERS SQUIBB COMPANY</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Exact Name of Registrant as Specified in its Charter)</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">
+<hr style="TEXT-ALIGN: center; BACKGROUND-COLOR: #000000; HEIGHT: 2px; COLOR: #000000; MARGIN-LEFT: auto; MARGIN-RIGHT: auto" noshade="noshade">
+</div>
+
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="57234bc6758747efbaf95c1fea352bf1" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt"><font style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</font>Delaware</div>
+</td>
+<td style="WIDTH: 34%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">1-1136</div>
+</td>
+<td style="WIDTH: 33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">22-0790350</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(State or Other</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Jurisdiction of</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Incorporation)</div>
+</td>
+<td style="WIDTH: 34%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Commission File</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Number)</div>
+</td>
+<td style="WIDTH: 33%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(IRS Employer</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Identification</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Number)</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">345 Park Avenue</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">New York, NY, 10154</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(Address of Principal Executive Office)</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Registrant&#8217;s telephone number, including area code: (212)&#160;546-4000</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+
+<div style="text-indent: 24.5pt; text-align: left; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<font style="FONT-STYLE: italic; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">see </font>General Instruction A.2. below):</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', serif; FONT-SIZE: 3pt">&#160;</div>
+
+<div style="TEXT-ALIGN: left">
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="dc7cf42f71a64917b28fa48826773235" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="TEXT-ALIGN: left; WIDTH: auto; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Written communications pursuant to Rule&#160;425 under the Securities Act (17 CFR 230.425)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-FAMILY: 'Times New Roman', serif">&#160;</div>
+
+<div style="TEXT-ALIGN: left">
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="64b8f505760d4c5eb4bc5daad84bfc44" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="TEXT-ALIGN: left; WIDTH: auto; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Soliciting material pursuant to Rule&#160;14a-12 under the Exchange Act (17 CFR 240.14a-12)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-FAMILY: 'Times New Roman', serif">&#160;</div>
+
+<div style="TEXT-ALIGN: left">
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="4663c4d0b5ca4ec18eaea63c4977fe97" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="TEXT-ALIGN: left; WIDTH: auto; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Pre-commencement communications pursuant to Rule&#160;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-FAMILY: 'Times New Roman', serif">&#160;</div>
+
+<div style="TEXT-ALIGN: left">
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="b3e88dae9cad4947afc028bb49eac8cc" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; align: right">&#9744;</td>
+<td style="TEXT-ALIGN: left; WIDTH: auto; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Pre-commencement communications pursuant to Rule&#160;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">
+<div style="PAGE-BREAK-AFTER: always" id="DSPFPageBreak">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" noshade="noshade">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 24.5pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table style="WIDTH: 100%; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="5ccb88cf53204c8fb4c5051a05c96ead" class="DSPFListTable" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 72pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; align: right">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item&#160;5.02.</div>
+</td>
+<td style="TEXT-ALIGN: left; WIDTH: auto; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; VERTICAL-ALIGN: top; FONT-WEIGHT: bold">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>&#160;</div>
+</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 24.5pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">(b)<font style="FONT-FAMILY: 'Times New Roman', serif; FONT-SIZE: 3pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font>On February 11, 2016, Lewis B. Campbell notified Bristol-Myers Squibb Company (the &#8220;Company&#8221;) that he will not stand for re-election to the Board of Directors at the 2016 Annual Meeting of Stockholders, which is expected to be held on May&#160;3,&#160;2016.</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div><br>
+</div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">
+<div style="PAGE-BREAK-AFTER: always" id="DSPFPageBreak">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" noshade="noshade">
+</div>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURES</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</div>
+
+<div style="text-indent: 24.5pt; text-align: left; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 24.5pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">&#160;</div>
+
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 24.5pt; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="12b42250729d4d5182da528497b839f5" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="VERTICAL-ALIGN: top" colspan="3">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">BRISTOL-MYERS SQUIBB COMPANY</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 2px; WIDTH: 50%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Dated: February 16, 2016</div>
+</td>
+<td style="PADDING-BOTTOM: 2px; WIDTH: 5%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">By:</div>
+</td>
+<td style="BORDER-BOTTOM: #000000 2px solid; VERTICAL-ALIGN: top" colspan="2">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">/s/ Katherine. R. Kelly</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Name:</div>
+</td>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Katherine R. Kelly</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 5%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Title:</div>
+</td>
+<td style="WIDTH: 40%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt">Corporate Secretary</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">
+<div style="PAGE-BREAK-AFTER: always" id="DSPFPageBreak">
+<hr style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" noshade="noshade">
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

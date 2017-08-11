@@ -1,0 +1,1599 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IgPb154XqF/OxP/sb3Z5uIjUbxfVX/l/y+i50nCU02Vet/0bXx6Vvi1fA/jqrqrp
+ 2Ezy68cG4HIZn5CoOczTgw==
+
+<SEC-DOCUMENT>0000014272-00-000006.txt : 20000516
+<SEC-HEADER>0000014272-00-000006.hdr.sgml : 20000516
+ACCESSION NUMBER:		0000014272-00-000006
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20000331
+FILED AS OF DATE:		20000515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRISTOL MYERS SQUIBB CO
+		CENTRAL INDEX KEY:			0000014272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				220790350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-01136
+		FILM NUMBER:		634013
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+		BUSINESS PHONE:		2125464000
+
+	MAIL ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10154
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRISTOL MYERS CO
+		DATE OF NAME CHANGE:	19891012
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+
+
+
+
+                    SECURITIES AND EXCHANGE COMMISSION
+
+                          WASHINGTON, D.C.  20549
+
+
+                                 FORM 10-Q
+
+
+          QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                      SECURITIES EXCHANGE ACT OF 1934
+
+
+               FOR THE QUARTERLY PERIOD ENDED MARCH 31, 2000
+
+
+                       Commission File Number 1-1136
+
+
+                       BRISTOL-MYERS SQUIBB COMPANY
+          (Exact name of registrant as specified in its charter)
+
+
+
+              Delaware                            22-079-0350
+     (State or other jurisdiction of     (IRS Employer Identification No.)
+     incorporation or organization)
+
+
+
+                  345 Park Avenue, New York, N.Y.  10154
+                 (Address of principal executive offices)
+                         Telephone: (212) 546-4000
+
+
+Indicate  by  check mark whether the registrant (1) has filed  all  reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange  Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject  to
+such filing requirements for the past 90 days.
+
+Yes  [ X ]            No  [    ]
+
+
+
+At April 30, 2000, there were 1,972,590,510 shares outstanding of the
+Registrant's $.10 par value Common Stock.
+
+<PAGE>
+
+                        BRISTOL-MYERS SQUIBB COMPANY
+
+                             INDEX TO FORM 10-Q
+
+                               March 31, 2000
+
+
+
+Part I - Financial Information:                                Page
+
+Item 1.
+
+Financial Statements (Unaudited):
+
+Consolidated Balance Sheet - March 31, 2000 and December 31,     2 - 3
+1999
+
+Consolidated Statement of Earnings and Comprehensive  Income
+for the three  months ended March 31, 2000 and 1999                4
+
+Consolidated  Statement of Cash Flows for the  three  months
+ended March 31, 2000 and 1999                                      5
+
+Notes to Condensed Consolidated Financial Statements             6 - 7
+
+ Report of Independent Accountants                                 8
+
+Item 2.
+
+ Management's   Discussion  and  Analysis   of   Financial    9 - 12
+     Condition and Results of Operations
+
+Part II - Other Information
+
+Item 1.
+
+ Legal Proceedings                                           13 - 15
+
+Item 4.
+
+ Submission of Matters to a Vote of Security Holders              16
+
+Item 6.
+
+ Exhibits and Reports on Form 8-K                                 17
+
+Signatures                                                        18
+
+<PAGE>
+
+PART I  FINANCIAL INFORMATION
+- -----------------------------
+
+Item 1.  Financial Statements
+- -----------------------------
+
+                        BRISTOL-MYERS SQUIBB COMPANY
+                     CONSOLIDATED BALANCE SHEET - ASSETS
+                      (Unaudited, dollars in millions)
+
+
+
+                                                March 31,   December
+                                                  2000     31, 1999
+                                                --------   ----------
+Current Assets:
+Cash and cash equivalents                          $2,468      $2,720
+Time deposits and marketable securities               212         237
+Receivables, net of allowances                      3,349       3,272
+
+Finished goods                                      1,340       1,472
+Work in process                                       439         302
+Raw and packaging materials                           267         352
+                                                   ------      ------
+Inventories                                         2,046       2,126
+
+Prepaid expenses                                      971         912
+                                                   ------      ------
+
+  Total Current Assets                              9,046       9,267
+                                                   ------      ------
+
+Property, Plant and Equipment                       7,833       7,841
+
+Less: Accumulated depreciation                      3,283       3,220
+                                                   ------      ------
+                                                    4,550       4,621
+                                                   ------      ------
+
+
+Insurance Recoverable                                 450         468
+Excess of cost over net tangible assets received
+         in business acquisitions                   1,483       1,502
+Other Assets                                        1,507       1,256
+                                                   ------      ------
+
+Total Assets                                      $17,036     $17,114
+                                                   ======      ======
+
+
+The accompanying notes are an integral part of these financial statements.
+
+                                        2
+<PAGE>
+
+                        BRISTOL-MYERS SQUIBB COMPANY
+                        CONSOLIDATED BALANCE SHEET -
+                    LIABILITIES AND STOCKHOLDERS' EQUITY
+                      (Unaudited, dollars in millions)
+
+
+
+                                                March 31,   December
+                                                   2000     31, 1999
+                                                ---------   ---------
+
+Current Liabilities:
+Short-term borrowings                                 $365       $432
+Accounts payable                                     1,514      1,657
+Accrued expenses                                     2,321      2,367
+Product liability                                      235        287
+U.S. and foreign income taxes payable                  882        794
+                                                    ------     ------
+        Total Current Liabilities                    5,317      5,537
+
+Other Liabilities                                    1,577      1,590
+Long-Term Debt                                       1,333      1,342
+                                                    ------     ------
+
+  Total Liabilities                                  8,227      8,469
+                                                    ------     ------
+
+Stockholders' Equity:
+Preferred stock, $2 convertible series:
+     Authorized  10 million shares; issued  and
+     outstanding 10,782 in 2000 and  10,977  in          -          -
+     1999, liquidation value of $50 per share
+Common stock, par value of $.10 per share:
+     Authorized  4.5  billion  shares;   issued
+     2,193,990,890 in 2000 and 2,192,970,504 in        219        219
+     1999
+Capital in excess of par value of stock              1,612      1,533
+Other comprehensive income                            (870)      (816)
+Retained earnings                                   15,736     15,000
+                                                    ------     ------
+                                                    16,697     15,936
+Less  cost  of  treasury  stock  -  220,713,423
+common shares in 2000 and 212,164,851 in 1999        7,888      7,291
+                                                    ------     ------
+
+Total Stockholders' Equity                           8,809      8,645
+                                                    ------     ------
+
+Total Liabilities and Stockholders' Equity         $17,036    $17,114
+                                                    ======     ======
+
+
+
+
+The accompanying notes are an integral part of these financial statements.
+
+                                        3
+<PAGE>
+
+                        BRISTOL-MYERS SQUIBB COMPANY
+                     CONSOLIDATED STATEMENT OF EARNINGS
+                          AND COMPREHENSIVE INCOME
+          (Unaudited, dollars in millions except per share amounts)
+
+
+                                                 Three Months
+                                                Ended March 31,
+                                                 -------------
+
+EARNINGS                                         2000     1999
+- --------                                       ------   ------
+
+Net Sales                                      $5,260   $4,854
+                                               ------   ------
+
+Expenses:
+Cost of products sold                           1,379    1,305
+Marketing,selling,
+administrative and other                        1,165    1,121
+Advertising and product promotion                 570      529
+Research and development                          468      423
+                                               ------   ------
+                                                3,582    3,378
+                                               ------  -------
+Earnings Before Income Taxes                    1,678    1,476
+
+Provision for income taxes                        457      410
+                                               ------   ------
+
+Net Earnings                                   $1,221   $1,066
+                                               ======   ======
+
+Earnings Per Common Share
+Basic                                            $.62     $.54
+Diluted                                          $.61     $.53
+
+Average Common Shares
+Outstanding
+      Basic                                     1,976    1,985
+      Diluted                                   2,009    2,029
+
+Dividends Per Common Share                      $.245    $.215
+
+COMPREHENSIVE INCOME
+- --------------------
+
+Net Earnings                                   $1,221   $1,066
+
+Other Comprehensive Income:
+Foreign currency translation                      (51)    (104)
+Tax effect                                         (3)       5
+                                               ------   ------
+
+                                                  (54)     (99)
+                                               ------   ------
+
+Comprehensive Income                           $1,167     $967
+                                               ======   ======
+
+The accompanying notes are an integral part of these financial statements.
+
+                                        4
+<PAGE>
+
+                        BRISTOL-MYERS SQUIBB COMPANY
+                    CONSOLIDATED STATEMENT OF CASH FLOWS
+                      (Unaudited, dollars in millions)
+                                                      Three Months
+                                                     Ended March 31,
+                                                     --------------
+                                                     2000       1999
+                                                    ------     ------
+
+Cash Flows From Operating Activities:
+Net earnings                                        $1,221     $1,066
+Depreciation and amortization                          187        167
+Provision for restructuring (See Note 3)               120          -
+Gain from product divestitures (See Note 4)           (120)         -
+Other operating items                                   (3)       (34)
+Receivables                                           (114)       (14)
+Inventories                                             47       (113)
+Accounts payable and accrued expenses                 (302)      (237)
+Income taxes                                            96        258
+Product liability                                      (56)      (318)
+Insurance recoverable                                   18         14
+Pension contribution (See Note 5)                     (230)         -
+Other assets and liabilities                          (126)       (68)
+                                                    -------    ------
+      Net Cash Provided by Operating Activities        738        721
+                                                    -------    ------
+Cash Flows From Investing Activities:
+Proceeds from sales of time deposits and
+marketable securities                                   39         13
+Purchases of time deposits and marketable
+securities                                             (13)        (9)
+Additions to fixed assets                              (91)      (122)
+Proceeds from product divestitures                     180          -
+Other, net                                             (10)       (28)
+                                                    -------    ------
+       Net Cash Provided by (Used in) Investing        105       (146)
+Activities                                          -------    ------
+Cash Flows From Financing Activities:
+Short-term borrowings                                  (58)        59
+Long-term debt                                          (1)        (4)
+Issuances of common stock under stock plans             26        (24)
+Purchases of treasury stock                           (563)      (410)
+Dividends paid                                        (485)      (427)
+                                                    -------    ------
+      Net Cash Used in Financing Activities         (1,081)      (806)
+                                                    -------    ------
+
+Effect of Exchange Rates on Cash                       (14)       (10)
+                                                     ------    ------
+Decrease in Cash and Cash Equivalents                 (252)      (241)
+Cash and Cash Equivalents at Beginning of Period     2,720      2,244
+                                                    -------    ------
+
+Cash and Cash Equivalents at End of Period          $2,468     $2,003
+                                                     ======    ======
+
+The accompanying notes are an integral part of these financial statements.
+
+                                        5
+<PAGE>
+
+                  BRISTOL-MYERS SQUIBB COMPANY
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+    (Unaudited, dollars in millions except per share amounts)
+
+Note 1:   Basis of Presentation
+- -------------------------------
+
+In   the   opinion  of  management,  the  accompanying  unaudited
+consolidated   financial  statements  include   all   adjustments
+(consisting  only  of normal adjustments) necessary  for  a  fair
+presentation  of  the financial position of Bristol-Myers  Squibb
+Company (the "Company") at March 31, 2000 and December 31,  1999,
+the  results of operations for the three months ended  March  31,
+2000  and  1999, and cash flows for the three months ended  March
+31,  2000  and  1999.   These consolidated  financial  statements
+should  be  read  in conjunction with the consolidated  financial
+statements  and the related notes included in the Company's  1999
+Annual  Report  on  Form 10-K.  PricewaterhouseCoopers  LLP,  the
+Company's independent accountants, have performed a review of the
+unaudited consolidated financial statements included herein,  and
+their review report thereon accompanies this filing.
+
+
+Note 2: Earnings Per Share
+- --------------------------
+Basic  earnings per common share are computed using the  weighted
+average  number of shares outstanding during the  year.   Diluted
+earnings per common share are computed using the weighted average
+number   of  shares  outstanding  during  the  year,   plus   the
+incremental shares outstanding assuming the exercise of  dilutive
+stock options.
+
+The  computations for basic earnings per common share and diluted
+earnings per common share are as follows:
+
+                                                    Three Months Ended
+                                                         March 31,
+                                                      2000          1999
+                                                     -----         -----
+Earnings per Common Share  -
+Basic:
+
+Net Earnings                                        $1,221        $1,066
+
+
+Average Common Shares
+Outstanding                                          1,976         1,985
+
+Earnings Per Common Share - Basic                     $.62          $.54
+
+
+                                        6
+<PAGE>
+
+
+                                                     Three Months Ended
+                                                          March 31,
+                                                      2000         1999
+                                                     -----        -----
+Earnings per Common Share -
+Diluted:
+
+Net Earnings                                        $1,221       $1,066
+
+Average Common Shares
+Outstanding                                          1,976        1,985
+Incremental Shares Outstanding
+Assuming the Exercise of
+Dilutive Stock Options                                  33           44
+
+Average Common Shares
+Outstanding                                          2,009        2,029
+
+
+Earnings Per Common Share -                           $.61         $.53
+Diluted
+
+
+Note 3: Restructuring
+- ---------------------
+
+During  the first quarter of 2000, the Company recorded a  pretax
+charge of $120 million in marketing, selling, administrative  and
+other  expenses for restructuring activities. The charge  related
+to   work-force   reductions,  downsizing  and  streamlining   of
+operations  in  certain international markets  and  the  ConvaTec
+business, and the reorganization of the Company's Global Business
+Services.
+
+Of  the  total  restructuring  charge,  $77  million  relates  to
+employee  termination benefits for approximately 1,400 employees.
+The  remaining $43 million represents the closure of  facilities,
+primarily  in  the  ConvaTec business and  certain  international
+markets.  At March 31, 2000, $77 million was included in  accrued
+expenses  related  to these activities.  The Company  expects  to
+substantially complete these restructuring activities by the  end
+of 2000.
+
+
+Note 4: Divestitures
+- --------------------
+
+In  February  2000,  the  Company completed  the  sale  of  three
+pharmaceutical products - Estrace Cream, Ovcon 35 and  Ovcon  50,
+resulting in a pre-tax gain of $120 million.
+
+
+Note 5: Pension Contribution
+- ----------------------------
+
+In  January 2000, the Company made a contribution of $230 million
+to fund its U.S. Retirement Income Plan.
+
+                                        7
+<PAGE>
+
+                Report of Independent Accountants
+
+To the Board of Directors
+and Stockholders of
+Bristol-Myers Squibb Company
+
+We have reviewed the accompanying consolidated balance sheet
+of  Bristol-Myers Squibb Company and its subsidiaries as  of
+March  31,  2000, and the related consolidated statement  of
+earnings and comprehensive income and of cash flows for  the
+three-month  periods ended March 31, 2000  and  1999.  These
+financial statements are the responsibility of the Company's
+management.
+
+We   conducted  our  review  in  accordance  with  standards
+established  by  the American Institute of Certified  Public
+Accountants.   A  review  of interim  financial  information
+consists  principally of applying analytical  procedures  to
+financial  data and making inquiries of persons  responsible
+for  financial  and accounting matters.  It is substantially
+less  in  scope  than an audit conducted in accordance  with
+generally  accepted  auditing standards,  the  objective  of
+which  is  the  expression  of  an  opinion  regarding   the
+financial statements taken as a whole.  Accordingly,  we  do
+not express such an opinion.
+
+Based  on  our  review,  we are not aware  of  any  material
+modifications  that  should  be  made  to  the  accompanying
+consolidated interim financial statements for them to be  in
+conformity with accounting principles generally accepted  in
+the United States.
+
+We  previously audited in accordance with auditing standards
+generally  accepted in the United States,  the  consolidated
+balance  sheet  as  of December 31, 1999,  and  the  related
+consolidated  statements of earnings,  comprehensive  income
+and  retained earnings and of cash flows for the  year  then
+ended  (not  presented  herein), and  in  our  report  dated
+January  24,  2000  we expressed an unqualified  opinion  on
+those consolidated financial statements. In our opinion, the
+information  set  forth  in  the  accompanying  consolidated
+balance  sheet as of December 31, 1999, is fairly stated  in
+all  material  respects  in  relation  to  the  consolidated
+balance sheet from which it has been derived.
+
+
+
+
+PricewaterhouseCoopers LLP
+New York, New York
+April 20, 2000
+
+                                        8
+<PAGE>
+
+Item 2.    Management's Discussion and Analysis of Financial
+      Condition and Results of Operations
+
+First Quarter Results of Operations
+- -----------------------------------
+
+Worldwide sales for the first quarter of 2000 increased  8%  over
+the  prior year to $5,260 million. The consolidated sales  growth
+resulted from a 8% increase due to volume, a 3% increase  due  to
+changes  in  selling  prices and a 3%  decrease  due  to  foreign
+exchange  rate  fluctuations.   U.S.  sales  increased  14%   and
+international  sales  decreased 2% (a 4% increase  excluding  the
+effect of foreign exchange).
+
+Sales  in  the  medicines products segment  (pharmaceuticals  and
+consumer  medicines),  which is the largest  segment  at  72%  of
+total  Company  sales, increased 10% over the  first  quarter  of
+1999  to  $3,783  million.   Sales growth  resulted  from  a  10%
+increase  in  volume, a 3% increase in selling prices  and  a  3%
+decrease  due  to  foreign exchange rate fluctuations.  Worldwide
+pharmaceutical  sales  increased  12%  with  U.S.  pharmaceutical
+sales  up  20%  over  the  prior year. Consumer  medicines  sales
+increased 2% (9% excluding foreign exchange).
+
+GLUCOPHAGE  (metformin), the leading branded oral medication  for
+treatment  of non-insulin dependent (type 2) diabetes,  continued
+its  strong  growth  rate  with  sales  increasing  51%  to  $426
+million.  In  March  2000,  the  U.S.  marketing  exclusivity  of
+GLUCOPHAGE  was extended through September 3, 2000 based  on  the
+Company's  completion  of  pediatric studies  which  qualify  for
+benefits under U.S. research incentive legislation.
+
+Sales of TAXOL* (paclitaxel), the Company's leading anti-cancer
+agent, increased 17% to $385 million.
+PLAVIX,  a  platelet aggregation inhibitor for the reduction  of
+stroke,  heart  attack  and  vascular death  in  atherosclerotic
+patients  with recent stroke, recent heart attack or  peripheral
+arterial  disease,  increased  128%  to  $201  million  for  the
+quarter.   AVAPRO, an angiotensin II receptor  blocker  for  the
+treatment of hypertension, increased 74% to  $87 million. AVAPRO
+and  PLAVIX are cardiovascular products that were launched  from
+the Bristol-Myers Squibb and Sanofi S.A. joint venture.
+
+Sales  of BUSPAR*, an anti-anxiety agent, increased 24% to  $163
+million  following  a  direct-to-consumer campaign  launched  in
+December 1999. The exclusivity period  for BUSPAR expires in May
+2000. Sales of SERZONE*, a novel anti-depressant, increased  38%
+to $87 million.
+
+Sales of the anti-cancer agent PARAPLATIN* increased 7% to  $160
+million  as  the product continues to benefit from  its  use  in
+combination with other chemotherapy agents.
+
+Sales  of  ZERIT*  and VIDEX*, the Company's two  antiretroviral
+agents,  remained at prior year levels of $151 million  and  $45
+million, respectively.
+
+*      Indicates  brand  names  of  products  which  are  registered
+trademarks owned by the Company.
+
+                                        9
+<PAGE>
+
+Sales  of  TEQUIN*, a broad-spectrum fluoroquinolone antibiotic,
+launched  in  December  1999, were $15 million.  In  just  three
+months on the market, TEQUIN has been prescribed to more than
+200,000  people.  In  March 2000, the Company  entered  into  an
+agreement  to  have  Schering-Plough co-promote  TEQUIN  in  the
+United States.
+
+Sales  of Oncology Therapeutics Network, a specialty distributor
+of  anti-cancer  medicines and related  products,  reached  $244
+million, an increase of 21% over the prior year.
+
+Worldwide  sales  of PRAVACHOL*, the Company's  largest  selling
+product, decreased 5% to $461 million for the quarter.
+
+Sales  of  EXCEDRIN* increased 5% to $62 million  and  sales  of
+BUFFERIN* increased 14% (7% excluding foreign exchange)  to  $33
+million.
+
+Earnings  before  taxes  for  the  medicines  products   segment
+increased  17%  to $1,169 million in 2000. As  a  percentage  of
+sales, earnings before taxes for this segment improved to  30.9%
+in  2000 from 29.2% in 1999 primarily due to improvements, as  a
+percentage of sales, in cost of products sold.
+
+Sales  in the beauty care products segment decreased 4% to  $549
+million.  The  decline in sales resulted from a 5%  decrease  in
+volume,  a  1% increase in selling prices and no effect  due  to
+foreign exchange. Haircolor sales increased 3% with increases in
+NICE  'N EASY* of 4% to $48 million and HYDRIENCE* of 9% to  $24
+million.  AUSSIE*  products added $32  million  to  Beauty  Care
+sales, an increase of 10% over the prior year. HERBAL ESSENCES*,
+a  complete  line of shampoos, conditioners, styling aids,  body
+wash  and  facial  care, decreased 5% to $151  million.  Clairol
+continues to be the number one hair products company in the U.S.
+Earnings before taxes for the beauty care segment increased  17%
+to $76 million in 2000 from $65 million in 1999 primarily due to
+a  decrease, as a percentage of sales, in advertising  expenses.
+In  April,  the  Company  reached an agreement  to  sell  Matrix
+Essentials  to Cosmair, Inc., a wholly-owned U.S. subsidiary  of
+L'Oreal  S.A.   The  transaction is expected to  close  sometime
+during the second quarter.
+
+Sales in the nutritional products segment increased 13% to  $506
+million.  Sales growth resulted from a 12% increase in volume, a
+1%  increase  in  selling prices and no effect  due  to  foreign
+exchange   rate   fluctuations.  The  Company's   Mead   Johnson
+subsidiary  continues  to  build  on  its  U.S.  and   worldwide
+leadership position in the infant formula market. ENFAMIL*,  the
+Company's largest-selling infant formula, recorded sales of $204
+million,  an increase of 9% from the prior year.  Adult consumer
+nutritional sales increased 41% as a result of a 39% increase in
+sales  of  BOOST*  to $32 million and $15 million  in  sales  of
+VIACTIV*  Soft  Calcium Chews.  Earnings before  taxes  for  the
+nutritional segment increased to $120 million in 2000 from  $101
+million  in  1999,  and as a percentage of sales,  increased  to
+23.7%  from  22.5%  in 1999 primarily due to a  decrease,  as  a
+percentage  of sales, in cost of products sold and  sales  force
+expenses.
+
+Medical  device segment sales increased 5% to $422 million,  due
+to  volume  increases  of 7% and a 2% decrease  due  to  foreign
+exchange.   Zimmer  sales  increased  9%  to  $260  million  (8%
+excluding  foreign  exchange).   Knee  joint  replacement  sales
+increased  9%  to $102 million, hip replacement sales  increased
+13%  to $80 million and fracture management sales increased  23%
+to  $37 million.  ConvaTec sales decreased 1% to $162 million (a
+4%  increase excluding foreign exchange).  Sales of modern wound
+care  products increased 2% to $57 million (7% excluding foreign
+
+                                        10
+<PAGE>
+
+exchange)  while sales of ostomy products decreased  4%  to  $98
+million.   Earnings before taxes for the medical device  segment
+increased 11% to $80 million in 2000 from $72 million in 1999
+and, as a percentage of sales, increased to 19.0% in  2000 from
+17.9% in 1999, resulting from decreases, as a percentage of
+sales, in research and development expenses.
+
+Operating Expenses
+- ------------------
+
+Total  expenses,  as a percentage of sales, decreased  to  68.1%
+from  69.6% in 1999.  Cost of products sold, as a percentage  of
+sales,  decreased to 26.2% from 26.9% in 1999 primarily  due  to
+product mix.
+
+Marketing,  selling,  administrative and other  expenses,  as  a
+percentage of sales, decreased to 22.1% in the first quarter  of
+2000  from  23.1% in 1999. Also included in marketing,  selling,
+administrative and other expenses were a pre-tax  gain  of  $120
+million from the divestiture of three pharmaceutical products  -
+Estrace  Cream,  Ovcon  35 and Ovcon  50,  and  a  $120  million
+provision for restructuring. The restructuring charge related to
+work-force reductions in certain of the international  medicines
+markets, ConvaTec and the reorganization of the Company's Global
+Business Services. (See also Note 3 to the financial statements)
+
+Expenditures for advertising and promotion in support of new and
+existing products increased 8% to $570 million from $529 million
+in  1999. Research and development expenditures increased 11% to
+$468  million from $423 million in 1999. Pharmaceutical research
+and  development spending increased 13% over the prior year, and
+as  a percentage of pharmaceutical sales, was 12.3% in the first
+quarter  of  2000  and 12.2% in the first quarter  of  1999.  In
+April,  the  Company voluntarily withdrew its current  New  Drug
+Application (NDA) for VANLEV* (omapatrilat) from the  U.S.  Food
+and  Drug  Administration  (FDA). The  Company  now  expects  to
+resubmit  its application early next year. Also, in April  2000,
+the Company resubmitted its NDA to the FDA for UFT(R) capsules for
+use  with leucovorin calcium tablets in the first-line treatment
+of advanced colorectal cancer.
+
+Earnings
+- --------
+
+Earnings  before  income taxes increased 14% to  $1,678  million
+from  $1,476 million in 1999. The effective tax rate on earnings
+before  income  taxes decreased to 27.2% in 2000 from  27.8%  in
+1999. The decrease in the effective tax rate is attributable  to
+higher  operating  earnings from lower  tax  jurisdictions.  Net
+earnings increased 15% to $1,221 million from $1,066 million  in
+1999.  Basic earnings per share increased 15% to $.62 from  $.54
+in  1999  and diluted earnings per share increased 15%  to  $.61
+from $.53 in 1999.
+
+Financial Position
+- ------------------
+
+The  balance sheet at March 31, 2000 and the statement  of  cash
+flows  for  the  three months then ended reflect  the  Company's
+strong financial position.  The Company continues to maintain  a
+high  level of working capital, $3.7 billion at March 31,  2000,
+at approximately the same level as December 31, 1999.
+
+                                        11
+<PAGE>
+
+Long-Term Debt decreased slightly to $1,333 million from  $1,342
+million at December 1999.
+
+Internally generated funds continue to be the Company's  primary
+source  for  financing expenditures for new plant and equipment.
+Net  Cash  Provided  by Operating Activities increased  to  $738
+million in 2000.  Additions to fixed assets for the three months
+ended  March 31, 2000 were $91 million compared to $122  million
+during the same period of 1999.
+
+In  January  2000, the Company made a contribution  of  $230
+million to fund its U.S. Retirement Income Plan.
+
+During  the  three months ended March 31, 2000, the  Company
+purchased 9.9 million shares of its common stock at  a  cost
+of $563 million.
+
+
+Business Segments
+- -----------------
+                                 Three Months Ended March 31,
+                                 ----------------------------
+                                 Net                  Earnings
+                                Sales               Before Taxes
+                           ---------------      ------------------
+                            2000        1999       2000       1999
+                          ------      ------     ------     ------
+      (in millions)
+ Medicines Products       $3,783      $3,431     $1,169     $1,001
+ Beauty Care Products        549         572         76         65
+ Nutritional Products        506         449        120        101
+ Medical Devices             422         402         80         72
+ Other                         -           -        233        237
+                          ------      ------     ------     ------
+ Total Company            $5,260      $4,854     $1,678     $1,476
+                           =====       =====      =====      =====
+
+Included in earnings before taxes of each segment is a  cost
+of capital charge.  The offset to the cost of capital charge
+is   included  in  Other.  In  addition,  Other  principally
+consists  of  interest  income,  interest  expense,  certain
+administrative  expenses  and allocations  to  the  industry
+segments for certain corporate programs. For the first three
+months  of  2000,  Other  also  includes  a  provision   for
+restructuring  of  $120  million and  the  gain  on  product
+divestitures of $120 million. (See also Note 3 and Note 4 to
+the financial statements)
+
+Reference is made to Part II, Item 1 - Legal Proceedings in
+which  developments  are described  for  various  lawsuits,
+claims and proceedings in which the Company is involved.
+
+Forward Looking Information
+- ---------------------------
+
+Certain  statements  in this Form 10-Q may constitute  forward
+looking   statements  within  the  meaning  of   the   Private
+Securities  Litigation  Reform Act of 1995.  These  statements
+involve  a  number of risks, uncertainties and  other  factors
+that  could  cause  actual results to differ  materially  from
+expected  and  historical results. Certain  factors  that  may
+affect the Company's operations and prospects are discussed in
+Exhibit 99 to the Company's Annual Report on Form 10-K for the
+year ended December 31, 1999.
+
+                                        12
+<PAGE>
+
+PART II - OTHER INFORMATION
+- ---------------------------
+
+Item 1.  Legal Proceedings
+- --------------------------
+
+Various  lawsuits,  claims and proceedings of a  nature  considered
+normal  to its business are pending against the Company and certain
+of its subsidiaries.  The most significant of these are reported in
+the  Company's Annual Report on Form 10-K for the fiscal year ended
+December 31, 1999 and any subsequent material developments in  such
+matters are described below.
+
+Breast Implant Litigation
+- -------------------------
+
+As  previously reported in the Company's Annual Report on Form 10-K
+for  the fiscal year ended December 31, 1999, the Company, together
+with  its  subsidiary, Medical Engineering Corporation  (MEC),  and
+certain other companies, has been named as a defendant in a  number
+of  claims  and lawsuits alleging damages for personal injuries  of
+various  types resulting from breast implants formerly manufactured
+by MEC or a related company.
+
+Of  the  more  than 90,000 claims or potential claims  against  the
+Company  in direct lawsuits or through registration in the national
+class action Revised Settlement Program, most have been dealt  with
+through the Revised Settlement, other settlements, or trial.  As of
+May  1,  2000,  the Company's contingent liability  in  respect  of
+breast  implant  claims  was  limited to  residual  unpaid  Revised
+Settlement Program obligations and to roughly 1,550  remaining opt-
+outs who have pursued or may pursue their claims in court.
+
+As  of  May  1,  2000, approximately 5,800 United States  and  200
+foreign  breast  implant  recipients were plaintiffs  in  lawsuits
+pending  in federal and state courts in the United States  and  in
+certain courts in Canada and Australia.  These figures include the
+claims  of  plaintiffs that are in the process  of  being  settled
+and/or  dismissed.  In these lawsuits, about 3,000 U.S. plaintiffs
+and  46  foreign  plaintiffs opted out of the Revised  Settlement.
+The  lawsuits of approximately 2,800 U.S. plaintiffs who  did  not
+opt out are expected to be dismissed as these plaintiffs are among
+the  estimated  74,000  women  with  MEC  implants  who  chose  to
+participate  in the nationwide settlement.  Of the  3,000  opt-out
+plaintiffs, an estimated 1,450 plaintiffs have claims  based  upon
+products  that were not manufactured and sold by MEC or that  have
+been  or  are  in  the process of being settled and/or  dismissed.
+Accordingly,  the number of remaining plaintiffs who have  pursued
+or may pursue their claims in court against the Company is roughly
+1,550 as stated in the preceding paragraph.
+
+Under the terms of the Revised Settlement Program, additional opt-
+outs  are expected to be minimal since the deadline for U.S. claim
+members  to  opt  out  has  passed.  In  addition,  the  Company's
+remaining  obligations  under the Revised Settlement  Program  are
+limited  because most payments to "Current Claimants" have already
+been  made,  no  additional "Current Claims" may be filed  without
+court approval, and because payments of claims to so-called "Other
+Registrants"  and "Late Registrants" are limited by the  terms  of
+the  Revised Settlement Program.  The Company believes it will  be
+able  to  address  remaining opt-out claims as well  as  remaining
+obligations  under  the  Revised  Settlement  Program  within  its
+reserves as described in the Company's Annual Report on Form  10-K
+for the fiscal year ended December 31, 1999.
+
+                                        13
+<PAGE>
+
+On  March  31, 2000, the federal government filed a civil  suit  in
+federal  district  court  in Birmingham, Alabama,  against  several
+parties  in  the breast implant litigation, including the  Company.
+The  government claims it is entitled to reimbursement for  certain
+costs  incurred  in connection with medical treatment  provided  to
+women  with breast implants.  The Company believes it will be  able
+to  address the government lawsuit within its reserves as described
+in  the  Company's Annual Report on Form 10-K for the  fiscal  year
+ended December 31, 1999.
+
+Prescription Drug Litigation
+- ----------------------------
+
+The  Company  remains  a defendant in several  actions  challenging
+pricing  on brand name prescription drugs.  These actions  include:
+several  currently consolidated antitrust actions  brought  against
+the   Company   and   more   than   thirty   other   pharmaceutical
+manufacturers,  drug wholesalers and pharmacy benefit  managers  by
+certain   chain  drugstores,  supermarket  chains  and  independent
+drugstores;  state  pharmaceutical  actions;  and  purported  class
+actions  on  behalf  of consumers.  The Company  will  continue  to
+defend  vigorously  its  position in this  ongoing  litigation  and
+believes it will be able to address all remaining claims within its
+reserves  as described in the Company's Annual Report on Form  10-K
+for the fiscal year ended December 31, 1999.
+
+Infant Formula Matters
+- ----------------------
+
+As  previously reported in the Company's Annual Report on Form 10-K
+for  the fiscal year ended December 31, 1999, the Company,  one  of
+its  subsidiaries, and others have been defendants in a  number  of
+antitrust  actions in various states filed on behalf  of  purported
+statewide classes of indirect purchasers of infant formula products
+and   by   the  Attorneys  General  of  Louisiana,  Minnesota   and
+Mississippi,   alleging  a  price  fixing  conspiracy   and   other
+violations of state antitrust or deceptive trade practice laws  and
+seeking  penalties and other relief.  The Company has resolved  all
+of  these actions. On April 3, 2000, the U.S. Supreme Court decided
+to  let  stand the lower court's decision dismissing a case pending
+in Louisiana, which had been the only open case remaining.
+
+TAXOL* Litigation
+- -----------------
+
+As  previously reported in the Company's Annual Report on Form 10-K
+for  the fiscal year ended December 31, 1999, in 1997 and 1998, the
+Company  filed several lawsuits alleging that a number  of  generic
+drug  companies infringed its patents covering certain  methods  of
+administering  paclitaxel  when they  filed  abbreviated  new  drug
+applications  seeking regulatory approval to sell paclitaxel.   The
+generic drug company defendants are Boehringer Ingelheim Corp.; Ben
+Venue    Laboratories,   Inc.;   Bedford   Laboratories;    Immunex
+Corporation;   Zenith   Goldline   Pharmaceuticals,   Inc.;    Ivax
+Corporation;  Mylan Pharmaceuticals, Inc.; Marsam  Pharmaceuticals,
+Inc.;   and   Schein  Pharmaceuticals,  Inc.  These  actions   were
+consolidated for discovery in the United States District Court  for
+the District of New Jersey.  The Company does not assert a monetary
+claim  against  any  of the defendants, but seeks  to  prevent  the
+defendants from marketing paclitaxel in a manner that violates  the
+Company's patents.  The defendants have asserted that they  do  not
+infringe  the Company's patents and that these patents are  invalid
+and  unenforceable.   Some defendants also  asserted  counterclaims
+seeking  damages  for  alleged  antitrust  and  unfair  competition
+violations.
+
+On January 4, 2000, the District Court granted the Company's motion
+to   dismiss  certain  of  the  antitrust  and  unfair  competition
+counterclaims.   The Company's motion for summary judgment  on  the
+
+                                        14
+<PAGE>
+
+remaining antitrust and unfair competition counterclaims was denied
+on March 17, 2000.
+
+On  February  29,  2000, the District Court  granted  in  part  the
+generic  companies'  summary judgment  motions  for  invalidity  by
+finding  all  claims of the Company's patents invalid,  except  for
+claims  limited to the treatment of ovarian cancer. As a result  of
+this  ruling, the generic companies may obtain U.S. Food  and  Drug
+Administration  approval  to  market paclitaxel  for  treatment  of
+metastatic breast cancer after failure of combination chemotherapy.
+The  District Court's opinion left for determination at  trial  the
+validity of the claims of the Company's patents directed to the low
+dose,  three-hour administration of paclitaxel for  ovarian  cancer
+and  denied the generic companies' summary judgment motion  arguing
+non-infringement of the Company's patents.
+
+In  order  to pursue an immediate appellate review of the  District
+Court's  invalidity findings, the Company voluntarily  relinquished
+all  rights in the remaining ovarian tumor specific claims  of  its
+patents.   On  April  7,  2000,  the  District  Court  granted  the
+Company's   request  for  an  entry  of  judgment.    The   Company
+subsequently  filed  a notice of appeal with  the  Federal  Circuit
+Court  of Appeals.  If the Company is successful on appeal and  the
+trial  that would follow a successful appeal, the Company  believes
+its remaining patent rights would apply to all tumor types.
+
+It  is not possible at this time to make a reasonable assessment of
+the outcome of the appeal and the remaining claims in these actions
+nor to reasonably estimate the impact on TAXOL* sales or the amount
+of damages were the Company not to prevail.
+
+VANLEV* Litigation
+- ------------------
+
+The Company, its Chairman of the Board and Chief Executive Officer,
+Charles  A.  Heimbold,  Jr. and its Chief  Scientific  Officer  and
+President  - Pharmaceutical Research Institute, Peter S.  Ringrose,
+Ph.D., are defendants in a number of purported class actions  filed
+in April and May in the U.S. District Court for the District of New
+Jersey   alleging  violations  of  federal  securities   laws   and
+regulations.    Plaintiffs  claim that the defendants  disseminated
+materially  false and misleading statements and failed to  disclose
+information concerning the safety and expected availability of  its
+product  VANLEV* during the period November 8, 1999  through  April
+19,  2000.   Plaintiffs  seek compensatory damages  and  costs  and
+expenses.
+
+                                        15
+<PAGE>
+
+PART II - OTHER INFORMATION
+- ---------------------------
+
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+- ------------------------------------------------------------
+
+The following matters were voted upon at the Annual Meeting of
+Stockholders held on May 2, 2000, and received the votes set forth
+below:
+
+All of the following persons nominated were elected to serve as
+directors and received the number of votes set opposite their
+respective names:
+
+                                For                   Withheld
+
+     Robert E. Allen          1,385,704,476       250,629,475
+     Lewis B. Campbell        1,389,533,562       246,800,389
+     Laurie H. Glimcher, M.D. 1,388,315,582       248,018,369
+     James D. Robinson        1,384,091,216       252,242,735
+
+
+The appointment of PricewaterhouseCoopers LLP was ratified by  a
+vote  of 1,622,096,652 shares in favor of the appointment,  with
+7,535,257 shares voting against, 6,702,042 shares abstaining and
+there were no broker non-votes.
+
+The   proposal   to  approve  the  Company's  2000  Non-Employee
+Directors'  Stock  Option  Plan  was  approved  by  a  vote   of
+1,463,265,181  shares in favor, with 156,828,923  shares  voting
+against,  16,239,847 shares abstaining and there were no  broker
+non-votes.
+
+The  stockholder-proposed resolution to recommend that the Board
+of  Directors take the necessary steps to reinstate  the  annual
+election  of directors received a vote of 754,765,598 shares  in
+favor, with 581,773,904 shares voting against, 22,762,538 shares
+abstaining and 277,031,911 broker non-votes.
+
+The  stockholder-proposed resolution  requesting  the  Board  of
+Directors  adopt  a  policy  of pharmaceutical  price  restraint
+received   a   vote  of  66,100,719  shares   in   favor,   with
+1,255,878,413   shares   voting   against,   37,412,433   shares
+abstaining and 276,942,386 broker non-votes.
+
+                                        16
+<PAGE>
+
+Item 6.  Exhibits and Reports on Form 8-K
+- -----------------------------------------
+
+a) Exhibits (listed by number corresponding to the Exhibit Table
+of Item 601 in Regulation S-K).
+
+
+Exhibit Number and Description                           Page
+- ------------------------------
+
+10m.   Bristol-Myers Squibb Company 2000
+       Non-Employee  Directors' Stock                   E-10-1
+      Option Plan.
+
+15.  Independent Accountants' Awareness Letter.         E-15-1
+
+27.  Bristol-Myers Squibb Company Financial
+     Data Schedule.                                     E-27-1
+
+
+
+b) Reports on Form 8-K.
+
+On April 19, 2000, the Company filed a current report on Form 8-K
+under Item 5  concerning the withdrawal of its New Drug
+Application (NDA) for VANLEV*.
+
+
+                                        17
+<PAGE>
+
+                                SIGNATURES
+                                ----------
+
+
+
+Pursuant  to  the  requirements of the Securities Exchange  Act  of
+1934,  the  Registrant has duly caused this report to be signed  on
+its behalf by the undersigned thereunto duly authorized.
+
+
+
+
+
+
+                                 BRISTOL-MYERS SQUIBB COMPANY
+                                  (Registrant)
+
+
+
+
+
+
+
+
+Date:  May 15, 2000       By:   /s/ Harrison M. Bains, Jr.
+                                  ------------------------
+
+                                    Harrison M. Bains, Jr.
+                               Vice President and Treasurer
+
+
+
+
+
+
+
+Date:  May 15, 2000       By:   /s/ Frederick S. Schiff
+                                  ---------------------
+                                    Frederick S. Schiff
+                             Senior Vice President - Financial
+                                 Operations and Controller
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<TEXT>
+
+
+
+                       BRISTOL-MYERS SQUIBB COMPANY
+              2000 NON-EMPLOYEE DIRECTORS' STOCK OPTION PLAN
+
+     1.Purpose:
+
+     The  purpose  of  the Bristol-Myers Squibb Company  2000  Non-Employee
+Directors'  Stock  Option Plan ("the Plan") is to secure for  Bristol-Myers
+Squibb  Company  ("the Company") and its stockholders the benefits  of  the
+incentive  inherent in increased common stock ownership by the  members  of
+the  Board  of  Directors  ("the Board") of the Company  who  are  Eligible
+Directors as defined in the Plan.
+
+     2.Administration:
+
+     The Plan shall be administered by the Board.  The Board shall have all
+the  powers  vested in it by the terms of the Plan, such powers to  include
+authority (within the limitations described herein) to prescribe  the  form
+of  the  agreement embodying awards of stock options made  under  the  Plan
+("Options").  The Board shall, subject to the provisions of the Plan, grant
+Options  under the Plan and shall have the power to construe the  Plan,  to
+determine  all  questions arising thereunder and to adopt  and  amend  such
+rules  and  regulations for the administration of the Plan as it  may  deem
+desirable.  Any decision of the Board in the administration of the Plan, as
+described herein, shall be final and conclusive.  The Board may act only by
+a  majority  of its members in office, except that the members thereof  may
+authorize  any one or more of their number or the Secretary  or  any  other
+officer  of the Company to execute and deliver documents on behalf  of  the
+Board.  No member of the Board shall be liable for anything done or omitted
+to be done by such member or by any other member of the Board in connection
+with  the  Plan,  except  for such member's own willful  misconduct  or  as
+expressly provided by statute.
+
+     3.Amount of Stock:
+
+     The  stock  which may be issued and sold under the Plan  will  be  the
+Common  Stock (par value $.10 per share) of the Company, of a total  number
+not  exceeding  750,000  shares,  subject  to  adjustment  as  provided  in
+Paragraph  6  below.  The stock to be issued may be either  authorized  and
+unissued  shares  or  issued  shares  acquired  by  the  Company   or   its
+subsidiaries.  In  the  event that Options granted  under  the  Plan  shall
+terminate  or  expire  without being exercised in whole  or  in  part,  new
+Options may be granted covering the shares not purchased under such  lapsed
+Options.
+
+     4.Eligible Directors:
+
+     The  members of the Board who are eligible to participate in the  Plan
+are  persons who serve as directors of the Company after the effective date
+of the Plan and:
+
+     (a)    who are not current or former employees of the Company and
+
+     (b)     who  are  not  and,  in the past, have not  been  eligible  to
+       receive Options on Company stock by participation as an employee  in
+       another  plan  sponsored  by  the Company  or  under  a  contractual
+       arrangement with the Company.
+
+     5.  Terms and Conditions of Options:
+
+     Each  Option granted under the Plan shall be evidenced by an agreement
+in  such  form as the Board shall prescribe from time to time in accordance
+with the Plan and shall comply with the following terms and conditions:
+
+     (a)     The  Option exercise price shall be the fair market  value  of
+       the  Common  Stock shares subject to such Option  on  the  date  the
+       Option  is granted, which shall be the average of the high  and  the
+       low  sales  prices of a Common Stock share on the date of  grant  as
+       reported on the New York Stock Exchange Composite Transactions  Tape
+       or,  if  the New York Stock Exchange is closed on that date, on  the
+       last  preceding date on which the New York Stock Exchange  was  open
+       for trading.
+
+
+                                        E-10-1
+
+<PAGE>
+
+     (b)      Each  year,  as  of  the  date  of  the  Annual  Meeting   of
+       Stockholders  of the Company, each Eligible Director  who  has  been
+       elected  or reelected or who is continuing as a member of the  Board
+       as  of  the  adjournment of the Annual Meeting  shall  automatically
+       receive an Option Award.  The number of shares to be covered  by  an
+       individual  award  may  not exceed 5,000  shares,  with  such  limit
+       subject to the provisions of Section 6.
+
+     (c)     No Option granted under the Plan shall be transferable by  the
+       optionee  other  than  by  will  or  by  the  laws  of  descent  and
+       distribution,  and  such  Option shall be  exercisable,  during  the
+       optionee's  lifetime,  only  by the optionee.   Notwithstanding  the
+       foregoing,  the Board may set forth in a Stock Option Agreement,  at
+       the   time  of  grant  or  thereafter,  that  the  Options  may   be
+       transferred  to  members  of  the optionee's  immediate  family,  to
+       trusts  solely for the benefit of such immediate family members  and
+       to  partnerships in which such family members and/or trusts are  the
+       only  partners.   For  this  purpose,  immediate  family  means  the
+       optionee's  spouse,  parents, children, stepchildren,  grandchildren
+       and  legal  dependants.   Any transfer of Options  made  under  this
+       provision  will  not be effective until notice of such  transfer  is
+       delivered to the Company.
+
+     (d)  No Option or any part of an Option shall be exercisable:
+
+      (i)  before the Eligible Director has served one term-year as a member of
+          the Board since the date the Option was granted (as used herein, the
+          term "term-year" means that period from one Annual Meeting to the
+          subsequent Annual Meeting),
+
+      (ii)  after the expiration of ten years from the date the Option  was
+      granted,
+
+      (iii)unless,  written  notice of the exercise  is  delivered  to  the
+  Company specifying the
+          number of shares to be purchased and payment in full is made  for
+          the  shares of Common Stock being acquired thereunder at the time
+          of exercise; such payment shall be made
+
+          (A)  in United States dollars by certified check, or bank draft, or
+
+          (B)  by tendering to the Company Common Stock shares owned by the
+               person exercising the Option and having a fair market value
+               equal to the cash exercise price applicable to such Option,
+               such fair market value to be the average of the high and low
+               sales prices of a Common Stock share on the date of exercise
+               as reported on the New York Stock Exchange Composite
+               Transactions Tape or, if the New York Stock Exchange is closed
+               on that date, on the last preceding date on which the New York
+               Stock Exchange was open for trading, or
+
+          (C)by  a  combination of United States dollars and  Common  Stock
+             shares as aforesaid; and
+
+       (iv)     unless  the person exercising the Option has been,  at  all
+          times  during the period beginning with the date of grant of  the
+          Option  and  ending  on  the date of such exercise,  an  Eligible
+          Director of the Company, except that
+
+          (A)if  such  a person shall cease to be such an Eligible Director
+             for  reasons other than retirement or death, while holding  an
+             Option  that has not expired and has not been fully exercised,
+             such  person, at any time within one year after  the  date  he
+             ceases to be such an Eligible Director (but in no event  after
+             the  Option  has expired under the provisions of  subparagraph
+             5(d) (ii) above), may exercise the Option with respect to  any
+             Common  Stock shares as to which such person has not exercised
+             the  Option  on  the  date the person ceased  to  be  such  an
+             Eligible Director; or
+
+          (B)if  such person shall cease to be such an Eligible Director by
+             reason  of  retirement or death while holding an  Option  that
+             has  not  expired  and  has  not been  fully  exercised,  such
+             person,   or   in   the   case  of   death,   the   executors,
+             administrators  or distributees, as the case may  be,  may  at
+             any  time following the date of retirement or death but in  no
+             event  after the expiration of the Option period  set  for  in
+             the  Stock Option Agreement, exercise the Option with  respect
+             to  any shares of Common Stock as to which such person has not
+             exercised the Option on the date the person ceased to be  such
+             an   Eligible  Director,  notwithstanding  the  provisions  of
+             subparagraph 5(e) below.
+
+                                        E-10-2
+<PAGE>
+
+          (C)  if any person who has ceased to be such an Eligible Director for
+             reasons other than death, shall die holding an Option that has not
+             been fully exercised, such person's executors, administrators,
+             heirs or distributees, as the case may be, may, at any time within
+             the greater of
+             (1) one year after the date of death or
+             (2) the remainder for the period in
+             which such person could have exercised the Option had the person
+             not died, (but in no event under either (1) or (2) after the
+             Option has expired under the provisions of subparagraph 5(d) (ii)
+             above), exercise the Option with respect to any shares as to which
+             the decedent could have exercised the Option at the time of death.
+
+             In  the  event  any  Option  is exercised  by  the  executors,
+             administrators, legatees or distributees of the  estate  of  a
+             deceased  optionee, the Company shall be under  no  obligation
+             to  issue  stock  thereunder unless and until the  Company  is
+             satisfied  that  the person or persons exercising  the  Option
+             are  the  duly appointed legal representatives of the deceased
+             optionee's  estate  or  the  proper legatees  or  distributees
+             thereof.
+
+     (e) Subject to subparagraph 5(d) (i) above, one-quarter (25%) of the total
+       number  of shares of Common Stock covered by the Option shall become
+       exercisable beginning on the earlier of (a) the first anniversary date
+       of the grant of the Option or (b) the completion of one term-year
+       following the grant of the Option; thereafter an additional one-quarter
+       (25%) of the  shares  shall become exercisable annually on the earlier
+       of (a)  the anniversary date of the grant of the Option or (b) the
+       completion of an additional term-year of service as a member of the
+       Board.
+
+     (f) Notwithstanding anything to the contrary herein,if an Option has been
+       transferred  in  accordance with Section 5(c), the Option  shall  be
+       exercisable solely by the transferee.  The Option shall remain subject
+       to the provisions of the Plan, including that it will be exercisable
+       only to the extent that the optionee or optionee's estate would have
+       been entitled to exercise it if the optionee had not transferred the
+       Option.  In the event of the death of the transferee prior to the
+       expiration of the right to exercise the Option, the Option shall be
+       exercisable by the executors,administrators, legatees and distributees
+       of the transferee's estate, as the  case may be for a period of one year
+       following the date of the transferee's death but in no event be
+       exercisable after the expiration of the Option period set forth in the
+       Stock Option Agreement. The Option shall be subject to such other rules
+       as the Board shall determine.
+
+     6.Adjustment in the Event of Change in Stock:
+
+     In the event of changes in the outstanding Common Stock of the Company
+by  reason  of stock dividends, recapitalizations, mergers, consolidations,
+split-ups, combinations or exchanges of shares and the like, the  aggregate
+number  and  kind of shares available under the Plan, and the number,  kind
+and  price  of shares subject to outstanding Options shall be appropriately
+adjusted by the Board, whose determination shall be conclusive.
+
+     7.Miscellaneous Provisions:
+
+     (a)     Except  as  expressly provided for in the  Plan,  no  Eligible
+       Director  or  other  person shall have any  claim  or  right  to  be
+       granted  an Option under the Plan.  Neither the Plan nor any  action
+       taken  hereunder shall be construed as giving any Eligible  Director
+       any right to be retained in the service of the Company.
+
+     (b)  Except as provided for under Section 5(c), an optionee's rights and
+       interest under the Plan may not be assigned or transferred in whole or
+       in part either directly or by operation of law or otherwise (except in
+       the event  of  an  optionee's death, by will or the laws of descent and
+       distribution), including, but not by way of limitations, execution,
+       levy, garnishment, attachment, pledge, bankruptcy or in any other
+       manner, and no such right or interest of any participant in the Plan
+       shall be subject to any obligation or liability of such participant.
+
+    (c)  No Common Stock shares shall be issued hereunder unless counsel for
+      the Company shall be satisfied that such issuance will be in compliance
+      with applicable federal, state and other securities laws and regulations.
+
+                                        E-10-3
+<PAGE>
+
+
+    (d)  It shall be a condition to the obligation of the Company to issue
+      Common Stock shares upon exercise of an Option, that the optionee (or any
+      beneficiary or person entitled to act under subparagraph 5(d) (iv) above)
+      pay to the Company, upon its demand, such amount as may be requested by
+      the Company for the purpose of satisfying any liability to withhold
+      federal,state, local or foreign income or other taxes.  If the amount
+      requested is not paid, the Company may refuse to issue Common Stock
+      shares.
+
+     (e)  The expenses of the Plan shall be borne by the Company.
+
+     (f)     The Plan shall be unfunded.  The Company shall not be required
+       to  establish  any  special or separate fund or to  make  any  other
+       segregation  of  assets  to  assure  the  issuance  of  shares  upon
+       exercise  of  any Option under the Plan and issuance of shares  upon
+       exercise  of  Options  shall be subordinate to  the  claims  of  the
+       Company's general creditors.
+
+     (g)     By  accepting any Option or other benefit under the Plan, each
+       optionee  and  each  person claiming under or  through  such  person
+       shall  be  conclusively deemed to have indicated his acceptance  and
+       ratification of, and consent to, any action taken under the Plan  by
+       the Company or the Board.
+
+     8.Amendment or Discontinuance:
+
+     The Plan may be amended at any time and from time to time by the Board
+as the Board shall deem advisable, including, but not limited to amendments
+necessary to qualify for any exemption or to comply with applicable law  or
+regulations  provided,  however, that except as  provided  in  Paragraph  6
+above,  the Board may not, without further approval by the shareholders  of
+the  Company  in accordance with Paragraph 10 below, increase  the  maximum
+number  of shares of Common Stock as to which Options may be granted  under
+the  Plan,  increase the number of shares subject to an Option, reduce  the
+minimum Option exercise price described in subparagraph 5(a) above,  extend
+the  period during which Options may be granted or exercised under the Plan
+or  change the class of persons eligible to receive Options under the Plan.
+No amendment of the Plan shall materially and adversely affect any right of
+any  optionee  with respect to any Option theretofore granted without  such
+optionee's written consent.
+
+     9.   Termination:
+
+     This  Plan shall terminate upon the earlier of the following dates  or
+events to occur:
+
+     (a)   upon  the adoption of a resolution of the Board terminating  the
+     Plan; or
+
+     (b)ten  years  from the date the Plan is initially  approved
+        and  adopted  by  the  shareholders  of  the  Company  in
+        accordance with Paragraph 10 below.
+
+    10.Effective Date of Plan:
+
+    The  Plan  shall become effective as of May 2, 2000 or such later  date
+as  the Board may determine, provided that the Company's stockholders shall
+have adopted the Plan at the Company's 2000 Annual Meeting of Stockholders.
+
+                                        E-10-4
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-15
+<SEQUENCE>3
+<TEXT>
+
+
+
+
+                                                  Exhibit No. 15
+
+
+ May 15, 2000
+
+
+
+ Securities and Exchange Commission
+ 450 Fifth Street, N.W.
+ Washington, D.C. 20549
+
+ Commissioners:
+
+ We  are  aware  that our report dated April  20,  2000  on  our
+ review   of  interim  financial  information  of  Bristol-Myers
+ Squibb  Company (the "Company") as of and for the period  ended
+ March  31, 2000 and included in the Company's quarterly  report
+ on  Form  10-Q  for the quarter then ended is  incorporated  by
+ reference  in  its Registration Statements on  Form  S-8  (Nos.
+ 33-30856,  33-38411,  33-38587, 33-44788, 333-47403,  33-52691,
+ 33-58187  and  333-02873), Post-Effective Amendment  No.  2  on
+ Form  S-8  (No. 33-30756-02) to Form S-4 (No. 333-09519),  Form
+ S-3  (Nos.  33-33682 and 333-49227) and Pre-Effective Amendment
+ No. 1 on Form S-3 (No. 33-62496).
+
+ Such  report  is  not a "report" or "part"  of  a  registration
+ statement  prepared or certified by PricewaterhouseCoopers  LLP
+ within  the meaning of Sections 7 and 11 of the Securities  Act
+ of  1933  and  the  independent  accountants'  liability  under
+ Section 11 does not extend to such report.
+
+
+ Yours very truly,
+
+
+
+ PricewaterhouseCoopers LLP
+ New York, New York
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        E-15-1
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+Exhibit 27 for Bristol-Myers Squibb
+</LEGEND>
+<MULTIPLIER> 1000000
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000<F1>
+<PERIOD-END>                               MAR-31-2000
+<CASH>                                            2468
+<SECURITIES>                                       212
+<RECEIVABLES>                                     3349<F2>
+<ALLOWANCES>                                         0
+<INVENTORY>                                       2046
+<CURRENT-ASSETS>                                  9046
+<PP&E>                                            7833
+<DEPRECIATION>                                    3283
+<TOTAL-ASSETS>                                   17036
+<CURRENT-LIABILITIES>                             5317
+<BONDS>                                           1333
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           219
+<OTHER-SE>                                        8590
+<TOTAL-LIABILITY-AND-EQUITY>                     17036
+<SALES>                                           5260
+<TOTAL-REVENUES>                                  5260
+<CGS>                                             1379
+<TOTAL-COSTS>                                     1379
+<OTHER-EXPENSES>                                  1038
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                  27
+<INCOME-PRETAX>                                   1678
+<INCOME-TAX>                                       457
+<INCOME-CONTINUING>                               1221
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                      1221
+<EPS-BASIC>                                        .62
+<EPS-DILUTED>                                      .61
+<FN>
+<F2>Receivables are reported net of allowances for doubtful accounts
+<F1>Items reported as "zero" are not applicable or are immaterial to the
+consolidated financial position of the company
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
